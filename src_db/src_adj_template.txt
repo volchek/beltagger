@@ -1,0 +1,8 @@
+1	ы а€ ае ага ай ае ага аму ай аму ую ае ым ай аю ым ым ай ым ы€ ых ым ым≥	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
+2	≥ а€ ае ага ай ае ага аму ай аму ую ае ≥м ай аю ≥м ≥м ай ≥м ≥€ ≥х ≥м ≥м≥	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
+3	≥ а€ ое ога ой ое ога ому ой ому ую ое ≥м ой ою ≥м ≥м ой ≥м ≥€ ≥х ≥м ≥м≥	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
+4	≥ €€ €е €га €й €е €га €му €й €му юю €е ≥м €й €ю ≥м ≥м €й ≥м ≥€ ≥х ≥м ≥м≥	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
+5	ы а€ ое ога ой ое ога ому ой ому ую ое ым ой ою ым ым ой ым ы€ ых ым ым≥	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
+6	Ґ вага ваму вым ва вай вае ву ваю ва вага ваму вым вы вых вым вым≥	msNA msGA msD msIL fsN fsGDIL fsG fsA fsI nsNA nsGA nsD nsIL 0pNA 0pGAL 0pD 0pI
+7	 ага аму ым а ай ае у аю а ага аму ым ы ых ым ым≥	msNA msGA msD msIL fsN fsGDIL fsG fsA fsI nsNA nsGA nsD nsIL 0pNA 0pGAL 0pD 0pI
+8	ен на на ны	ms:sh fs:sh ns:sh 0p:sh

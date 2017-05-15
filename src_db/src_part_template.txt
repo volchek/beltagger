@@ -1,0 +1,3 @@
+1	ы а€ ае ага ай ае ага аму ай аму ую ае ым ай аю ым ым ай ым ы€ ых ым ым≥  а а ы	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI ms:sh fs:sh ns:sh 0p:sh
+2	ы а€ ае ага ай ае ага аму ай аму ую ае ым ай аю ым ым ай ым ы€ ых ым ым≥	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
+3	ыс€ а€с€ аес€ агас€ айс€ аес€ агас€ амус€ айс€ амус€ уюс€ аес€ ымс€ айс€ аюс€ ымс€ ымс€ айс€ ымс€ ы€с€ ыхс€ ымс€ ым≥с€	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI

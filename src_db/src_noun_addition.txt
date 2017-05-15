@@ -1,0 +1,973 @@
+выраз	N	 а у ам е ы аҐ ам ам≥ ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+
+хедэр	N	 а у ам ы ы аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+неҐр	N	 а у ам ы ы аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+кам≥сарж	N	 а у ам ы ы аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+
+ц≥ск	N	 а у ам у	m:sNA m:sG m:sD m:sI m:sL
+слых	N	 а у ам у	m:sNA m:sG m:sD m:sI m:sL
+
+суперн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+вершн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+правапрым€н€льн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+пан≥чык	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+каравульн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+ешыботн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+спакушальн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+спав≥вальн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+запрашальн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+адпачывальн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+застольн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+штурхальн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+мараз≥льн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+складн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+маб≥льн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+далькажык	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+фартук	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+
+1-класн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+2-класн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+3-класн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+4-класн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+5-класн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+6-класн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+7-класн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+8-класн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+9-класн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+10-класн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11-класн≥к	N	 а у ам у ≥ аҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+
+гарадчук	N	 а у ом у ≥ оҐ ам ам≥ ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+
+пан≥ч	N	ок ка ку ком ку к≥ коҐ кам кам≥ ках	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+брат	N	ок ка ку ком ку к≥ коҐ кам кам≥ ках	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+
+стасун	N	ак ка ку кам ку к≥ каҐ кам кам≥ ках	m:sNA m:sG m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+нак≥рун	N	ак ка ку кам ку к≥ каҐ кам кам≥ ках	m:sNA m:sG m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+
+раҐнд	N	 а у ам зе ы аҐ ам ам≥ ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+радыенукл≥д	N	 а у ам зе ы аҐ ам ам≥ ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+
+адкравенн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+адшуканн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+апасенн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+дазнанн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+знаменн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+зычанн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+зычэнн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+крананн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+л≥ставанн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+м€ркаванн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+павучэнн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+пагружэнн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+пакушэнн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+прыц€сненн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+разрушэнн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+расследванн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+суб€седаванн	N	е € ю ем ≥ ≥ €Ґ €м €м≥ €х	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+
+абав€занн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+абвешчанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+абворванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+абезжалезванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+аб≥лечванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+абл≥чбаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+абл≥чэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+абм€рэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+абна€Ґленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+абна€Ґл≥ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+абрушванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+абсмажанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+абшчыпванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+аб€спыльванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+аб€сс≥льванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адабранн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адарванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адв€ржэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ад'еханн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адкатванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адкладванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адладжванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адлушчванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адмыванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адпуджванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адсочванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адстараненн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адурачванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адхланн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адчыненн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+адыходжанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+азнаменаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+акручванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+акрыленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+акрэсл≥ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+актыв≥заванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+акумул€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+акцы€наванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+алк≥л≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+амыванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+анал≥заванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ананс≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+апераджэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+апрак≥дванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+апытванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+асв€шчэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+аснаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+астуджэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ацаленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ацап€ненн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ацверазенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ацв€рджэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ацынкоҐванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ачуванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ашкленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+бабахканн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+базаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+балатаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+бамбаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+бетан≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+блакаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+богаҐцелаҐленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+бразгаценн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+буркатанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+б€здзейн≥чанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+валадаранн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+варагаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+вентыл€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+в≥навачанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+вуркаценн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+выгаленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+выдзьмуванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+выканн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+выкарыстоҐванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+выкупл≥ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+выраҐнаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+высвечванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+высыланн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+выцверазенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+вычарпанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+гандл€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+гергетанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+груканн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+грэбанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+грэйдз≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+дабраславенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+дагадоҐванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+даданн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+дал≥чэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+дам≥н≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+данал≥чэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+даражэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+дбанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+дрэн≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+дыверс≥ф≥каванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ды€гнаставанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+дэкарыраванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+дэсантаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+забвенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+заб€сп€чэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+завабл≥ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+заводаҐпраҐленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+загавенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+загойдванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+загусценн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+задзейн≥чанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+задурванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+замкненн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+зарабл€нн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+заручэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+застрашанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+засуджванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+засушэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+зас€роджанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+затарванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+затачэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+затлуменн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+зацверджанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+зацв€рджэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+зачапленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+зачыненн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+зв€канн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+зв€ртанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+здзекванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+змаҐчанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+змеркаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+змоҐчанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+зоркаҐтварэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+з'€дзенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+≥льгатаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+≥нвеставанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+≥н≥цы€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+кадаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+калекцы€наванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+кампенсаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+канверсаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+канвертаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+кандыцы€наванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+кантактаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+канюшынн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+кап≥€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+карэг≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+качэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+кватараванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+квац≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+квашанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+квашэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+клацанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+колераҐспрыманн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+коранеҐтварэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+крывапусканн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+крыв€тварэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+куг≥канн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+кумленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+купажыраванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+куп≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+курсаҐтварэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+лаб≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+лекаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+л≥цэнзаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+л≥чбаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+льгатаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ман≥пул€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ман≥тарыраванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+мантажаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+мацюканн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+мел≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+метастазаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+м≥кратунэл€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+м≥кшаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+муканн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+муркатанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+навучэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+надаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+назапашванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+найменаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+наклейванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+нам≥н≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+насыланн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+наталенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+нац€гненн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+неператраҐл≥ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+неҐрэгул€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+неҐтрыманн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+н≥вел€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+н€дужанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+паб≥ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пабранн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пав€л≥чэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+паган€нн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+падаражэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пада€нн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+падваконн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+падз€ленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+падманьванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+падтапленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+паз≥цы€наванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+паз≥цы€н≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пазначэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пак≥данн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пакл≥канн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пакусванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+панаҐленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+параҐн≥нн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+паседжанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пастогванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+патрасенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+паҐставанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пахрапванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пахрустванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пацвельванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пацверджанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пашкоджванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+па€сненн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пераасведчанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+перадаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+перазалужэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пераназванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+перанайменаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+перапраф≥л€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пераследаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пераҐстал€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+перац€канн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+п≥ваваранн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+п≥ленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+плюшчанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прагназаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+праграмаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прагрэсаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прадз€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прадуцыраванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+пра≥грыванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прал≥чванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прамаҐленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прапампоҐванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прахаджэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+працепл≥ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прачынанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+протаҐзаемадзе€нн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прыданн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прыпуханн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прытарможванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прэм≥€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+прэсаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+разварушэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+разжыжэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+разл≥званн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+разм≥наванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+разрул≥ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+разрульванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ранжыраванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+раскайванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+раскрыванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+рассакрэчванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+рассмактанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+руканн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+румзанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+рушанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+рыбачанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+самаҐзгаранн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+светаҐладкаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+сертыф≥каванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+сжыванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+скалалазанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+скапленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+склераз≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+скупаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+следаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+солеҐтварэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+спанс≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+спаражэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+спарыванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+спатоленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+спаҐненн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+сп≥льванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+спрацоҐванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+стракаценн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+страсенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+страчванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+структураванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+стэнтаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+стэнц≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+субс≥ды€ванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+судаҐладкаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+сумаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+сум≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+таргаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+траҐмаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+трыньканн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+турбаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+тып≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+тыражыраванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+тэлефанаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+тэставанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+уваскрасенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+уваскрэшанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ув€данн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+удаҐленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+узаемадзейн≥чанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+узвешванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+узрушанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+укрыжаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ун≥ф≥каванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+упакаенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ускрыванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+уцелаҐленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+уцэркаҐленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+учыненн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+фандаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+фасаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+хварэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+х≥траванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+хларыраванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+цв≥рканн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+чваканн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+чуванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+чыпаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+шабуршэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+шарсц≥нн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+швэнданн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+шлюбаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+шунц≥раванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+шчымленн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+шыпав≥нн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+экспертаванн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+
+успрын€цц	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+
+расп≥цц	N	е Є € ю ем ≥	n:sNA n:sNA n:sG n:sD n:sI n:sL
+
+Ѕлагавешчанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ƒабравешчанн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+¬азн€сенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+ѕраабражэнн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+”спенн	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+
+5-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+6-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+7-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+8-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+9-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+10-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+11-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+12-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+13-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+14-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+15-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+16-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+17-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+18-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+19-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+20-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+25-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+30-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+35-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+40-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+45-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+50-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+55-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+60-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+65-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+70-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+75-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+80-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+85-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+90-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+95-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+100-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+105-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+110-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+115-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+120-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+125-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+130-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+135-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+140-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+145-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+150-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+155-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+160-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+165-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+170-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+175-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+180-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+185-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+190-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+195-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+200-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+210-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+220-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+230-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+240-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+250-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+260-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+270-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+280-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+290-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+300-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+350-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+400-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+450-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+500-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+540-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+550-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+600-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+650-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+700-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+750-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+800-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+850-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+880-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+900-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+950-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+990-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+1000-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+1020-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+1150-годдз	N	е € ю ем ≥	n:sNA n:sG n:sD n:sI n:sL
+
+акц€брацтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+апостальств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+арганазнаҐств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+аслушэнств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+ахоҐн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+багахульств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+балабольств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+беларусазнаҐств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+беспам€цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+блажэнств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+буржуйств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+быдл€цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+б€здумств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+валадарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+валанцЄрств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+валачобн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+вальналюбств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+вартаҐн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+ва€рств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+верхавенств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+весн€н≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+в≥льнезнаҐств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+вымагальн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+вычварэнств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+гасподств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+графаманств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+гусарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+дабрадзенств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+дабрын€любств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+двайн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+дыс≥дэнцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+дэпутацтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+Єлупств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+жывЄлаводств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+зам€шальн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+занудств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+змоҐн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+кадэцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+калектарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+кара≥мств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+к≥натэлеаператарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+кулачаств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+л≥дарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+людств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+малжэнств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+ментарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+м≥цкев≥чазнаҐств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+Ќайсв€цейшаств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+народазнаҐств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+насенневодств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+непаслухм€нств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+непатрэбств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+пал≥глоцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+палкоҐн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+пасобн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+пацукоҐств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+першасв€ц≥цельств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+плытагонств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+плюгаҐств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+полацказнаҐств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+прафанств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+працалюбств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+прэм'ерств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+разб≥ральн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+разбуральн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+разнадумств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+рукапрыкладн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+рэйдарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+садаводств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+салдацтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+самаедств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+св€тарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+—в€цейшаств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+скарбашукальн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+скарыназнаҐств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+сласталюбств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+спадкаемств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+спажывецтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+спонсарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+стоҐпн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+стукацтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+судаходств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+суз≥ральн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+суперн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+трэнерств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+тынэйджэрств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+уладарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+хакерств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+чынавенств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+чынапаклонств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+шапавальств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+шапказак≥дальн≥цтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+шкларобств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+шматдумств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+шматжонств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+шумахерств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+€нычарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+кам≥сарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+чалавекан€любств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+уц€кацтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+зв€рынств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+лекарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+жаноцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+кампанейств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+мужыцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+дз€ньгубств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+неслухм€нств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+германств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+вобчаств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+выгнанств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+
+гаспадарств	N	а а у ам е ы аҐ ам ам≥ ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+гасударств	N	а а у ам е ы аҐ ам ам≥ ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+палпрэдств	N	а а у ам е ы аҐ ам ам≥ ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+ум€шальн≥цтв	N	а а у ам е ы аҐ ам ам≥ ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+хадатайн≥цтв	N	а а у ам е ы аҐ ам ам≥ ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+уб≥йств	N	а а у ам е ы аҐ ам ам≥ ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+упушчэнств	N	а а у ам е ы аҐ ам ам≥ ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+разбойств	N	а а у ам е ы аҐ ам ам≥ ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+прыгоств	N	а а у ам е ы аҐ ам ам≥ ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+
+вучнЄ	N	Ґка Ґк≥ Ґцы Ґку Ґкай Ґкаю Ґк≥ вак Ґкам Ґкам≥ Ґках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+ста	N	Ґка Ґк≥ Ґцы Ґку Ґкай Ґкаю Ґк≥ вак Ґкам Ґкам≥ Ґках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+двухпакаЄ	N	Ґка Ґк≥ Ґцы Ґку Ґкай Ґкаю Ґк≥ вак Ґкам Ґкам≥ Ґках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+трохпакаЄ	N	Ґка Ґк≥ Ґцы Ґку Ґкай Ґкаю Ґк≥ вак Ґкам Ґкам≥ Ґках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+чатырохпакаЄ	N	Ґка Ґк≥ Ґцы Ґку Ґкай Ґкаю Ґк≥ вак Ґкам Ґкам≥ Ґках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+
+зн≥ж	N	ка к≥ цы ку кай каю к≥ ак кам кам≥ ках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+груш	N	ка к≥ цы ку кай каю к≥ ак кам кам≥ ках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+адрын	N	ка к≥ цы ку кай каю к≥ ак кам кам≥ ках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+брашур	N	ка к≥ цы ку кай каю к≥ ак кам кам≥ ках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+
+1-класн≥ц	N	а ы ы у ай аю ы  аҐ ам ам≥ ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+2-класн≥ц	N	а ы ы у ай аю ы  аҐ ам ам≥ ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+3-класн≥ц	N	а ы ы у ай аю ы  аҐ ам ам≥ ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+4-класн≥ц	N	а ы ы у ай аю ы  аҐ ам ам≥ ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+5-класн≥ц	N	а ы ы у ай аю ы  аҐ ам ам≥ ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+6-класн≥ц	N	а ы ы у ай аю ы  аҐ ам ам≥ ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+7-класн≥ц	N	а ы ы у ай аю ы  аҐ ам ам≥ ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+8-класн≥ц	N	а ы ы у ай аю ы  аҐ ам ам≥ ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+9-класн≥ц	N	а ы ы у ай аю ы  аҐ ам ам≥ ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+10-класн≥ц	N	а ы ы у ай аю ы  аҐ ам ам≥ ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+11-класн≥ц	N	а ы ы у ай аю ы  аҐ ам ам≥ ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+
+рэтынапаты	N	€ ≥ ≥ ю €й €ю	f:sN f:sG f:sDL f:sA f:sI f:sI
+энцэфалапаты	N	€ ≥ ≥ ю €й €ю	f:sN f:sG f:sDL f:sA f:sI f:sI
+
+в≥тальн	N	€ ≥ ю €й €ю ≥ €Ґ €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+вучэльн	N	€ ≥ ю €й €ю ≥ €Ґ €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+л€карн	N	€ ≥ ю €й €ю ≥ €Ґ €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+распранальн	N	€ ≥ ю €й €ю ≥ €Ґ €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+апачывальн	N	€ ≥ ю €й €ю ≥ €Ґ €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+
+акрэдытацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+актуал≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+алапецы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+алкагал≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+ардынацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+арх≥вацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+атэ≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+аҐтэнтыф≥кацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+беатыф≥кацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+бумажэнцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+в≥зуал≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+гамаген≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+даларызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+дыспансэрызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+дэдаларызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+дэзынфармацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+дэзынфекцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+дэменцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+дэмеркурызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+дэпал≥тызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+дэтакс≥кацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+дэтэкцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+дэфрагментацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+евангел≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+≥мплементацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+≥нвал≥дызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+≥нжэкцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+≥н≥цы€цы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+≥нкарнацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+≥нтран≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+≥нтэнцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+≥нтэрнэтызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+≥нэрцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+камп'ютарызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+канверсацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+л≥пасакцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+мальабсорбцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+манетызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+марг≥нал≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+мемары€л≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+м≥н≥мал≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+м≥н≥м≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+перэгрынацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+прагматызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+пратэстацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+праф≥л≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+прым≥тыв≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+прыхватызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+прэюдыцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+раф≥нацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+рацы€нал≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+рэ≥нкарнацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+рэструктурызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+сертыф≥кацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+субкантракцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+транкв≥л≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+трансл≥тэрацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+фл≥керызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+фундаментал≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+фундацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+холдынг≥зацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+чэдэрызацы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+штукенцы	N	€ ≥ ю €й €ю ≥ й €м €м≥ €х	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+
+абароненасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+абаснаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+абачл≥васц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+аберагальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+абнаҐл€льнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+абранасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+адвучанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+адлучанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+адмежаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+адмеранасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+адх≥ленасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+акалеласц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+акупл€льнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+альтэрнатыҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+амб≥цыйнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+анан≥мнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+андэграҐнднасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+арыентаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+асаб≥стасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+атэ≥стычнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+ацалеласц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+безальтэрнатыҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+беларускамоҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+беларускасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+бесшабашнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+бл≥засц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+б€люткасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+б€сталентнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+вал≥днасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+вары€тыҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+вераб'≥насц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+ветранасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+в≥дов≥шчнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+в≥душчасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+в≥ноҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+в≥хурнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+выбранасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+выверанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+вывернутасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+выключанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+выкшталцонасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+вын≥ковасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+выражанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+выц€гнутасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+выц€тасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+вычарпанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+вышэйшасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+вы€Ґл€емасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+в€сЄласц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+галоснасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+гарантаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+гламурнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+глыб≥ннасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+гнюснасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+гожасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+грахоҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+густоҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+гучальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+дадзенасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+далучанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+дарэчнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+датацыйнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+двурушнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+двухгадовасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+двухслойнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+другасортнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+дыскус≥йнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+дэманстратыҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+еҐрапейскасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+жаласц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+жыцц€дайнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+заангажаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+заахвочанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+забаҐл€льнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+забытасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+заземленасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+зайздрасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+закамплексаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+закладзенасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+закончанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+закрытасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+закрэдытаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+заношанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+запаведнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+запам≥нальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+запатрабаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+запаҐн€льнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+зарэгул€ванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+засакрэчанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+заста€ласц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+затуманенасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+захворваемасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+зацененасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+зац≥снутасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+зацыкленасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+зашоранасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+злавокасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+знакавасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+зоркавасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+з€бкаватасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+≥дэалаг≥заванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+≥навацыйнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+≥ншасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+≥сц≥ннасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+камернасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+кампл≥ментарнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+камун≥кабельнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+камфортнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+канкурэнтнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+канстытуцыйнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+канф≥дэнцыйнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+канф≥дэнцы€льнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+капрызл≥васц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+карнавальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+карумпаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+карупцы€геннасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+катэгарыйнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+кепскасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+кранальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+лаб≥рынтнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+леварукасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+легенднасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+лег≥тымнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+лЄжкасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+лозунгавасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+манументальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+мары€нетачнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+медыйнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+медытатыҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+меладыйнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+метражнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+м≥рнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+м€рзотнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+нав€зл≥васц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+намоленасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+наскокл≥васц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+неабазнанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+недагрэтасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+недапрацаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+недасказанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+незапатрабаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+незахаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+незм≥нальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+не≥дэальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+не≥нфармаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+неканстытуцыйнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+непаражальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+непаҐнавартаснасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+непераноснасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+неперпендыкул€рнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+непраб≥вальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+непра€Ґленасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+непрыдуманасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+нерукатворнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+нерэал≥заванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+нетаропкасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+н≥€касц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+нованароджанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+н€змушанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+н€рэйтынгавасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+н€шчаснасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+падвоенасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+пад'Ємнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+падключанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+падступнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+пакл≥канасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+палоснасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+памежнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+пас≥€нарнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+патаемнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+паҐнаватасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+пекнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+перааснашчанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+перавернутасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+першароднасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+першастваральнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+п≥рагеннасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+пладаноскасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+плыннасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+прав≥нцыйнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+прадавальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+прадказальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+прадстаҐленасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+прадстаҐн≥часц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+празарл≥васц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+прасмажанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+прасунутасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+прыкладальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+прымеркаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+прыроднасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+пры€рытэтнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+прэцэдэнтнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+пульхнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+раздольнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+размежаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+размешчанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+разн€воленасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+раскрывальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+раструшчанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+растурзанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+расц€рушанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+роднаснасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+роспачнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+рускамоҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+рэг≥€нальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+рэдукаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+рэзервовасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+савецкасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+сакральнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+самаакупл€льнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+самадастатковасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+самапашыральнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+светлавокасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+светланоснасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+сволачнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+св€тлопрапускальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+спалоханасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+сп≥ртознасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+спраҐджальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+статкавасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+страчанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+структурал≥заванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+стыласц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+супамернасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+супастаҐл€льнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+сурочанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+сц≥шанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+сцюжнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+сэксап≥льнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+сэнсоҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+танцавальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+тлумнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+тра≥чнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+транспарэнтнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+трохмернасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+тутэйшасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+узважанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+узмыленасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+узнаҐл€льнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+украдл≥васц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+уладкаванасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+улюбЄнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+уражанасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+уседазволенасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+усмоктвальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+ус€веднасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+учарнеласц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+фарматнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+феерычнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+х≥жасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+хуткапсавальнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+хуткастрэльнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+царкоҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+цудатворнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+цытуемасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+чысцюткасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+шл€хецкасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+шматабл≥чнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+шматвалютнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+шматвектарнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+шматдумнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+шматстайнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+шматсэнсоҐнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+шчымл≥васц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+экалаг≥чнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+электаральнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+эмацыйнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+эпатажнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+юнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI
+€мачнасц	N	ь ≥ ю	f:sNA f:sGDL f:sI

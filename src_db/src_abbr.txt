@@ -1,0 +1,65 @@
+עûס	עûסÿקא	NumCard:Abbr
+לכם	ל³כü¸ם	NumCard:Abbr
+לכנה	ל³כüÿנה	NumCard:Abbr
+ענכם	ענûכü¸ם	NumCard:Abbr
+³םר	³םרû	Pron:det:0
+ד	דמה	N:Abbr
+ד	דנאל	N:Abbr
+ד	דמנאה	N:Abbr
+דד	דמה	N:Abbr
+סע	סעאדמההחו	N:Abbr
+לל	ל³כ³לוענ	N:Abbr
+סל	סאםעûלוענ	N:Abbr
+ךל	ך³כאלוענ	N:Abbr
+ךד	ך³כאדנאל	N:Abbr
+לכ	ל³כ³כ³ענ	N:Abbr
+Âע	גאע	N:Abbr
+ךÂע	ך³כאגאע	N:Abbr
+ÌÂע	לודאגאע	N:Abbr
+ÃÂע	ד³דאגאע	N:Abbr
+גףכ	גףכ³צא	N:Abbr
+ךג	ךגאע‎נא	N:Abbr
+ע‎כ	ע‎כופמם	N:Abbr
+נאיןא	נאיןא	N:Abbr
+גםף	גםף	N:Abbr
+צ/דא	צ/דא	N:Abbr
+ל/ס	ל/ס	N:Abbr
+ךל/ד	ךל/ד	N:Abbr
+ךל/דאהח	ךל/דאהח	N:Abbr
+לד/הכ	לד/הכ	N:Abbr
+ללמכü/כ	ללמכü/כ	N:Abbr
+Ãב³ע/ס	Ãב³ע/ס	N:Abbr
+נףב/ךד	נףב/ךד	N:Abbr
+ל/סוך	ל/סוך	N:Abbr
+ÀÝÑ	ÀÝÑ	N:Abbr
+ÄÒÇ	ÄÒÇ	N:Abbr
+ÐÀÓÑ	ÐÀÓÑ	N:Abbr
+ÐÓÓÑ	ÐÓÓÑ	N:Abbr
+ÓÓÑ	ÓÓÑ	N:Abbr
+ÃÓÓÑ	ÃÓÓÑ	N:Abbr
+ÑÌ²	ÑÌ²	N:Abbr
+³םע‎נם‎ע-ÑÌ²	³םע‎נם‎ע-ÑÌ²	N:Abbr
+ÑØ	ÑØ	N:Abbr
+ÐÓÏ	ÐÓÏ	N:Abbr
+ÓÏ	ÓÏ	N:Abbr
+ÊÄÁ	ÊÄÁ	N:Abbr
+ÊÄÊ	ÊÄÊ	N:Abbr
+ÌÍÑ	ÌÍÑ	N:Abbr
+ÀÀÒ	ÀÀÒ	N:Abbr
+ÇÀÒ	ÇÀÒ	N:Abbr
+ÖÂÊ	ÖÂÊ	N:Abbr
+ÌÒÑ	ÌÒÑ	N:Abbr
+ÄÏÑ	ÄÏÑ	N:Abbr
+ËÏÏ	ËÏÏ	N:Abbr
+ÆÁÊ	ÆÁÊ	N:Abbr
+ÖÝÖ	ÖÝÖ	N:Abbr
+ÏÒÂ	ÏÒÂ	N:Abbr
+ÖÊ	ÖÊ	N:Abbr
+ÑÂÊ	ÑÂÊ	N:Abbr
+ÆÊÃ	ÆÊÃ	N:Abbr
+ÖÒ	ÖÒ	N:Abbr
+ÏÂÕ	ÏÂÕ	N:Abbr
+ÐÂÊ	ÐÂÊ	N:Abbr
+ÝÂÌ	ÝÂÌ	N:Abbr
+ÂÌÑ	ÂÌÑ	N:Abbr
+ÂÌÔ	ÂÌÔ	N:Abbr

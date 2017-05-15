@@ -1,0 +1,110 @@
+Бархім	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Беларусьфільм	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Белгархімпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Белгорхімпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Белдаррэсурс	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Белдзяржканцэрн	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Белдзяржхарчпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Беллегпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Беллесбумпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Беллеспаперапрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Белпедтэхнікум	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Белрэсурс	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Белтэкс	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Белтэлекам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Белхарчпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Брэстмесцпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Віцебскхарчпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Газпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Гомельводаканал	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Гомельжалезабетон	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Гомельмясамалпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Еўрасаюз	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Кааппрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Камінтэрн	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Керамін	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Легпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Ленком	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Ленфільм	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Масфільм	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Мінаблвыканкам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Мінгарвыканкам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Мінпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Мінскводаканал	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Мінскгархарчпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Мінскхлебпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Мінфін	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Мясамалпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Нафтан	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Слонімводаканал	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Цэнтрвыбаркам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Ювентус	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+
+Белбудматэрыял	NP_org	ы аў ам амі ах	m:pNA m:pG m:pD m:pI m:pL
+Бярозабудматэрыял	NP_org	ы аў ам амі ах	m:pNA m:pG m:pD m:pI m:pL
+Ваўкавыскбудматэрыял	NP_org	ы аў ам амі ах	m:pNA m:pG m:pD m:pI m:pL
+Гомельбудматэрыял	NP_org	ы аў ам амі ах	m:pNA m:pG m:pD m:pI m:pL
+Краснасельскбудматэрыял	NP_org	ы аў ам амі ах	m:pNA m:pG m:pD m:pI m:pL
+
+Белмастпромыс	NP_org	ел ла лу лам ле	m:sNA m:sG m:sD m:sI m:sL
+
+Беларусбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
+Нацбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
+Ашчадпрамбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
+Белаграпрамбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
+Белгазпрамбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
+Газпрамбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
+Белдзяржцырк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
+Белсадгадавальнік	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
+
+Белэксімгаран	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Вадазбы	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Белінтурыс	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Ленхоладакамбіна	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Белспецкантрак	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Лідахарчканцэнтра	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Еўрапарламен	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Галоўпаштам	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Марозпрадук	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Гроднааблнафтапрадук	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Гроднахлебапрадук	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Белпрампраек	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Будпраек	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Мінскпраек	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Белліф	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Белмедпрэпара	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Белбудрамон	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Віцебсктурыс	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Белдзяржуніверсітэ	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Аэрафло	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Балтфло	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Атамбудэкспар	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Беллесэкспар	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Белтэхэкспар	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Газпрамэкспар	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Белбы	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Белвес	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Белста	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+
+Белаэранавігацы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Белбакале	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Белгеалогі	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Белтэлерадыёкампані	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Белфармацы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Белдзяржфілармоні	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Белдзяржкансерваторы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Санэпідстанцы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Белкартаграфі	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Віцебскмеліярацы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Брэстрэстаўрацы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Белпрамэнергі	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+
+Белпош	NP_org	та ты це ту тай таю	f:sN f:sG f:sDL f:sA f:sI f:sI
+Белгазе	NP_org	та ты це ту тай таю	f:sN f:sG f:sDL f:sA f:sI f:sI
+
+Акадэмкні	NP_org	га гі зе гу гай гаю	f:sN f:sG f:sDL f:sA f:sI f:sI
+Белкні	NP_org	га гі зе гу гай гаю	f:sN f:sG f:sDL f:sA f:sI f:sI
+Еўралі	NP_org	га гі зе гу гай гаю	f:sN f:sG f:sDL f:sA f:sI f:sI
+Бытпаслу	NP_org	га гі зе гу гай гаю	f:sN f:sG f:sDL f:sA f:sI f:sI
+
+Белшын	NP_org	а ы е у ай аю	f:sN f:sG f:sDL f:sA f:sI f:sI

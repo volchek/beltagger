@@ -1,0 +1,642 @@
+јзербайджан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+≤ран	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ азахстан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ ≥рг≥зстан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ѕак≥стан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+“аджык≥стан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+“атарстан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+“уркмен≥стан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+”збек≥стан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+јфган≥стан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+¬'етнам	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+¬атыкан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ƒагестан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+…емен	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ амерун	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ ыргызстан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћ≥хтэнштэйн	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+¬≥льнюс	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+¬≥саг≥нас	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+∆лоб≥н	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћондан	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ѕек≥н	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+“ал≥н	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+≈рэван	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+“эгеран	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+—лон≥м	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ аракас	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ обрын	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+–ым	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ƒраг≥чын	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕерл≥н	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕарнаул	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ абул	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+¬≥флеем	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+≤ерусал≥м	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ аҐнас	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+јбакан	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕостан	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕраг≥н	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+¬ав≥лон	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ƒубл≥н	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ Єльн	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћ≥сабон	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћюбл≥н	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ўчучын	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+«аграб	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+“алачын	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕерн	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ћюнхен	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ћ≥лан	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћ≥Єн	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+¬аложын	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+¬ашынгтон	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+—такгольм	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+—тамбул	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ёйндховен	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+јмстэрдам	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ рошын	NP_top_stl:other	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћаг≥шын	NP_top_stl:other	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ЌЄман	NP_top_river	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+√удзон	NP_top_river	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+≤ардан	NP_top_river	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕайкал	NP_top_lake	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+—ахал≥н	NP_top_isle	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+Ёльбрус	NP_top_mount	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+јрэгон	NP_top_distr	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ рым	NP_top_distr	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+ аҐказ	NP_top_reg	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+”рал	NP_top_reg	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+
+Ёквадор	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+«а≥р	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+јлжыр	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+ атар	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+ ≥пр	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕангладэш	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+Ќ€св≥ж	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+ѕарыж	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+ а≥р	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+јдлер	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+¬анкувер	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+¬еймар	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+∆ытом≥р	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+ раснадар	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+ѕ≥цер	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+ ембрыдж	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+ƒобруш	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕангалор	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕездзеж	NP_top_stl:other	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+¬≥ндзар	NP_top_distr	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+√ановер	NP_top_distr	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+®ркшыр	NP_top_distr	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+—ож	NP_top_river	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћа-ћанш	NP_top_river	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+
+ћазыр	NP_top_stl:town	 а у  ом ы	m:sN m:sG m:sD m:sA m:sI m:sL
+
+“айланд	NP_top_country	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+÷арград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+ѕетраград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћен≥нград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+—тал≥нград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+¬алгаград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+¬арашылаҐград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+ƒз≥м≥траҐград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+ ал≥н≥нград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+ ≥раваград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+÷ал≥наград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕелград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕ€лград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+јшхабад	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+√арвард	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+ЌоҐгарад	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+ћадрыд	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+√ал≥вуд	NP_top_stl:other	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+
+ увей	NP_top_country	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕрэс	NP_top_stl:town	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕудапеш	NP_top_stl:town	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
+јшгаба	NP_top_stl:town	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
+ раншта	NP_top_stl:town	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
+јрба	NP_top_stl:street	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
+јрара	NP_top_mount	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
+
+≈г≥п	NP_top_stl:town	ет та ту ет там це	m:sN m:sG m:sD m:sA m:sI m:sL
+
+ѕец€рбур	NP_top_stl:town	г га гу г гам зе гу	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
+—анкт-ѕец€рбур	NP_top_stl:town	г га гу г гам зе гу	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
+≈кацерынбур	NP_top_stl:town	г га гу г гам зе гу	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
+√амбур	NP_top_stl:town	г га гу г гам зе гу	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
+√анкон	NP_top_stl:town	г га гу г гам зе гу	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
+
+¬≥цебск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+√даньск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕеласток	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕабруйск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+ћ≥нск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+ћенск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+ лецк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+Ќовас≥б≥рск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+ѕ≥нск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+ѕолацк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+“омск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+≤ркуцк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+—луцк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+ƒз€ржынск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+—ал≥горск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+—ветлагорск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+—маленск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+„ачэрск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+Ќаваполацк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћагойск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+ƒанецк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+¬ерхн€дзв≥нск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+¬аҐкавыск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕангкок	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+ƒамаск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+Ќью-®рк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+Ќью-…орк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+—трасбург	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+÷юрых	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+ вебек	NP_top_distr	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕрандэнбург	NP_top_distr	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕуг	NP_top_river	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+
+Ќавагруд	NP_top_stl:town	ак ка ку ак кам ку	m:sN m:sG m:sD m:sA m:sI m:sL
+ѕолац	NP_top_stl:town	ак ка ку ак кам ку	m:sN m:sG m:sD m:sA m:sI m:sL
+—луц	NP_top_stl:town	ак ка ку ак кам ку	m:sN m:sG m:sD m:sA m:sI m:sL
+ƒруц	NP_top_stl:town	ак ка ку ак кам ку	m:sN m:sG m:sD m:sA m:sI m:sL
+
+ƒавыд-√арад	NP_top_stl:town	ок ка ку ок ком ку	m:sN m:sG m:sD m:sA m:sI m:sL
+
+Ћун≥н	NP_top_stl:town	ец ца цу ец цом цы	m:sN m:sG m:sD m:sA m:sI m:sL
+≤в€н	NP_top_stl:town	ец ца цу ец цом цы	m:sN m:sG m:sD m:sA m:sI m:sL
+ ам€н	NP_top_stl:town	ец ца цу ец цом цы	m:sN m:sG m:sD m:sA m:sI m:sL
+“расц€н	NP_top_stl:other	ец ца цу ец цом цы	m:sN m:sG m:sD m:sA m:sI m:sL
+
+јстра	NP_top_stl:town	вец Ґца Ґцу вец Ґцом Ґцы	m:sN m:sG m:sD m:sA m:sI m:sL
+
+“ур	NP_top_stl:other	эц ца цу эц цом цы	m:sN m:sG m:sD m:sA m:sI m:sL
+
+√омел	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћепел	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+„арнобыл	NP_top_stl:other	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+„эрвен	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+яраслаҐл	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+ћотал	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+≤зра≥л	NP_top_country	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕрусел	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕрусэл	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+ћарсэл	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕрыстол	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+—евастопал	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+ анстанц≥нопал	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћ≥верпул	NP_top_stl:town	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+ актэбел	NP_top_stl:other	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+јнтопал	NP_top_stl:other	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+—к≥дал	NP_top_stl:other	ь € ю ь ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+
+ апыл	NP_top_stl:town	ь € ю ь Єм ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+
+ ≥та	NP_top_country	й € ю й ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕамбе	NP_top_stl:town	й € ю й ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+јлта	NP_top_distr	й € ю й ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕрадве	NP_top_stl:street	й € ю й ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+≈н≥се	NP_top_river	й € ю й ем ≥	m:sN m:sG m:sD m:sA m:sI m:sL
+
+Ѕарыса	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕудсла	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+ ≥е	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+ ≥шынЄ	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+ћаг≥лЄ	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+ рака	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+јчака	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕрасла	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+¬роцла	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+Ўкло	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+ѕетрыка	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+—арата	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+—тарабарыса	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+’арка	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+„арн≥га	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+„эрыка	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+Ѕыха	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+ рыча	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+“ура	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+ѕско	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+–агачо	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+Ћьво	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+“эль-јв≥	NP_top_stl:town	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+–ака	NP_top_stl:other	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+—ерыка	NP_top_stl:other	Ґ ва ву Ґ вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+
+¬енесуэл	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћалдов	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√ерцагав≥н	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+”кра≥н	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јнгол	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕатсван	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√в≥€н	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬аршав	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+∆энев	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јдэс	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ёрмал	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕрац≥слав	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ЎаркаҐшчын	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒальв	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ унцаҐшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћ≥калаеҐшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕ€троҐшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+–акуцЄҐшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕ≥лькаҐшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ЋыскаҐшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћерачоҐшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќарв	NP_top_river	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬олм	NP_top_river	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јрэс	NP_top_river	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕ€рэз≥н	NP_top_river	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+≈Ґроп	NP_top_reg	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќ€меччын	NP_top_reg	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јрызон	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕеласточчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕерасцейшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕрэстчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬≥цебшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√омельшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√родзеншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћаг≥лЄҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћ≥ншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќавагрудчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јстравеччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ћ≥дчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ леччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јршаншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јс≥пов≥ччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јшм€ншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕабруйшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ЅарысаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕраг≥ншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ЅраслаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ЅыхаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕ€розаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕ€рэз≥ншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬алагодчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬аложыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬аҐкавышчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬ерхн€дзв≥ншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬≥лейшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬≥леншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√анцаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√арадзеншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒз€ржыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒобрушчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒраг≥чыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒубровеншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+∆лоб≥ншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+∆ыткав≥ччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+∆ытом≥ршчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+«эльвешчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+≤вацэв≥ччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+≤ҐеҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ ам€неччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ апыльшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ арэл≥ччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ ≥еҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ ≥раҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ л≥чаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ обрыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ раснапольшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ рычаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ћагойшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ћепельшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ћун≥неччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ћ€хав≥ччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ћ€хаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћазыршчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћаладзечаншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћ≥Єршчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћсц≥слаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћ€дзельшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќаваградчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќал≥боччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ЌараҐл€ншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќ€св≥жчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќ€св≥жшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕастаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕетрыкаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕ≥ншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕолаччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕскоҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕухав≥ччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕухаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+–агачоҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+–асоншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+–овеншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—енненшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—лаҐгарадчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—лон≥мшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—луччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—маленшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—маргоншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—тарадарожчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—таҐбцоҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—тол≥ншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+“алачыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+“ураҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+”здзеншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+”шаччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+„арн≥гаҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+„ачэршчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+„эрвеньшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ЎклоҐшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ўчучыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+Ћ≥тв	NP_top_country	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јстан	NP_top_stl:town	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћаскв	NP_top_stl:town	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕарселон	NP_top_stl:town	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒзв≥н	NP_top_river	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕераз≥н	NP_top_river	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒз≥сн	NP_top_river	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ алым	NP_top_river	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќ€в	NP_top_river	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ астрам	NP_top_stl:town	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+ѕольшч	NP_top_country	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јндор	NP_top_country	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ќрш	NP_top_stl:town	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+–эчыц	NP_top_stl:town	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬≥нн≥ц	NP_top_stl:town	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ћошн≥ц	NP_top_stl:other	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒукор	NP_top_stl:other	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ алож	NP_top_stl:other	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕелавеж	NP_top_distr	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ўчар	NP_top_river	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+јнкар	NP_top_stl:town	а ы ы у ой ою ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕухар	NP_top_stl:town	а ы ы у ой ою ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+”ш	NP_top_stl:other	а ы ы у ой ою ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+јнтарктыд	NP_top_reg	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ анад	NP_top_country	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ёлад	NP_top_country	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ћ≥д	NP_top_stl:town	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√ранад	NP_top_stl:town	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ясельд	NP_top_river	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+”зд	NP_top_stl:town	а ы зе у ой ою зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+ћаль	NP_top_isle	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јтлан	NP_top_stl:town	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒжакар	NP_top_stl:town	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ альку	NP_top_stl:town	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ял	NP_top_stl:town	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒако	NP_top_distr	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+¬арку	NP_top_stl:town	та ты це ту той тою це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јлма-ј	NP_top_stl:town	та ты це ту той тою це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+≈лабу	NP_top_stl:town	га г≥ зе гу гай гаю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+–ы	NP_top_stl:town	га г≥ зе гу гай гаю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬ол	NP_top_river	га г≥ зе гу гай гаю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќ€м≥	NP_top_river	га г≥ зе гу гай гаю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+јтланты	NP_top_reg	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕалты	NP_top_reg	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕрыбалты	NP_top_reg	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јмеры	NP_top_reg	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јфры	NP_top_reg	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јркты	NP_top_reg	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јнтаркты	NP_top_reg	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јл€с	NP_top_distr	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+„укот	NP_top_distr	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јдрыаты	NP_top_distr	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћекс≥	NP_top_country	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ўры-Ћан	NP_top_country	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+∆аб≥н	NP_top_stl:town	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬≥лей	NP_top_stl:town	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒамброҐ	NP_top_stl:other	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ асцюкоҐ	NP_top_stl:other	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ћюцын	NP_top_stl:other	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+–атам	NP_top_stl:other	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—ерабран	NP_top_stl:other	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬€зын	NP_top_stl:other	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ амароҐ	NP_top_stl:street	ка к≥ цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+јнгл≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јрмен≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јсец≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јҐстры	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јҐстрал≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕалгары	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕельг≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬енгры	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬€л≥кабрытан≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√аланды	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√ерман≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√руз≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√рэцы	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ƒан≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+≤спан≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+≤тал≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+≤рланды	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ ≥рг≥з≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ћатв≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќарвег≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕартугал≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+–ас≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+–умын≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—ерб≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—лавак≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+“уркмен≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+“урцы	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+‘ранцы	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+‘≥нл€нды	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+„эх≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ўвейцары	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ўвецы	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ёстон≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+япон≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јбхаз≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕраз≥л≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ арэ	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕрытан≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћакедон≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+≤нды	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+’арваты	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—≥ры	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—лавен≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јрав≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√в≥не	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ёф≥оп≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јлбан≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕосн≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕашк≥ры	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+„эхаславак≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+„арнагоры	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+–асе	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ѕрус≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ёгаслав≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ўатланды	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќ≥геры	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ћалайз≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+≤нданез≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+≤сланды	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ћ≥в≥	NP_top_country	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬≥льн	NP_top_stl:town	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√дын	NP_top_stl:town	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√ародн	NP_top_stl:town	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ќаваельн	NP_top_stl:town	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ЌароҐл	NP_top_stl:town	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+≈Ґпаторы	NP_top_stl:town	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+¬енецы	NP_top_stl:town	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+‘ларэнцы	NP_top_stl:town	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јлександры	NP_top_stl:town	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√арадзе	NP_top_stl:other	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+≈Ґраз≥	NP_top_reg	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јз≥	NP_top_reg	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕалты	NP_top_reg	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+—кандынав≥	NP_top_reg	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јнтал≥	NP_top_distr	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Ѕавары	NP_top_distr	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+√ал≥цы	NP_top_distr	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+јркады	NP_top_distr	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+‘рак≥	NP_top_distr	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+ ал≥форн≥	NP_top_distr	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+«еланды	NP_top_distr	€ ≥ ≥ ю €й €ю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+„ачн	NP_top_country	€ ≥ ≥ ю Єй Єю ≥	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+
+Ѕес€дз	NP_top_river	ь ≥ ≥ ь ю ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+
+ѕрып€ц	NP_top_river	ь ≥ ≥ ь цю ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+ƒруц	NP_top_river	ь ≥ ≥ ь цю ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+
+—маргон	NP_top_stl:town	ь ≥ ≥ ь ню ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+ѕознан	NP_top_stl:town	ь ≥ ≥ ь ню ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+Ћюбан	NP_top_stl:town	ь ≥ ≥ ь ню ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+’атын	NP_top_stl:other	ь ≥ ≥ ь ню ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+ѕан€мон	NP_top_stl:other	ь ≥ ≥ ь ню ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+¬ерхан	NP_top_stl:other	ь ≥ ≥ ь ню ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+ убан	NP_top_distr	ь ≥ ≥ ь ню ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+√арын	NP_top_river	ь ≥ ≥ ь ню ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+
+Ѕеларус	NP_top_country	ь ≥ ≥ ь сю ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+–ус	NP_top_country	ь ≥ ≥ ь сю ≥	f:sN f:sG f:sD f:sA f:sI f:sL
+
+—в≥слач	NP_top_river	 ы ы  чу ы	f:sN f:sG f:sD f:sA f:sI f:sL
+ѕц≥ч	NP_top_river	 ы ы  чу ы	f:sN f:sG f:sD f:sA f:sI f:sL
+Ќарач	NP_top_lake	 ы ы  чу ы	f:sN f:sG f:sD f:sA f:sI f:sL
+
+
+√родн	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+ оҐн	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+ћаладзечн	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+ћаладэчн	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+—танькав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+ осав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+ƒуброҐн	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+∆одз≥н	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+ емерав	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+Ћупалав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+√атав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+јтол≥н	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+÷ельшын	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+—емежав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+ рэв	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+јстрамечав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+ƒастоев	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+—ухарав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+Ѕаркалабав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
+
+јз€рышч	NP_top_stl:other	а а у а ам ы	n:sN n:sG n:sD n:sA n:sI n:sL
+√арадз≥шч	NP_top_stl:other	а а у а ам ы	n:sN n:sG n:sD n:sA n:sI n:sL
+”ручч	NP_top_stl:other	а а у а ам ы	n:sN n:sG n:sD n:sA n:sI n:sL
+
+Ѕерасц	NP_top_stl:town	е € ю е ем ≥	n:sN n:sG n:sD n:sA n:sI n:sL
+«аслаҐ	NP_top_stl:town	е € ю е ем ≥	n:sN n:sG n:sD n:sA n:sI n:sL
+ рутагор'	NP_top_stl:town	е € ю е ем ≥	n:sN n:sG n:sD n:sA n:sI n:sL
+«алесс	NP_top_stl:other	е € ю е ем ≥	n:sN n:sG n:sD n:sA n:sI n:sL
+ѕалесс	NP_top_distr	е € ю е ем ≥	n:sN n:sG n:sD n:sA n:sI n:sL
+ѕрыбайкалл	NP_top_distr	е € ю е ем ≥	n:sN n:sG n:sD n:sA n:sI n:sL
+
+
+Ѕалкан	NP_top_reg	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Ѕаранав≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+≤вацэв≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ арэл≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Ѕ€лын≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+—мал€в≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Ћ€хав≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+јс≥пов≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+јф≥н	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+јшм€н	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+јзарыч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ѕружан	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+–асон	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+„авус	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ ал≥нкав≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ асцюков≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ л≥мав≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+√анцав≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ћ≥Єр	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Ћельчыц	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+’≥слав≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+∆ыткав≥ч	NP_top_stl:town	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+јб≥дав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+јл€хнов≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+¬ераб'ев≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+√лушкав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ƒун≥лав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+∆данов≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+«убрэв≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ алодз≥шч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ арал≥шчав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ ругав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Ћ€скав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ћ≥кашэв≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ћ≥куц≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ћ≥ханав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+—в€ц≥лав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+—м≥лав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+—умл≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+—ынкав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+÷≥мкав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ЎоҐкав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ёрав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ урапат	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+∆упран	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Ћынтуп	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+÷ел€хан	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ЅараҐл€н	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+¬аран€н	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+¬арн€н	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+√араҐл€н	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+«амасц€н	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ ушл€н	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+јльшан	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+—ухаҐл€н	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+’атл€н	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+–адашков≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ѕухав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+–ужан	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ѕанюшкав≥ч	NP_top_stl:other	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ƒрысв€т	NP_top_lake	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ анар	NP_top_isle	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ урыл	NP_top_isle	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ арпат	NP_top_mount	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+јльп	NP_top_mount	ы  аҐ ам ы ам≥ ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+
+—тоҐбц	NP_top_stl:town	ы аҐ ам ы ам≥ ах	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+
+—таҐбц	NP_top_stl:town	ы оҐ ам ы ам≥ ах	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+Ўабан	NP_top_stl:other	ы оҐ ам ы ам≥ ах	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+
+¬ас≥л≥ш	NP_top_stl:other	к≥ ак каҐ кам к≥ кам≥ ках	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+ƒудут	NP_top_stl:other	к≥ ак каҐ кам к≥ кам≥ ках	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Ћук≥ш	NP_top_stl:street	к≥ ак каҐ кам к≥ кам≥ ках	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+
+’ойн≥	NP_top_stl:town	к≥ каҐ кам к≥ кам≥ ках	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+
+јҐцю	NP_top_stl:other	к≥ коҐ кам к≥ кам≥ ках	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
