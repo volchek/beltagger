@@ -275,7 +275,7 @@ bool tagger::Lemmatizer::processWithTweaks(const std::string& inputLine, std::st
 		else {
 			std::string twoLemmas = cyrAndLatWords.first;
 			twoLemmas.append("|").append(cyrAndLatWords.second);
-			processSimple(inputLine, "", twoLemmas, "UNK|Latin");
+			processSimple(inputLine, "", twoLemmas, "UNK||Latin");
 			return true;
 		}
 	}
