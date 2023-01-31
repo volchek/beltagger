@@ -3,25 +3,26 @@
 #include "POS.h"
 #include "POS_Template.h"
 #include <boost/algorithm/string.hpp>
-#include <boost/regex.hpp>
-#include <boost/shared_ptr.hpp>
+#include <boost/algorithm/string/replace.hpp>
+#include <memory>
 #include <algorithm>
+#include <regex>
 
 namespace assembler {
 	class Verb : public POS
 	{
 	public:
-		Verb(wordsToLemsMap& db, boost::shared_ptr<POS_Template> tm);
+		Verb(wordsToLemsMap& db, std::shared_ptr<POS_Template> tm);
 		~Verb();
 	private:
 		std::string reshapeVerbTag(const std::string& tag, const std::string& featureBlock);
 		void parseExplicit(std::string& dataLine);
 		void completePOS();
-		boost::shared_ptr<POS_Template> templ;
+		std::shared_ptr<POS_Template> templ;
 	};
 }
 
-assembler::Verb::Verb(wordsToLemsMap& db, boost::shared_ptr<POS_Template> tm) : 
+assembler::Verb::Verb(wordsToLemsMap& db, std::shared_ptr<POS_Template> tm) :
 			POS(db), templ(tm)
 { 
 	completePOS();
@@ -36,8 +37,8 @@ assembler::Verb::~Verb(){
 std::string assembler::Verb::reshapeVerbTag(const std::string& tag, const std::string& featureBlock)
 {
 	std::string resultTag = "V:";
-	boost::smatch res;
-	if (boost::regex_search(tag, res, boost::regex("^Part:(act|pass)$"))){
+	std::smatch res;
+	if (std::regex_search(tag, res, std::regex("^Part:(act|pass)$"))){
 		resultTag.append("Part:").append(featureBlock).append(":").append(res[1]);
 	}
 	else if(tag == "Adv"){
@@ -49,7 +50,7 @@ std::string assembler::Verb::reshapeVerbTag(const std::string& tag, const std::s
 
 void assembler::Verb::parseExplicit(std::string& dataLine)
 {
-	dataLine = boost::regex_replace(dataLine, boost::regex("<"), "");
+	boost::replace_all(dataLine, "<", "");
 	std::vector<std::string> data;
 	boost::split(data, dataLine, boost::is_any_of("\t"));
 	const std::string len = data[0];

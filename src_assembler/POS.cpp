@@ -2,7 +2,7 @@
 #include <fstream>
 #include <iostream>
 #include <boost/algorithm/string.hpp>
-#include <boost/regex.hpp>
+#include <regex>
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -66,12 +66,12 @@ void assembler::POS::readFile(std::string fileName)
 
 std::string assembler::POS::normalizeTagset(std::string& inputStr)
 {
-	if (boost::regex_search(inputStr, boost::regex("N[GA]|G[ADL]|D[AL]|IL")))
+	if (std::regex_search(inputStr, std::regex("N[GA]|G[ADL]|D[AL]|IL")))
 	{
-		inputStr = boost::regex_replace(inputStr, boost::regex("^(.+)NGDAIL$"), "$1N|$1G|$1D|$1A|$1I|$1L");
-		inputStr = boost::regex_replace(inputStr, boost::regex("^(.+)GDIL$"), "$1G|$1D|$1I|$1L");
-		inputStr = boost::regex_replace(inputStr, boost::regex("^(.+)([NGDAIL])([NGDAIL])([NGDAIL])$"), "$1$2|$1$3|$1$4");
-		inputStr = boost::regex_replace(inputStr, boost::regex("^(.+)([NGDAIL])([NGDAIL])$"), "$1$2|$1$3");
+		inputStr = std::regex_replace(inputStr, std::regex("^(.+)NGDAIL$"), "$1N|$1G|$1D|$1A|$1I|$1L");
+		inputStr = std::regex_replace(inputStr, std::regex("^(.+)GDIL$"), "$1G|$1D|$1I|$1L");
+		inputStr = std::regex_replace(inputStr, std::regex("^(.+)([NGDAIL])([NGDAIL])([NGDAIL])$"), "$1$2|$1$3|$1$4");
+		inputStr = std::regex_replace(inputStr, std::regex("^(.+)([NGDAIL])([NGDAIL])$"), "$1$2|$1$3");
 	}
 	return inputStr;
 }

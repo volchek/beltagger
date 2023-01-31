@@ -7,7 +7,7 @@
 #include <iostream>
 #include <fstream>
 #include <boost/program_options.hpp>
-#include <boost/shared_ptr.hpp>
+#include <memory>
 
 tagger::GetOptions::GetOptions()
 {
@@ -155,18 +155,18 @@ void tagger::GetOptions::createLem()
 {
 	if (opts.memo == true){
 		if (opts.guessing){
-			boost::shared_ptr<tagger::LemWithGuessing<tagger::LemMemo> > l(new tagger::LemWithGuessing<tagger::LemMemo>(opts.inputFile, opts.outputFile, opts.lastColumnIndex, opts.logUnk, opts.unknownsFile, opts.tar, opts.suffixTable, opts.guessedFile));
+			std::shared_ptr<tagger::LemWithGuessing<tagger::LemMemo> > l(new tagger::LemWithGuessing<tagger::LemMemo>(opts.inputFile, opts.outputFile, opts.lastColumnIndex, opts.logUnk, opts.unknownsFile, opts.tar, opts.suffixTable, opts.guessedFile));
 		}
 		else {
-			boost::shared_ptr<tagger::LemMemo> l(new tagger::LemMemo(opts.inputFile, opts.outputFile, opts.lastColumnIndex, opts.logUnk, opts.unknownsFile, opts.tar));			
+			std::shared_ptr<tagger::LemMemo> l(new tagger::LemMemo(opts.inputFile, opts.outputFile, opts.lastColumnIndex, opts.logUnk, opts.unknownsFile, opts.tar));
 		}
 	}
 	else {
 		if (opts.guessing){
-			boost::shared_ptr<tagger::LemWithGuessing<tagger::LemNomemo> > l(new tagger::LemWithGuessing<tagger::LemNomemo>(opts.inputFile, opts.outputFile, opts.lastColumnIndex, opts.logUnk, opts.unknownsFile, opts.tar, opts.suffixTable, opts.guessedFile));
+			std::shared_ptr<tagger::LemWithGuessing<tagger::LemNomemo> > l(new tagger::LemWithGuessing<tagger::LemNomemo>(opts.inputFile, opts.outputFile, opts.lastColumnIndex, opts.logUnk, opts.unknownsFile, opts.tar, opts.suffixTable, opts.guessedFile));
 		}
 		else {
-			boost::shared_ptr<tagger::LemNomemo> l(new tagger::LemNomemo(opts.inputFile, opts.outputFile, opts.lastColumnIndex, opts.logUnk, opts.unknownsFile, opts.tar)); 
+			std::shared_ptr<tagger::LemNomemo> l(new tagger::LemNomemo(opts.inputFile, opts.outputFile, opts.lastColumnIndex, opts.logUnk, opts.unknownsFile, opts.tar));
 		}
 	}
 }

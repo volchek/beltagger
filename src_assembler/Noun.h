@@ -4,24 +4,24 @@
 #include "POS_Template.h"
 #include "ParsePrefix.h"
 #include <boost/algorithm/string.hpp>
-#include <boost/regex.hpp>
-#include <boost/shared_ptr.hpp>
+#include <boost/algorithm/string/replace.hpp>
+#include <memory>
 
 namespace assembler {
 	class Noun : public POS
 	{
 	public:
-		Noun(wordsToLemsMap& db, boost::shared_ptr<POS_Template> tm, boost::shared_ptr<ParsePrefix> lk);
+		Noun(wordsToLemsMap& db, std::shared_ptr<POS_Template> tm, std::shared_ptr<ParsePrefix> lk);
 		virtual ~Noun();
 		void completePOS();
 	private:
 		void parseExplicit(std::string& dataLine);
-		boost::shared_ptr<POS_Template> templ;
-		boost::shared_ptr<ParsePrefix> lookup;
+		std::shared_ptr<POS_Template> templ;
+		std::shared_ptr<ParsePrefix> lookup;
 	};
 }
 
-assembler::Noun::Noun(wordsToLemsMap& db, boost::shared_ptr<POS_Template> tm, boost::shared_ptr<ParsePrefix> lk) : 
+assembler::Noun::Noun(wordsToLemsMap& db, std::shared_ptr<POS_Template> tm, std::shared_ptr<ParsePrefix> lk) :
 			POS(db), templ(tm), lookup(lk)
 { 
 	completePOS();
@@ -37,7 +37,7 @@ assembler::Noun::~Noun(){
 
 void assembler::Noun::parseExplicit(std::string& dataLine)
 {
-	dataLine = boost::regex_replace(dataLine, boost::regex("<"), "");
+	boost::replace_all(dataLine, "<", "");
 	std::vector<std::string> data;
 	boost::split(data, dataLine, boost::is_any_of("\t"));
 	const std::string len = data[0];

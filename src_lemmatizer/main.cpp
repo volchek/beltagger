@@ -3,13 +3,13 @@
 
 #include <locale>
 #include <string>
-#include <boost/shared_ptr.hpp>
+#include <memory>
 
 int main(int argc, char* argv[])
 {
 	setlocale(LC_ALL, LOCNAME);
 
-	boost::shared_ptr<tagger::GetOptions> go(new tagger::GetOptions);
+	std::shared_ptr<tagger::GetOptions> go(new tagger::GetOptions);
 	go->getOpt(argc, argv);
 
 	return 0;

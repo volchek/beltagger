@@ -11,7 +11,7 @@
 
 #include <fstream>
 #include <locale>
-#include <boost/shared_ptr.hpp>
+#include <memory>
 
 namespace tagger {
 
@@ -46,10 +46,10 @@ namespace tagger {
 		bx::sregex belUpLetters;
 		optionValues lLemOptions;
 		statistics lLemStat;
-		boost::shared_ptr<tagger::PrNumbers> lPrNumbers;
-		boost::shared_ptr<tagger::SymbolTweaker> lSTweaker;
-		boost::shared_ptr<tagger::TarShallow> lPrTar;
-		boost::shared_ptr<tagger::Compounds> lComp;
+		std::shared_ptr<tagger::PrNumbers> lPrNumbers;
+		std::shared_ptr<tagger::SymbolTweaker> lSTweaker;
+		std::shared_ptr<tagger::TarShallow> lPrTar;
+		std::shared_ptr<tagger::Compounds> lComp;
 
 		static void readDB();
 		void processInputFile();

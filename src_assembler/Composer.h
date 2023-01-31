@@ -5,7 +5,7 @@
 #include "POS_Template.h"
 #include <string>
 #include <fstream>
-#include <boost/shared_ptr.hpp>
+#include <memory>
 
 class Composer
 {
@@ -20,8 +20,8 @@ private:
 	std::string outputFormat;
 	assembler::wordsToLemsMap database;
 	std::map<std::string, int> debugCountWords;	
-	boost::shared_ptr<assembler::POS_Template> objTemplate;
-	boost::shared_ptr<assembler::ParsePrefix> objParsePrefix;
+	std::shared_ptr<assembler::POS_Template> objTemplate;
+	std::shared_ptr<assembler::ParsePrefix> objParsePrefix;
 
 	std::string inputPath;
 	std::string outputFile;

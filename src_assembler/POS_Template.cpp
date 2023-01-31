@@ -1,7 +1,7 @@
 #include "POS_Template.h"
 #include <iostream>
 #include <boost/algorithm/string.hpp>
-#include <boost/regex.hpp>
+#include <regex>
 
 assembler::POS_Template::POS_Template(wordsToLemsMap& db) 
 	: POS(db)
@@ -50,7 +50,7 @@ void assembler::POS_Template::parseAdjAndPartTemplatePlugin(std::string& dataLin
 
 void assembler::POS_Template::parseTemplate(std::string pos)
 {
-	if (!boost::regex_search(pos, boost::regex("^noun|adj|verb|part$"))){
+	if (!std::regex_search(pos, std::regex("^noun|adj|verb|part$"))){
 		std::cout << "Unable to continue: Incorrect part-of-speech label supplied to the template reader.\n";
 		return;
 	}

@@ -3,7 +3,6 @@
 #include "POS.h"
 #include "POS_Template.h"
 #include <boost/algorithm/string.hpp>
-#include <boost/regex.hpp>
 
 namespace assembler {
 	class NounAddition : public POS

@@ -457,7 +457,6 @@ void tagger::Lemmatizer::pushData(wordInfo& data, std::string& lemmaInfo, std::s
 
 tagger::wordInfo tagger::Lemmatizer::grepTag(wordInfo& data, bx::sregex regex)
 {
-//	const boost::regex matchCondition(regex);
 	wordInfo output;
 	for (wordInfo::const_iterator it = data.begin(); it != data.end(); ++it){
 		const std::string lemma = it->first;

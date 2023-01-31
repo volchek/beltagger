@@ -4,8 +4,8 @@
 #include "Lemmatizer.h"
 #include <iostream>
 #include <algorithm>
+#include <string>
 #include <boost/algorithm/string.hpp>
-#include <boost/lexical_cast.hpp>
 
 
 tagger::Compounds::Compounds() :
@@ -377,7 +377,7 @@ std::vector<std::string> tagger::Compounds::createWordformInfo(std::vector<wordI
 	}
 
 	std::string postfix = compPartCountPostfix;
-	std::string partCount = boost::lexical_cast<std::string, int>(cWordformParts.size());
+	std::string partCount = std::to_string(cWordformParts.size());
 	if (gender.size() > 1){
 		partCount += "n";
 	}

@@ -3,20 +3,19 @@
 #include "POS.h"
 #include "POS_Template.h"
 #include <boost/algorithm/string.hpp>
-#include <boost/regex.hpp>
-#include <boost/shared_ptr.hpp>
+#include <memory>
 
 namespace assembler {
 	class AdjAddition : public POS
 	{
 	public:
-		AdjAddition(wordsToLemsMap& db, boost::shared_ptr<POS_Template> tm) : POS(db),
+		AdjAddition(wordsToLemsMap& db, std::shared_ptr<POS_Template> tm) : POS(db),
 			templ(tm)
 			{ completeInnerPOS("adj_addition", "secondary source file"); }
 		~AdjAddition(){}
 	private:
 		void parseExplicit(std::string& dataLine);
-		boost::shared_ptr<POS_Template> templ;
+		std::shared_ptr<POS_Template> templ;
 	};
 }
 

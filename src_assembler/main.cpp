@@ -4,7 +4,6 @@
 #include <locale>
 #include <iostream>
 #include <ctime>
-#include <boost/shared_ptr.hpp>
 
 int main(int argc, char* argv[])
 {
