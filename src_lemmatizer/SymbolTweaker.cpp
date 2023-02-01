@@ -6,9 +6,9 @@
 
 
 // Static fields for SymbolTweaker
-const std::string tagger::SymbolTweaker::lettersOnlyCyr ="¸éöêíãø¢çôûâïëäæıÿ÷ìòüáş¨ÉÖÓÃØ¡ÇÔÛÏËÄÆİß×ÜÁŞèÈùÙúÚ";
+const std::string tagger::SymbolTweaker::lettersOnlyCyr ="Ñ‘Ğ¹Ñ†ĞºĞ½Ğ³ÑˆÑĞ·Ñ„Ñ‹Ğ²Ğ¿Ğ»Ğ´Ğ¶ÑÑÑ‡Ğ¼Ñ‚ÑŒĞ±ÑĞĞ™Ğ¦Ğ£Ğ“Ğ¨ĞĞ—Ğ¤Ğ«ĞŸĞ›Ğ”Ğ–Ğ­Ğ¯Ğ§Ğ¬Ğ‘Ğ®Ğ¸Ğ˜Ñ‰Ğ©ÑŠĞª";
 const std::string tagger::SymbolTweaker::lettersOnlyLat ="qwrtusdfghjklzvbnmQWRYUSDFGJLZVN";
-const std::string tagger::SymbolTweaker::lettersNeutralCyr = "³²óåõàğîñÊÅÕÂÀĞÎÑÌÒÍ'-";
+const std::string tagger::SymbolTweaker::lettersNeutralCyr = "Ñ–Ğ†ÑƒĞµÑ…Ğ°Ñ€Ğ¾ÑĞšĞ•Ğ¥Ğ’ĞĞ ĞĞ¡ĞœĞ¢Ğ'-";
 const std::string tagger::SymbolTweaker::lettersNeutralLat = "iIyexapocKEXBAPOCMTH'-";
 
 
@@ -67,7 +67,7 @@ void tagger::SymbolTweaker::completeSet(std::set<char>& lettersSet, const std::s
 
 bool tagger::SymbolTweaker::isLatin(const std::string& wordform)
 {
-	if ( (wordform.length() >= minLenLatinWord) &&  bx::regex_search(wordform, compiler.compile("^[a-z']+$", bx::regex_constants::icase))){
+	if ( (wordform.length() >= minLenLatinWord) && bx::regex_search(wordform, compiler.compile("^[a-z']+$", bx::regex_constants::icase))){
 		return true;
 	}
 	return false;
@@ -76,56 +76,65 @@ bool tagger::SymbolTweaker::isLatin(const std::string& wordform)
 
 bool tagger::SymbolTweaker::isRussian(const std::string& wordform)
 {
-	if (bx::regex_search(wordform, compiler.compile("¢", bx::regex_constants::icase))){
+	if (bx::regex_search(wordform, compiler.compile("Ñ", bx::regex_constants::icase))){
 		return false;
 	}
 
-	if (bx::regex_search(wordform, compiler.compile("[èùú]|òü?ñÿ$", bx::regex_constants::icase)) ||
-		bx::regex_search(wordform, compiler.compile("[äòğæø÷][üå¸şÿ]", bx::regex_constants::icase)) ||
-		bx::regex_search(wordform, compiler.compile("[áâï]ü", bx::regex_constants::icase)) ||
-		bx::regex_search(wordform, compiler.compile("î¸", bx::regex_constants::icase)) ||
-		(bx::regex_search(wordform, compiler.compile("âñ", bx::regex_constants::icase)) && !bx::regex_search(wordform, compiler.compile("³|üî|ñüê|íàğâ", bx::regex_constants::icase))) ||
-		(bx::regex_search(wordform, compiler.compile("üî", bx::regex_constants::icase)) && !bx::regex_search(wordform, compiler.compile("âñ", bx::regex_constants::icase)))){
+	if (bx::regex_search(wordform, compiler.compile("[Ğ¸Ñ‰ÑŠ]|Ñ‚ÑŒ?ÑÑ$", bx::regex_constants::icase)) ||
+		bx::regex_search(wordform, compiler.compile("[Ğ´Ñ‚Ñ€Ğ¶ÑˆÑ‡][ÑŒĞµÑ‘ÑÑ]", bx::regex_constants::icase)) ||
+		bx::regex_search(wordform, compiler.compile("[Ğ±Ğ²Ğ¿]ÑŒ", bx::regex_constants::icase)) ||
+		bx::regex_search(wordform, compiler.compile("Ğ¾Ñ‘", bx::regex_constants::icase)) ||
+		(bx::regex_search(wordform, compiler.compile("Ğ²Ñ", bx::regex_constants::icase)) && !bx::regex_search(wordform, compiler.compile("Ñ–|ÑŒĞ¾|ÑÑŒĞº|Ğ½Ğ°Ñ€Ğ²", bx::regex_constants::icase))) ||
+		(bx::regex_search(wordform, compiler.compile("ÑŒĞ¾", bx::regex_constants::icase)) && !bx::regex_search(wordform, compiler.compile("Ğ²Ñ", bx::regex_constants::icase)))){
 			return true;
 	}
 
 	if (wordform.length() > minLenSomeRusWord && (!wordform.find("-") != wordform.npos)) {
-		if (bx::regex_search(wordform, compiler.compile("â[áâãäæçêìïòôõö÷ø]", bx::regex_constants::icase)) ||
-			bx::regex_search(wordform, compiler.compile("ôô", bx::regex_constants::icase))){
+		if (bx::regex_search(wordform, compiler.compile("Ğ²[Ğ±Ğ²Ğ³Ğ´Ğ¶Ğ·ĞºĞ¼Ğ¿Ñ‚Ñ„Ñ…Ñ†Ñ‡Ñˆ]", bx::regex_constants::icase)) ||
+			bx::regex_search(wordform, compiler.compile("Ñ„Ñ„", bx::regex_constants::icase))){
 			return true;
 		}
 	}
 
-	int count = 0; // counts the occurrences of Cyrillic letters 'î' and 'Î' 
+	if (bx::regex_search(wordform, compiler.compile("-|Ñ–|Ğ†"))){
+		return false;
+	}
+
+	bx::smatch m;
+	bx::regex_search(wordform, m, compiler.compile("Ğ¾|Ğ"));
+	return m.length() > 3;
+// Used to be:
+/*
+	int count = 0; // counts the occurrences of Cyrillic letters 'Ğ¾' and 'Ğ'
 	for(std::string::const_iterator it = wordform.begin(); it != wordform.end(); ++it){
-		if (*it == '-' || *it == '³' || *it == '²'){
+		if (*it == '-' || *it == 'Ñ–' || *it == 'Ğ†'){
 			return false;
 		}
-		if (*it == 'î' || *it == 'Î'){
+		if (*it == 'Ğ¾' || *it == 'Ğ'){
 			++count;
 		}
 	}
 	if (count > 2){
 		return true;
 	}
-		
 	return false;
+*/
 }
 
 
 std::string& tagger::SymbolTweaker::tweakNumeral(std::string& wordform)
 {
-	if(bx::regex_search(wordform, compiler.compile("ñåì", bx::regex_constants::icase))){
-		wordform = bx::regex_replace(wordform, compiler.compile("ñåì³(ñîò|òûñÿ÷í|ì³ëü¸íí)", bx::regex_constants::icase), "ñÿì³$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("âàñåìñîò", bx::regex_constants::icase), "âîñåìñîò");
-		wordform = bx::regex_replace(wordform, compiler.compile("ñåìíàööà", bx::regex_constants::icase), "ñÿìíàööà");
+	if(bx::regex_search(wordform, compiler.compile("ÑĞµĞ¼", bx::regex_constants::icase))){
+		wordform = bx::regex_replace(wordform, compiler.compile("ÑĞµĞ¼Ñ–(ÑĞ¾Ñ‚|Ñ‚Ñ‹ÑÑÑ‡Ğ½|Ğ¼Ñ–Ğ»ÑŒÑ‘Ğ½Ğ½)", bx::regex_constants::icase), "ÑÑĞ¼Ñ–$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ğ²Ğ°ÑĞµĞ¼ÑĞ¾Ñ‚", bx::regex_constants::icase), "Ğ²Ğ¾ÑĞµĞ¼ÑĞ¾Ñ‚");
+		wordform = bx::regex_replace(wordform, compiler.compile("ÑĞµĞ¼Ğ½Ğ°Ñ†Ñ†Ğ°", bx::regex_constants::icase), "ÑÑĞ¼Ğ½Ğ°Ñ†Ñ†Ğ°");
 	}
 
-	if(bx::regex_search(wordform, compiler.compile("äçå[âñ]ÿ[òö]", bx::regex_constants::icase))){
-		wordform = bx::regex_replace(wordform, compiler.compile("äçåâÿò([àêóöû])", bx::regex_constants::icase), "äçÿâÿò$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("äçåñÿ(ò[àêíóöû]*|öê)", bx::regex_constants::icase), "äçÿñÿ$1");	// possible prefixes: ïÿö[ü³]|øıñöü|øàñö³|ñÿì³|âàñüì³
-		wordform = bx::regex_replace(wordform, compiler.compile("äçå([âñ])ÿöåğà", bx::regex_constants::icase), "äçÿ$1ÿöåğà");
-		// TODO, possibly: "äçÿâÿöåğûõ" => "äçåâÿöåğûõ" and the like
+	if(bx::regex_search(wordform, compiler.compile("Ğ´Ğ·Ğµ[Ğ²Ñ]Ñ[Ñ‚Ñ†]", bx::regex_constants::icase))){
+		wordform = bx::regex_replace(wordform, compiler.compile("Ğ´Ğ·ĞµĞ²ÑÑ‚([Ğ°ĞºÑƒÑ†Ñ‹])", bx::regex_constants::icase), "Ğ´Ğ·ÑĞ²ÑÑ‚$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ğ´Ğ·ĞµÑÑ(Ñ‚[Ğ°ĞºĞ½ÑƒÑ†Ñ‹]*|Ñ†Ğº)", bx::regex_constants::icase), "Ğ´Ğ·ÑÑÑ$1");	// possible prefixes: Ğ¿ÑÑ†[ÑŒÑ–]|ÑˆÑÑÑ†ÑŒ|ÑˆĞ°ÑÑ†Ñ–|ÑÑĞ¼Ñ–|Ğ²Ğ°ÑÑŒĞ¼Ñ–
+		wordform = bx::regex_replace(wordform, compiler.compile("Ğ´Ğ·Ğµ([Ğ²Ñ])ÑÑ†ĞµÑ€Ğ°", bx::regex_constants::icase), "Ğ´Ğ·Ñ$1ÑÑ†ĞµÑ€Ğ°");
+		// TODO, possibly: "Ğ´Ğ·ÑĞ²ÑÑ†ĞµÑ€Ñ‹Ñ…" => "Ğ´Ğ·ĞµĞ²ÑÑ†ĞµÑ€Ñ‹Ñ…" and the like
 	}
 
 	return wordform;
@@ -135,10 +144,10 @@ std::string& tagger::SymbolTweaker::tweakNumeral(std::string& wordform)
 std::pair<std::string, std::string> tagger::SymbolTweaker::checkRomanNumber(std::string& wordform)
 {
 	if (wordform.length() <= maxLenRNumber){
-		if(bx::regex_search(wordform, compiler.compile("^[I²VXÕLCÑ]+(-[I²VXÕLCÑ]+)*$"))){
-			wordform = bx::regex_replace(wordform, compiler.compile("²"), "I");
-			wordform = bx::regex_replace(wordform, compiler.compile("Õ"), "X");
-			wordform = bx::regex_replace(wordform, compiler.compile("Ñ"), "C");
+		if(bx::regex_search(wordform, compiler.compile("^[IĞ†VXĞ¥LCĞ¡]+(-[IĞ†VXĞ¥LCĞ¡]+)*$"))){
+			wordform = bx::regex_replace(wordform, compiler.compile("Ğ†"), "I");
+			wordform = bx::regex_replace(wordform, compiler.compile("Ğ¥"), "X");
+			wordform = bx::regex_replace(wordform, compiler.compile("Ğ¡"), "C");
 			if (wordform.find("-") != wordform.npos){
 				return std::make_pair(wordform, "RTimespan");
 			}
@@ -159,12 +168,17 @@ std::pair<std::string, std::string> tagger::SymbolTweaker::checkRomanNumber(std:
 
 std::string& tagger::SymbolTweaker::tweakUshort(std::string& wordform)
 {
-	if (wordform[0] == '¢'){
-		wordform[0] = 'ó';
+// TODO: Regex replace
+
+// Used to be:
+/*
+	if (wordform[0] == 'Ñ'){
+		wordform[0] = 'Ñƒ';
 	}
-	else if (wordform[0] == '¡'){
-		wordform[0] = 'Ó';
+	else if (wordform[0] == 'Ğ'){
+		wordform[0] = 'Ğ£';
 	}
+*/
 	return wordform;
 }
 
@@ -172,7 +186,7 @@ std::string& tagger::SymbolTweaker::tweakUshort(std::string& wordform)
 std::string& tagger::SymbolTweaker::tweakLatinI(std::string& wordform)
 {
 	if (wordform == "i"){
-		wordform = "³";
+		wordform = "Ñ–";
 	}
 	return wordform;
 }

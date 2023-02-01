@@ -20,13 +20,13 @@ tagger::TarDeep::~TarDeep()
 std::string tagger::TarDeep::tweakTar(const std::string& wordform)
 {
 	std::string cleanWordform = TarShallow::tweakTar(wordform);
-	// äç => äñ
-	cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("äç([òê])", bx::regex_constants::icase), "äñ$1");
-	// æäæ => çäæ
-	cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("([åÿ])æäæ", bx::regex_constants::icase), "$1çäæ");
+	// Ð´Ð· => Ð´Ñ
+	cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("Ð´Ð·([Ñ‚Ðº])", bx::regex_constants::icase), "Ð´Ñ$1");
+	// Ð¶Ð´Ð¶ => Ð·Ð´Ð¶
+	cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("([ÐµÑ])Ð¶Ð´Ð¶", bx::regex_constants::icase), "$1Ð·Ð´Ð¶");
 	// nominal inflection
-	cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("([áê])îõ$", bx::regex_constants::icase), "$1àõ");
-	// ë' => ë
+	cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("([Ð±Ðº])Ð¾Ñ…$", bx::regex_constants::icase), "$1Ð°Ñ…");
+	// Ð»' => Ð»
 	cleanWordform = replaceLj(cleanWordform);
 	// Cons => Cons'
 	cleanWordform = replaceCons(cleanWordform);
@@ -37,21 +37,21 @@ std::string tagger::TarDeep::tweakTar(const std::string& wordform)
 
 std::string& tagger::TarDeep::replaceLj(std::string& wordform)
 {
-	if (bx::regex_search(wordform, compiler.compile("ë[ü¸þÿ]"))){
-		wordform = bx::regex_replace(wordform, compiler.compile("àëüêàã([àî])", bx::regex_constants::icase), "àëêàã$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("áëÿê(àä|³ð|íî)", bx::regex_constants::icase), "áëàê$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("êëþá", bx::regex_constants::icase), "êëóá");
-		wordform = bx::regex_replace(wordform, compiler.compile("êëÿñ([àíû])", bx::regex_constants::icase), "êëàñ$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("ëÿã³([çñ÷])", bx::regex_constants::icase), "ëàã³$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("ë¸(ã³|³ä)", bx::regex_constants::icase), "ëî$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("ëþðã", bx::regex_constants::icase), "ëóðã");
-		wordform = bx::regex_replace(wordform, compiler.compile("ëÿíä([çñ])", bx::regex_constants::icase), "ëàíä$1");	// BEWARE! "ô³íëÿíäñê³"
-		wordform = bx::regex_replace(wordform, compiler.compile("([î¸])ëÿã", bx::regex_constants::icase), "$1ëàã");
-		wordform = bx::regex_replace(wordform, compiler.compile("ïëÿ(äû|çì|êàò|ìá|ñò|öê)", bx::regex_constants::icase), "ïëà$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("ïëÿíýò", bx::regex_constants::icase), "ïëàíåò");	// OUT OF DOMAIN íý => íå CHANGE
-		wordform = bx::regex_replace(wordform, compiler.compile("ô³ëÿçîô", bx::regex_constants::icase), "ô³ëàñîô");	// OUT OF DOMAIN ç => ñ CHANGE
-		if (bx::regex_search(wordform, compiler.compile("ôëÿ"))){
-			wordform = bx::regex_replace(wordform, compiler.compile("ôëÿ(ã([àå³ìóø-])|ì([àå])|í([ãêý])|ð)", bx::regex_constants::icase), "ôëà$1");
+	if (bx::regex_search(wordform, compiler.compile("Ð»[ÑŒÑ‘ÑŽÑ]"))){
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð°Ð»ÑŒÐºÐ°Ð³([Ð°Ð¾])", bx::regex_constants::icase), "Ð°Ð»ÐºÐ°Ð³$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð±Ð»ÑÐº(Ð°Ð´|Ñ–Ñ€|Ð½Ð¾)", bx::regex_constants::icase), "Ð±Ð»Ð°Ðº$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("ÐºÐ»ÑŽÐ±", bx::regex_constants::icase), "ÐºÐ»ÑƒÐ±");
+		wordform = bx::regex_replace(wordform, compiler.compile("ÐºÐ»ÑÑ([Ð°Ð½Ñ‹])", bx::regex_constants::icase), "ÐºÐ»Ð°Ñ$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð»ÑÐ³Ñ–([Ð·ÑÑ‡])", bx::regex_constants::icase), "Ð»Ð°Ð³Ñ–$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð»Ñ‘(Ð³Ñ–|Ñ–Ð´)", bx::regex_constants::icase), "Ð»Ð¾$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð»ÑŽÑ€Ð³", bx::regex_constants::icase), "Ð»ÑƒÑ€Ð³");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð»ÑÐ½Ð´([Ð·Ñ])", bx::regex_constants::icase), "Ð»Ð°Ð½Ð´$1");	// BEWARE! "Ñ„Ñ–Ð½Ð»ÑÐ½Ð´ÑÐºÑ–"
+		wordform = bx::regex_replace(wordform, compiler.compile("([Ð¾Ñ‘])Ð»ÑÐ³", bx::regex_constants::icase), "$1Ð»Ð°Ð³");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð¿Ð»Ñ(Ð´Ñ‹|Ð·Ð¼|ÐºÐ°Ñ‚|Ð¼Ð±|ÑÑ‚|Ñ†Ðº)", bx::regex_constants::icase), "Ð¿Ð»Ð°$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð¿Ð»ÑÐ½ÑÑ‚", bx::regex_constants::icase), "Ð¿Ð»Ð°Ð½ÐµÑ‚");	// OUT OF DOMAIN Ð½Ñ => Ð½Ðµ CHANGE
+		wordform = bx::regex_replace(wordform, compiler.compile("Ñ„Ñ–Ð»ÑÐ·Ð¾Ñ„", bx::regex_constants::icase), "Ñ„Ñ–Ð»Ð°ÑÐ¾Ñ„");	// OUT OF DOMAIN Ð· => Ñ CHANGE
+		if (bx::regex_search(wordform, compiler.compile("Ñ„Ð»Ñ"))){
+			wordform = bx::regex_replace(wordform, compiler.compile("Ñ„Ð»Ñ(Ð³([Ð°ÐµÑ–Ð¼ÑƒÑˆ-])|Ð¼([Ð°Ðµ])|Ð½([Ð³ÐºÑ])|Ñ€)", bx::regex_constants::icase), "Ñ„Ð»Ð°$1");
 		}
 	}
 	return wordform;
@@ -60,64 +60,64 @@ std::string& tagger::TarDeep::replaceLj(std::string& wordform)
 
 std::string& tagger::TarDeep::replaceCons(std::string& wordform)
 {
-	if(bx::regex_search(wordform, compiler.compile("[âçìíïñô][ûý]"))){
-		wordform = bx::regex_replace(wordform, compiler.compile("([âçìíïñô])ý([êí])([òö])", bx::regex_constants::icase), "$1å$2$3");	// BEWARE! "ýñýíöûÿ", "êâ³íòýñýíöûÿ"
-		wordform = bx::regex_replace(wordform, compiler.compile("([âçìíô])ýà", bx::regex_constants::icase), "$1åà");
+	if(bx::regex_search(wordform, compiler.compile("[Ð²Ð·Ð¼Ð½Ð¿ÑÑ„][Ñ‹Ñ]"))){
+		wordform = bx::regex_replace(wordform, compiler.compile("([Ð²Ð·Ð¼Ð½Ð¿ÑÑ„])Ñ([ÐºÐ½])([Ñ‚Ñ†])", bx::regex_constants::icase), "$1Ðµ$2$3");	// BEWARE! "ÑÑÑÐ½Ñ†Ñ‹Ñ", "ÐºÐ²Ñ–Ð½Ñ‚ÑÑÑÐ½Ñ†Ñ‹Ñ"
+		wordform = bx::regex_replace(wordform, compiler.compile("([Ð²Ð·Ð¼Ð½Ñ„])ÑÐ°", bx::regex_constants::icase), "$1ÐµÐ°");
 	}
-	// ç => ç'
-	if (bx::regex_search(wordform, compiler.compile("ç[ûý]"))){
-		wordform = bx::regex_replace(wordform, compiler.compile("çûãçàã", bx::regex_constants::icase), "ç³ãçàã");
-		wordform = bx::regex_replace(wordform, compiler.compile("ðýçûä", bx::regex_constants::icase), "ðýç³ä");
-		wordform = bx::regex_replace(wordform, compiler.compile("ô³çû([ê÷])", bx::regex_constants::icase), "ô³ç³$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("çýí³ò", bx::regex_constants::icase), "çåí³ò");
-	}
-
-	// ñ => ñ'
-	if (bx::regex_search(wordform, compiler.compile("ñ[ûý]"))){
-		wordform = bx::regex_replace(wordform, compiler.compile("ïñûõ", bx::regex_constants::icase), "ïñ³õ");
-		wordform = bx::regex_replace(wordform, compiler.compile("ñýðâ", bx::regex_constants::icase), "ñåðâ");	// BEWARE! "ñýðâ³ñ", "ñýðâ³ñíû"
-		wordform = bx::regex_replace(wordform, compiler.compile("ñûí([äò])", bx::regex_constants::icase), "ñ³í$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("ñûñò", bx::regex_constants::icase), "ñ³ñò");
-		wordform = bx::regex_replace(wordform, compiler.compile("ñû÷í", bx::regex_constants::icase), "ñ³÷í");
+	// Ð· => Ð·'
+	if (bx::regex_search(wordform, compiler.compile("Ð·[Ñ‹Ñ]"))){
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð·Ñ‹Ð³Ð·Ð°Ð³", bx::regex_constants::icase), "Ð·Ñ–Ð³Ð·Ð°Ð³");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ñ€ÑÐ·Ñ‹Ð´", bx::regex_constants::icase), "Ñ€ÑÐ·Ñ–Ð´");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ñ„Ñ–Ð·Ñ‹([ÐºÑ‡])", bx::regex_constants::icase), "Ñ„Ñ–Ð·Ñ–$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð·ÑÐ½Ñ–Ñ‚", bx::regex_constants::icase), "Ð·ÐµÐ½Ñ–Ñ‚");
 	}
 
-	// á => á'
-	if (bx::regex_search(wordform, compiler.compile("áý"))){
-		wordform = bx::regex_replace(wordform, compiler.compile("áý(ãåì|ëåòð|í([ãç]|ýô)|ð(áýð|ãàì|êó[òö]|[íý])|òîí)", bx::regex_constants::icase), "áå$1");
+	// Ñ => Ñ'
+	if (bx::regex_search(wordform, compiler.compile("Ñ[Ñ‹Ñ]"))){
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð¿ÑÑ‹Ñ…", bx::regex_constants::icase), "Ð¿ÑÑ–Ñ…");
+		wordform = bx::regex_replace(wordform, compiler.compile("ÑÑÑ€Ð²", bx::regex_constants::icase), "ÑÐµÑ€Ð²");	// BEWARE! "ÑÑÑ€Ð²Ñ–Ñ", "ÑÑÑ€Ð²Ñ–ÑÐ½Ñ‹"
+		wordform = bx::regex_replace(wordform, compiler.compile("ÑÑ‹Ð½([Ð´Ñ‚])", bx::regex_constants::icase), "ÑÑ–Ð½$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("ÑÑ‹ÑÑ‚", bx::regex_constants::icase), "ÑÑ–ÑÑ‚");
+		wordform = bx::regex_replace(wordform, compiler.compile("ÑÑ‹Ñ‡Ð½", bx::regex_constants::icase), "ÑÑ–Ñ‡Ð½");
 	}
 
-	// ï => ï'
-	if (bx::regex_search(wordform, compiler.compile("ïý"))){
-		wordform = bx::regex_replace(wordform, compiler.compile("ïý(ä|[¢ð]ò|ò÷)", bx::regex_constants::icase), "ïå$1");
+	// Ð± => Ð±'
+	if (bx::regex_search(wordform, compiler.compile("Ð±Ñ"))){
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð±Ñ(Ð³ÐµÐ¼|Ð»ÐµÑ‚Ñ€|Ð½([Ð³Ð·]|ÑÑ„)|Ñ€(Ð±ÑÑ€|Ð³Ð°Ð¼|ÐºÑƒ[Ñ‚Ñ†]|[Ð½Ñ])|Ñ‚Ð¾Ð½)", bx::regex_constants::icase), "Ð±Ðµ$1");
 	}
 
-	// â => â'
-	if (bx::regex_search(wordform, compiler.compile("âý"))){
-		wordform = bx::regex_replace(wordform, compiler.compile("âý(ð([ãáñò])|ãåò|[íò]ýð)", bx::regex_constants::icase), "âå$1");
+	// Ð¿ => Ð¿'
+	if (bx::regex_search(wordform, compiler.compile("Ð¿Ñ"))){
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð¿Ñ(Ð´|[ÑžÑ€]Ñ‚|Ñ‚Ñ‡)", bx::regex_constants::icase), "Ð¿Ðµ$1");
 	}
 
-	// ô => ô'
-	if (bx::regex_search(wordform, compiler.compile("ôý"))){
-		wordform = bx::regex_replace(wordform, compiler.compile("ôý([äêëìðò]|ñ³)", bx::regex_constants::icase), "ôå$1");	// BEWARE! "êóôýðàê", "Ôýëüêà"
+	// Ð² => Ð²'
+	if (bx::regex_search(wordform, compiler.compile("Ð²Ñ"))){
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð²Ñ(Ñ€([Ð³Ð±ÑÑ‚])|Ð³ÐµÑ‚|[Ð½Ñ‚]ÑÑ€)", bx::regex_constants::icase), "Ð²Ðµ$1");
 	}
 
-	// ì => ì'
-	if (bx::regex_search(wordform, compiler.compile("ìý"))){
-		wordform = bx::regex_replace(wordform, compiler.compile("ìý([ãý]à|ä[^çë])", bx::regex_constants::icase), "ìå$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("ìýë¸ä", bx::regex_constants::icase), "ìåëîä");	// OUT OF DOMAIN ë¸ => ëî CHANGE
-		wordform = bx::regex_replace(wordform, compiler.compile("ìýëÿäð", bx::regex_constants::icase), "ìåëàäð");	// OUT OF DOMAIN ëÿ => ëà CHANGE
-		wordform = bx::regex_replace(wordform, compiler.compile("(\\w)ìýòð", bx::regex_constants::icase), "$1ìåòð");
-		wordform = bx::regex_replace(wordform, compiler.compile("ìýòàë", bx::regex_constants::icase), "ìåòàë");
-		wordform = bx::regex_replace(wordform, compiler.compile("ýêçàìýí", bx::regex_constants::icase), "ýêçàìåí");
-		wordform = bx::regex_replace(wordform, compiler.compile("êàìýð", bx::regex_constants::icase), "êàìåð");
-		wordform = bx::regex_replace(wordform, compiler.compile("àìýðûê", bx::regex_constants::icase), "àìåðûê");
+	// Ñ„ => Ñ„'
+	if (bx::regex_search(wordform, compiler.compile("Ñ„Ñ"))){
+		wordform = bx::regex_replace(wordform, compiler.compile("Ñ„Ñ([Ð´ÐºÐ»Ð¼Ñ€Ñ‚]|ÑÑ–)", bx::regex_constants::icase), "Ñ„Ðµ$1");	// BEWARE! "ÐºÑƒÑ„ÑÑ€Ð°Ðº", "Ð¤ÑÐ»ÑŒÐºÐ°"
 	}
 
-	// í => í'
-	if (bx::regex_search(wordform, compiler.compile("íý"))){
-		wordform = bx::regex_replace(wordform, compiler.compile("íý([ãê¢][ðì]|ðã)", bx::regex_constants::icase), "íå$1");
-		wordform = bx::regex_replace(wordform, compiler.compile("([âã])åíýð", bx::regex_constants::icase), "$1åíåð");
-		wordform = bx::regex_replace(wordform, compiler.compile("íý¢òð", bx::regex_constants::icase), "íåéòð");	// OUT OF DOMAIN ¢ => é CHANGE
+	// Ð¼ => Ð¼'
+	if (bx::regex_search(wordform, compiler.compile("Ð¼Ñ"))){
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð¼Ñ([Ð³Ñ]Ð°|Ð´[^Ð·Ð»])", bx::regex_constants::icase), "Ð¼Ðµ$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð¼ÑÐ»Ñ‘Ð´", bx::regex_constants::icase), "Ð¼ÐµÐ»Ð¾Ð´");	// OUT OF DOMAIN Ð»Ñ‘ => Ð»Ð¾ CHANGE
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð¼ÑÐ»ÑÐ´Ñ€", bx::regex_constants::icase), "Ð¼ÐµÐ»Ð°Ð´Ñ€");	// OUT OF DOMAIN Ð»Ñ => Ð»Ð° CHANGE
+		wordform = bx::regex_replace(wordform, compiler.compile("(\\w)Ð¼ÑÑ‚Ñ€", bx::regex_constants::icase), "$1Ð¼ÐµÑ‚Ñ€");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð¼ÑÑ‚Ð°Ð»", bx::regex_constants::icase), "Ð¼ÐµÑ‚Ð°Ð»");
+		wordform = bx::regex_replace(wordform, compiler.compile("ÑÐºÐ·Ð°Ð¼ÑÐ½", bx::regex_constants::icase), "ÑÐºÐ·Ð°Ð¼ÐµÐ½");
+		wordform = bx::regex_replace(wordform, compiler.compile("ÐºÐ°Ð¼ÑÑ€", bx::regex_constants::icase), "ÐºÐ°Ð¼ÐµÑ€");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð°Ð¼ÑÑ€Ñ‹Ðº", bx::regex_constants::icase), "Ð°Ð¼ÐµÑ€Ñ‹Ðº");
+	}
+
+	// Ð½ => Ð½'
+	if (bx::regex_search(wordform, compiler.compile("Ð½Ñ"))){
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð½Ñ([Ð³ÐºÑž][Ñ€Ð¼]|Ñ€Ð³)", bx::regex_constants::icase), "Ð½Ðµ$1");
+		wordform = bx::regex_replace(wordform, compiler.compile("([Ð²Ð³])ÐµÐ½ÑÑ€", bx::regex_constants::icase), "$1ÐµÐ½ÐµÑ€");
+		wordform = bx::regex_replace(wordform, compiler.compile("Ð½ÑÑžÑ‚Ñ€", bx::regex_constants::icase), "Ð½ÐµÐ¹Ñ‚Ñ€");	// OUT OF DOMAIN Ñž => Ð¹ CHANGE
 	}
 	return wordform;
 }

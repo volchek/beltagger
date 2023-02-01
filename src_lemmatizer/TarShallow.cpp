@@ -24,9 +24,9 @@ tagger::TarShallow::~TarShallow()
 
 void tagger::TarShallow::completeSimpleTar()
 {
-	simpleTar["бяз"] = "без";
-	simpleTar["й"] = "і";
-	simpleTar["ня"] = "не";
+	simpleTar["Р±СЏР·"] = "Р±РµР·";
+	simpleTar["Р№"] = "С–";
+	simpleTar["РЅСЏ"] = "РЅРµ";
 }
 
 
@@ -36,22 +36,22 @@ std::string tagger::TarShallow::tweakTar(const std::string& wordform)
 		return simpleTar[wordform];
 	}
 	std::string cleanWordform = wordform;
-	if (bx::regex_search(cleanWordform, compiler.compile("зь"))){
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("зь([влмнбз])([ьяеёюі])", bx::regex_constants::icase), "з$1$2");
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("дзьдз([ьяеёюі])", bx::regex_constants::icase), "ддз$1");
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("зьдз([ьяеёюі])", bx::regex_constants::icase), "здз$1");	
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("зь([яею])", bx::regex_constants::icase), "з'$1");
+	if (bx::regex_search(cleanWordform, compiler.compile("Р·СЊ"))){
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("Р·СЊ([РІР»РјРЅР±Р·])([СЊСЏРµС‘СЋС–])", bx::regex_constants::icase), "Р·$1$2");
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("РґР·СЊРґР·([СЊСЏРµС‘СЋС–])", bx::regex_constants::icase), "РґРґР·$1");
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("Р·СЊРґР·([СЊСЏРµС‘СЋС–])", bx::regex_constants::icase), "Р·РґР·$1");	
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("Р·СЊ([СЏРµСЋ])", bx::regex_constants::icase), "Р·'$1");
 	}
-	if (bx::regex_search(cleanWordform, compiler.compile("сь"))){
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("сься", bx::regex_constants::icase), "шся");	// BEWARE! "калосься" and the like get incorrect representations
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("сь([влмнпсц])([ьяеёюі])", bx::regex_constants::icase), "с$1$2");
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("пісме", bx::regex_constants::icase), "пісьме");	// correct the mistakes
+	if (bx::regex_search(cleanWordform, compiler.compile("СЃСЊ"))){
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("СЃСЊСЃСЏ", bx::regex_constants::icase), "С€СЃСЏ");	// BEWARE! "РєР°Р»РѕСЃСЊСЃСЏ" and the like get incorrect representations
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("СЃСЊ([РІР»РјРЅРїСЃС†])([СЊСЏРµС‘СЋС–])", bx::regex_constants::icase), "СЃ$1$2");
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("РїС–СЃРјРµ", bx::regex_constants::icase), "РїС–СЃСЊРјРµ");	// correct the mistakes
 	}
-	if (bx::regex_search(cleanWordform, compiler.compile("[лнц]ь"))){
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("ль([л])([ьяеёюі])", bx::regex_constants::icase), "л$1$2");
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("нь([нс])([ьяеёюі])", bx::regex_constants::icase), "н$1$2");
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("ньдз([ьяеёюі])", bx::regex_constants::icase), "ндз$1");
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("ць([вц])([ьяеёюі])", bx::regex_constants::icase), "ц$1$2");	// BEWARE! "заахвоцьце" and the like get incorrect representations
+	if (bx::regex_search(cleanWordform, compiler.compile("[Р»РЅС†]СЊ"))){
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("Р»СЊ([Р»])([СЊСЏРµС‘СЋС–])", bx::regex_constants::icase), "Р»$1$2");
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("РЅСЊ([РЅСЃ])([СЊСЏРµС‘СЋС–])", bx::regex_constants::icase), "РЅ$1$2");
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("РЅСЊРґР·([СЊСЏРµС‘СЋС–])", bx::regex_constants::icase), "РЅРґР·$1");
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("С†СЊ([РІС†])([СЊСЏРµС‘СЋС–])", bx::regex_constants::icase), "С†$1$2");	// BEWARE! "Р·Р°Р°С…РІРѕС†СЊС†Рµ" and the like get incorrect representations
 	}
 	return cleanWordform;
 }

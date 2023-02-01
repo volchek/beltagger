@@ -33,18 +33,18 @@ void tagger::Compounds::startCompounds()
 
 void tagger::Compounds::completeAdjSubst()
 {
-	adjSubst["ага"] = "Adj:msG|Adj:msA|Adj:nsG|Adj:msA";
-	adjSubst["ае"] = "Adj:nsN|Adj:nsA|Adj:fsG";
-	adjSubst["ай"] = "Adj:fsG|Adj:fsD|Adj:fsI|Adj:fsL";
-	adjSubst["аму"] = "Adj:msD|Adj:nsD";
-	adjSubst["аю"] = "Adj:fsI";
-	adjSubst["ая"] = "Adj:fsN";
-	adjSubst["ую"] = "Adj:fsA";
-	adjSubst["ы"] = "Adj:msN|Adj:msA";
-	adjSubst["ым"] = "Adj:msI|Adj:msL|Adj:nsI|Adj:nsL|Adj:0pD";
-	adjSubst["ымі"] = "Adj:0pI";
-	adjSubst["ых"] = "Adj:0pG|Adj:0pA|Adj:0pL";
-	adjSubst["ыя"] = "Adj:0pN|Adj:0pA";
+	adjSubst["Р°РіР°"] = "Adj:msG|Adj:msA|Adj:nsG|Adj:msA";
+	adjSubst["Р°Рµ"] = "Adj:nsN|Adj:nsA|Adj:fsG";
+	adjSubst["Р°Р№"] = "Adj:fsG|Adj:fsD|Adj:fsI|Adj:fsL";
+	adjSubst["Р°РјСѓ"] = "Adj:msD|Adj:nsD";
+	adjSubst["Р°СЋ"] = "Adj:fsI";
+	adjSubst["Р°СЏ"] = "Adj:fsN";
+	adjSubst["СѓСЋ"] = "Adj:fsA";
+	adjSubst["С‹"] = "Adj:msN|Adj:msA";
+	adjSubst["С‹Рј"] = "Adj:msI|Adj:msL|Adj:nsI|Adj:nsL|Adj:0pD";
+	adjSubst["С‹РјС–"] = "Adj:0pI";
+	adjSubst["С‹С…"] = "Adj:0pG|Adj:0pA|Adj:0pL";
+	adjSubst["С‹СЏ"] = "Adj:0pN|Adj:0pA";
 }
 
 // Main functions
@@ -78,7 +78,7 @@ bool tagger::Compounds::processEqualParts(compInfo& partsInfo, std::vector<std::
 	return true;
 }
 
-bool tagger::Compounds::processNumbAndAdj(std::vector<std::string>& wordformParts, compInfo& partsInfo, std::vector<std::string>& res)	// words like "8-вёсельны"
+bool tagger::Compounds::processNumbAndAdj(std::vector<std::string>& wordformParts, compInfo& partsInfo, std::vector<std::string>& res)	// words like "8-РІС‘СЃРµР»СЊРЅС‹"
 {
 	if (wordformParts.size() != 2){
 		return false;
@@ -98,8 +98,8 @@ bool tagger::Compounds::processNumbAndAdj(std::vector<std::string>& wordformPart
 			res.push_back(compAdjPostfix);
 			return true;
 		}
-		else if (bx::regex_match(wordformParts[1], m, compiler.compile("(гадов|кіламетров|павярхов|томн|тонн)(ы(х|мі?|я)?|а(га|му|я|й)|ую)"))){
-			lemma.append("-").append(m[1]).append("ы");
+		else if (bx::regex_match(wordformParts[1], m, compiler.compile("(РіР°РґРѕРІ|РєС–Р»Р°РјРµС‚СЂРѕРІ|РїР°РІСЏСЂС…РѕРІ|С‚РѕРјРЅ|С‚РѕРЅРЅ)(С‹(С…|РјС–?|СЏ)?|Р°(РіР°|РјСѓ|СЏ|Р№)|СѓСЋ)"))){
+			lemma.append("-").append(m[1]).append("С‹");
 			res.push_back(lemma);
 			res.push_back(adjSubst[m[2]]);
 			res.push_back(compAdjPostfix);
@@ -168,9 +168,9 @@ bool tagger::Compounds::splitWordform(std::string& wordform)
 	if (!cPartsInfo.empty()){
 		clearFields();
 	}
-	if (wordform.find("-") != wordform.npos || wordform.find("–") != wordform.npos){
+	if (wordform.find("-") != wordform.npos || wordform.find("вЂ“") != wordform.npos){
 		std::string tmp = wordform;
-		boost::split(cWordformParts, tmp, boost::is_any_of("-–"));
+		boost::split(cWordformParts, tmp, boost::is_any_of("-вЂ“"));
 		cPartsInfo = findInfo(cWordformParts);
 		splitInfo(cPartsInfo, cSplitPartsInfo);
 		return true;
@@ -244,32 +244,49 @@ bool tagger::Compounds::checkExistTags(compInfo& partsInfo) const
 
 bool tagger::Compounds::checkAdj(const std::string& wordform)
 {
-	char lastSymb = wordform[wordform.size() - 1];
-	std::string stem = wordform.substr(0, wordform.size() - 1);
 	std::vector<std::string> possibleAdj; // size of this vector is guaranteed to be 0 or 1
-	if (lastSymb == 'е' || lastSymb == 'я'){
-		stem += "і";
+	bx::smatch m;
+	if (bx::regex_match(wordform, m, compiler.compile("^(.+)([Р°РµСЏ])$"))){
+		std::string stem = m[1];
+		if (m[2] == "Рµ" || m[2] == "СЏ" || bx::regex_match(stem, compiler.compile("[РіРєС…]$"))){
+			stem += "С–";
+		}
+		else {
+			stem += "С‹";
+		}
 		possibleAdj.push_back(stem);
 	}
-	else if (lastSymb == 'а'){
+	else {
+		return false;
+	}
+// Used to be:
+/*
+	char lastSymb = wordform[wordform.size() - 1];
+	std::string stem = wordform.substr(0, wordform.size() - 1);
+	if (lastSymb == 'Рµ' || lastSymb == 'СЏ'){
+		stem += "С–";
+		possibleAdj.push_back(stem);
+	}
+	else if (lastSymb == 'Р°'){
 		char lastStemSymb = stem[stem.size() - 1];
-		if (lastStemSymb == 'г' || lastStemSymb == 'к' || lastStemSymb == 'х' ){
-			stem += "і";
+		if (lastStemSymb == 'Рі' || lastStemSymb == 'Рє' || lastStemSymb == 'С…' ){
+			stem += "С–";
 			possibleAdj.push_back(stem);
 		}
 		else { 
-			stem += "ы";
+			stem += "С‹";
 			possibleAdj.push_back(stem);
 		}
 	}
 	if (possibleAdj.size() == 0){
 		return false;
 	}
+*/
 	compInfo possibleAdjInfo = findInfo(possibleAdj); // now size of possibleAdjInfo is guaranteed to be 1
 	if (possibleAdjInfo[0].second.find("Adj:") != possibleAdjInfo[0].second.npos){
 		return true;
 	}
-	return false; 
+	return false;
 }
 
 std::set<std::string>& tagger::Compounds::populateTagsSet(const tagger::wordInfo& info, std::set<std::string>& tagsSet)

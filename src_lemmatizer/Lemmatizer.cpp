@@ -51,7 +51,7 @@ void tagger::Lemmatizer::initFields(const std::string& inputFile, const std::str
 	lLemOptions.lastColumnIndex = lastIndex;
 	lLemOptions.logUnk = logUnknowns;
 	compiler.imbue(loc);
-	belUpLetters = compiler.compile("^[ÖÓÊÅÍÃØÇÕÔÛÂÀÏÐÎËÄÆÝß×ÑÌ²ÒÁÞ]$");
+	belUpLetters = compiler.compile("^[Ð¦Ð£ÐšÐ•ÐÐ“Ð¨Ð—Ð¥Ð¤Ð«Ð’ÐÐŸÐ ÐžÐ›Ð”Ð–Ð­Ð¯Ð§Ð¡ÐœÐ†Ð¢Ð‘Ð®]$");
 }
 
 
@@ -280,7 +280,7 @@ bool tagger::Lemmatizer::processWithTweaks(const std::string& inputLine, std::st
 		}
 	}
 
-	// Normalizing numeral roots such as "äçåâÿò" => "äçÿâÿò"
+	// Normalizing numeral roots such as "Ð´Ð·ÐµÐ²ÑÑ‚" => "Ð´Ð·ÑÐ²ÑÑ‚"
 	std::string cleanWithNumerals = lSTweaker->tweakNumeral(wordform);	// clean
 	if (processBothCases(inputLine, cleanWithNumerals, orthPostfix)){
 		return true;

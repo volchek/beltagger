@@ -20,8 +20,8 @@ namespace tagger {
 		~Compounds();
 		bool splitWordform(std::string&);
 		bool processSimpleCases(std::string&, std::vector<std::string>&);
-		bool processAdj(tagger::wordInfo&);	// words like "прыгожа-гнуткі"
-		bool processNouns(std::vector<std::string>&);	// words like "палац-прыгажун", "школа-інтэрнат"
+		bool processAdj(tagger::wordInfo&);	// words like "РїСЂС‹РіРѕР¶Р°-РіРЅСѓС‚РєС–"
+		bool processNouns(std::vector<std::string>&);	// words like "РїР°Р»Р°С†-РїСЂС‹РіР°Р¶СѓРЅ", "С€РєРѕР»Р°-С–РЅС‚СЌСЂРЅР°С‚"
 
 	private:
 		std::locale loc;
@@ -38,8 +38,8 @@ namespace tagger {
 		bool checkEqTags(compInfo&) const;
 		bool checkExistTags(compInfo&) const;
 		bool checkAdj(const std::string&);
-		bool processEqualParts(compInfo&, std::vector<std::string>&);	// words like "рэжысёр-пастаноўшчык"
-		bool processNumbAndAdj(std::vector<std::string>&, compInfo&, std::vector<std::string>&);	// words like "8-вёсельны"
+		bool processEqualParts(compInfo&, std::vector<std::string>&);	// words like "СЂСЌР¶С‹СЃС‘СЂ-РїР°СЃС‚Р°РЅРѕСћС€С‡С‹Рє"
+		bool processNumbAndAdj(std::vector<std::string>&, compInfo&, std::vector<std::string>&);	// words like "8-РІС‘СЃРµР»СЊРЅС‹"
 		void splitInfo(compInfo&, std::vector<wordInfo>&);
 		void clearFields();
 		bool intersectMaps(std::vector<wordInfo>&, std::vector<wordInfo>&);

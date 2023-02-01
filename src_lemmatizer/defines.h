@@ -8,7 +8,7 @@
 #endif
 
 #if defined(_WIN32) || defined(_WIN64)
-# define LOCNAME "Russian_Russia.1251"
+# define LOCNAME "be_BY.UTF-8" // TODO: Test
 #else
-# define LOCNAME "ru_RU.CP1251"
+# define LOCNAME "be_BY.UTF-8"
 #endif

@@ -34,30 +34,30 @@ void tagger::PrNumbers::completeNumTemplates()
 	numTemplates.push_back(std::make_pair(compiler.compile("^\\d+:\\d+$"), "Score|Time"));
 	numTemplates.push_back(std::make_pair(compiler.compile("^\\d{2}:\\d{2}:\\d{2}$"), "Time"));
 	numTemplates.push_back(std::make_pair(compiler.compile("^\\d{2}\\.\\d{2}\\.\\d{2}(\\d{2})?$"), "Date"));
-	numTemplates.push_back(std::make_pair(compiler.compile("^\\d{1,3}[-ñ]\\d{1,3}$"), "Span"));
-	numTemplates.push_back(std::make_pair(compiler.compile("^[12]\\d{3}[-ñ]([12]\\d)?\\d{2}$"), "Timespan"));
+	numTemplates.push_back(std::make_pair(compiler.compile("^\\d{1,3}[-‚Äì]\\d{1,3}$"), "Span"));
+	numTemplates.push_back(std::make_pair(compiler.compile("^[12]\\d{3}[-‚Äì]([12]\\d)?\\d{2}$"), "Timespan"));
 	numTemplates.push_back(std::make_pair(compiler.compile("^\\d{1,4}\\.$"), "ListItem"));
 	numTemplates.push_back(std::make_pair(compiler.compile("^(\\d{2,3}|\\d{1}-\\d{3}-\\d{3}|\\d{1}-\\d{4}-\\d{2})(-\\d{2}){2}$"), "Phone"));
-	numTemplates.push_back(std::make_pair(compiler.compile("^π\\.\\d+$"), "IssueID"));
-	numTemplates.push_back(std::make_pair(compiler.compile("^π\\d+$"), "OrdNumber"));
+	numTemplates.push_back(std::make_pair(compiler.compile("^‚Ññ\\.\\d+$"), "IssueID"));
+	numTemplates.push_back(std::make_pair(compiler.compile("^‚Ññ\\d+$"), "OrdNumber"));
 	numTemplates.push_back(std::make_pair(compiler.compile("^\\d{1,4}x\\d{1,4}$"), "Size"));
 	numTemplates.push_back(std::make_pair(compiler.compile("^1:\\d{2,10}$"), "Scope"));
 }
 
 void tagger::PrNumbers::completeNumSubst()
 {
-	numSubst["Â"] = "NumOrd:nsN|NumOrd:nsA";
-	numSubst["È"] = "NumOrd:fsG|NumOrd:fsD|NumOrd:fsI|NumOrd:fsL";
-	numSubst["Ï"] = "NumOrd:msI|NumOrd:msL|NumOrd:nsI|NumOrd:nsL|NumOrd:0pD";
-	numSubst["ı"] = "NumOrd:0pG|NumOrd:0pA|NumOrd:0pL";
-	numSubst["˚"] = "NumOrd:msN|NumOrd:msA";
-	numSubst["˛"] = "NumOrd:fsA";
-	numSubst["ˇ"] = "NumOrd:0pN|NumOrd:0pA|NumOrd:fsN";
-	numSubst["„‡"] = "NumOrd:msG|NumOrd:nsG";
-	numSubst["ÏÛ"] = "NumOrd:msD|NumOrd:nsD";
-	numSubst["˚Ï"] = "NumOrd:msI|NumOrd:nsI|NumOrd:0pD";
-	numSubst["≥Ï"] = "NumOrd:msI|NumOrd:nsI|NumOrd:0pD";
-	numSubst["‡È"] = "NumOrd:fsG|NumOrd:fsD|NumOrd:fsI|NumOrd:fsL";
+	numSubst["–µ"] = "NumOrd:nsN|NumOrd:nsA";
+	numSubst["–π"] = "NumOrd:fsG|NumOrd:fsD|NumOrd:fsI|NumOrd:fsL";
+	numSubst["–º"] = "NumOrd:msI|NumOrd:msL|NumOrd:nsI|NumOrd:nsL|NumOrd:0pD";
+	numSubst["—Ö"] = "NumOrd:0pG|NumOrd:0pA|NumOrd:0pL";
+	numSubst["—ã"] = "NumOrd:msN|NumOrd:msA";
+	numSubst["—é"] = "NumOrd:fsA";
+	numSubst["—è"] = "NumOrd:0pN|NumOrd:0pA|NumOrd:fsN";
+	numSubst["–≥–∞"] = "NumOrd:msG|NumOrd:nsG";
+	numSubst["–º—É"] = "NumOrd:msD|NumOrd:nsD";
+	numSubst["—ã–º"] = "NumOrd:msI|NumOrd:nsI|NumOrd:0pD";
+	numSubst["—ñ–º"] = "NumOrd:msI|NumOrd:nsI|NumOrd:0pD";
+	numSubst["–∞–π"] = "NumOrd:fsG|NumOrd:fsD|NumOrd:fsI|NumOrd:fsL";
 }
 
 
@@ -75,8 +75,8 @@ std::string tagger::PrNumbers::checkNumber(const std::string& wordform)
 std::pair<std::string, std::string> tagger::PrNumbers::checkMixedNumber(const std::string& wordform)
 {
 	bx::smatch m;
-	if (bx::regex_search(wordform, m, compiler.compile("^(\\d{1,4})\\-([ÂÈÏı˚˛ˇ]|„‡|ÏÛ|˚Ï|‡È)$"))){
-		std::pair<std::string, std::string> res = std::make_pair(m[1] + "-˚", numSubst[m[2]]);
+	if (bx::regex_search(wordform, m, compiler.compile("^(\\d{1,4})\\-([–µ–π–º—Ö—ã—é—è]|–≥–∞|–º—É|—ã–º|–∞–π)$"))){
+		std::pair<std::string, std::string> res = std::make_pair(m[1] + "-—ã", numSubst[m[2]]);
 		return res;
 	}
 	else {
