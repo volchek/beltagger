@@ -18,8 +18,10 @@ namespace assembler {
 		static const std::string functionWords[FW_COUNT];
 	};
 
-	const std::string FuncWords::functionWords[FW_COUNT] = {"conjunctions", "prepositions", 
-		"particles", "modals", "interjections", "punctuation"};
+	const std::string FuncWords::functionWords[FW_COUNT] = {
+		"conjunctions", "prepositions", "particles",
+		"modals", "interjections", "punctuation"
+	};
 
 	void FuncWords::completePOS()
 	{

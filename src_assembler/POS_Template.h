@@ -3,7 +3,7 @@
 #include "POS.h"
 
 namespace assembler {
-	class POS_Template : public POS 
+	class POS_Template : public POS
 	{
 	public:
 		POS_Template(wordsToLemsMap& db);
@@ -20,7 +20,7 @@ namespace assembler {
 		void parseAdjAndPartTemplatePlugin(std::string& dataLine);
 		void parseVerbTemplatePlugin(std::string& dataLine);
 		void parseNounTemplatePlugin(std::string& dataLine);
-		
+
 		std::string templatePOS;
 		std::map<std::string, std::vector<std::string> > paradigm;
 		std::map<std::string, std::vector<std::string> > paradigmAdjAndPart;

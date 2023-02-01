@@ -23,7 +23,7 @@ namespace assembler {
 
 assembler::Noun::Noun(wordsToLemsMap& db, std::shared_ptr<POS_Template> tm, std::shared_ptr<ParsePrefix> lk) :
 			POS(db), templ(tm), lookup(lk)
-{ 
+{
 	completePOS();
 	lookup->setCondition("N");
 }

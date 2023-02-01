@@ -30,7 +30,7 @@ const std::regex assembler::Verb::participleTemplate = std::regex("^(.+(ш|ч|н
 
 assembler::Verb::Verb(wordsToLemsMap& db, std::shared_ptr<POS_Template> tm) :
 			POS(db), templ(tm)
-{ 
+{
 	completePOS();
 }
 
@@ -78,7 +78,7 @@ void assembler::Verb::parseExplicit(std::string& dataLine)
 			if (currentTag.find("Part") == currentTag.npos){
 				++database[currentWordform][lemma][currentTag];
 			}
-			// Case 2: participle 
+			// Case 2: participle
 			{
 				std::smatch decomposition;
 				std::regex_search(currentWordform, decomposition, participleTemplate);
@@ -89,7 +89,7 @@ void assembler::Verb::parseExplicit(std::string& dataLine)
 				if (currentTag.find(":pass") != currentTag.npos){	// passive participle might not be reflexive
 					partClass = '1';
 					if (finalLetter == "м"){
-						currentTag += ":p";	// present tense marker	
+						currentTag += ":p";	// present tense marker
 					}
 					else {
 						currentTag += ":a";
@@ -142,6 +142,6 @@ void assembler::Verb::completePOS()
 	std::cout << "\tReading participial declension templates...";
 	templ->parseTemplate("part");
 	std::cout << "\tDone" << std::endl;
-	
+
 	completeInnerPOS("verb_main", "the source file");
 }

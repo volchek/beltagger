@@ -23,6 +23,6 @@ void assembler::NounExcl::parseExplicit(std::string& dataLine)
 	const std::string allTags = normalizeTagset(data[2]); // TODO: Check name validity
 	boost::split(tags, allTags, boost::is_any_of("|"));
 	for (std::vector<std::string>::iterator it = tags.begin(); it != tags.end(); ++it){
-		++database[data[0]][data[1]][*it];	
+		++database[data[0]][data[1]][*it];
 	}
 }

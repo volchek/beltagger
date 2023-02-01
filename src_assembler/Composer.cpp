@@ -41,7 +41,7 @@ Composer::~Composer()
 ***********************/
 
 void Composer::getOutputOption(int argc, char** argv){
-	namespace po = boost::program_options; 
+	namespace po = boost::program_options;
 	po::options_description desc("Options");
 	desc.add_options()
 		("format,f", po::value<std::string>(), "output format")
@@ -60,10 +60,10 @@ void Composer::getOutputOption(int argc, char** argv){
 				std::cerr << "Invalid -f flag. Using the default output format.\n" << std::endl;
 			}
 		}
-		
+
 		// -i: Input directory
-		if (vm.count("input-dir")){ 
-			inputPath =  vm["input-dir"].as<std::string>(); 
+		if (vm.count("input-dir")){
+			inputPath = vm["input-dir"].as<std::string>();
 		}
 
 		// -o: Output file ("tagged_" + input file name by default)

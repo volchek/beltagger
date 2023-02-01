@@ -13,10 +13,10 @@ std::string assembler::POS::pathPrefix = assembler::POS::defaultPathPrefix;
 
 const std::regex assembler::POS::gluedCasesTemplate = std::regex("N[GA]|G[ADL]|D[AL]|IL");
 const std::vector<std::pair<std::regex, std::string>> assembler::POS::normalizationPairs = {
-    std::make_pair(std::regex("^(.+)NGDAIL$"), "$1N|$1G|$1D|$1A|$1I|$1L"),
-    std::make_pair(std::regex("^(.+)GDIL$"), "$1G|$1D|$1I|$1L"),
-    std::make_pair(std::regex("^(.+)([NGDAIL])([NGDAIL])([NGDAIL])$"), "$1$2|$1$3|$1$4"),
-    std::make_pair(std::regex("^(.+)([NGDAIL])([NGDAIL])$"), "$1$2|$1$3")
+	std::make_pair(std::regex("^(.+)NGDAIL$"), "$1N|$1G|$1D|$1A|$1I|$1L"),
+	std::make_pair(std::regex("^(.+)GDIL$"), "$1G|$1D|$1I|$1L"),
+	std::make_pair(std::regex("^(.+)([NGDAIL])([NGDAIL])([NGDAIL])$"), "$1$2|$1$3|$1$4"),
+	std::make_pair(std::regex("^(.+)([NGDAIL])([NGDAIL])$"), "$1$2|$1$3")
 };
 
 assembler::POS::POS(wordsToLemsMap& db) :
@@ -52,7 +52,7 @@ void assembler::POS::readFile(std::string fileName)
 		std::cerr << "Can't find " << filePath;
 		return;
 	}
-	
+
 	std::string inputString;
 	while(std::getline(filein, inputString)){
 		if (!inputString.empty()){
@@ -67,7 +67,7 @@ void assembler::POS::readFile(std::string fileName)
 
 
 /**********************
-   Tag normalization
+	Tag normalization
 ***********************/
 
 std::string assembler::POS::normalizeTagset(std::string& inputStr)

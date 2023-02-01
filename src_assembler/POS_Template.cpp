@@ -3,7 +3,7 @@
 #include <boost/algorithm/string.hpp>
 #include <regex>
 
-assembler::POS_Template::POS_Template(wordsToLemsMap& db) 
+assembler::POS_Template::POS_Template(wordsToLemsMap& db)
 	: POS(db)
 {
 }
@@ -38,7 +38,7 @@ void assembler::POS_Template::parseAdjAndPartTemplatePlugin(std::string& dataLin
 	std::vector<std::string> allData(3);	// class - inflection - paradigm
 	boost::split(allData, dataLine, boost::is_any_of("\t"));
 	std::vector<std::string> infl;
-	boost::split(infl, allData[1], boost::is_any_of(" "));	
+	boost::split(infl, allData[1], boost::is_any_of(" "));
 	inflection[allData[0]] = infl;
 	std::vector<std::string> grams;
 	boost::split(grams, allData[2], boost::is_any_of(" "));
@@ -82,7 +82,7 @@ std::vector<std::string>& assembler::POS_Template::getInflection(std::string par
 }
 
 /**********************
-	  Clear data
+	Clear data
 ***********************/
 
 void assembler::POS_Template::clearParadigm(std::string pos)

@@ -19,7 +19,7 @@ public:
 private:
 	std::string outputFormat;
 	assembler::wordsToLemsMap database;
-	std::map<std::string, int> debugCountWords;	
+	std::map<std::string, int> debugCountWords;
 	std::shared_ptr<assembler::POS_Template> objTemplate;
 	std::shared_ptr<assembler::ParsePrefix> objParsePrefix;
 

@@ -7,7 +7,7 @@ void assembler::ParsePrefix::parseExplicit(std::string& dataLine)
 	boost::split(allData, dataLine, boost::is_any_of("\t"));
 	std::string lemma = allData[0];
 	std::string prefix = allData[1];
-	
+
 	if (lookup.find(lemma) != lookup.end()){
 		std::string prefixedLemma = prefix + lemma;
 		for (vecStrIter it = lookup[lemma].begin(); it != lookup[lemma].end(); ++it){

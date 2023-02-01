@@ -5,7 +5,7 @@
 #include <boost/algorithm/string.hpp>
 
 namespace assembler {
-	class ParsePrefix : public POS 
+	class ParsePrefix : public POS
 	{
 	public:
 		ParsePrefix(wordsToLemsMap& db) : POS(db) { }

@@ -12,7 +12,7 @@ namespace assembler {
 	{
 	public:
 		ProperNoun(wordsToLemsMap& db) :
-		  AuxPOS(db), NP_Main(db), NP_Excl(db), NP_Abbr(db)
+		AuxPOS(db), NP_Main(db), NP_Excl(db), NP_Abbr(db)
 		{ }
 		~ProperNoun() {}
 		void completePOS(std::string posShort, std::string posFull);

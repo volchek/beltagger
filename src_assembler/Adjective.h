@@ -23,7 +23,7 @@ namespace assembler {
 
 assembler::Adjectives::Adjectives(wordsToLemsMap& db, std::shared_ptr<POS_Template> tm, std::shared_ptr<ParsePrefix> lk) :
 			POS(db), templ(tm), lookup(lk)
-{ 
+{
 	completePOS();
 	lookup->setCondition("Adj");
 }
