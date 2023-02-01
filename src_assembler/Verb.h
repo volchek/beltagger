@@ -19,8 +19,14 @@ namespace assembler {
 		void parseExplicit(std::string& dataLine);
 		void completePOS();
 		std::shared_ptr<POS_Template> templ;
+
+		static const std::regex participleTag;
+		static const std::regex participleTemplate;
 	};
 }
+
+const std::regex assembler::Verb::participleTag = std::regex("^Part:(act|pass)$");
+const std::regex assembler::Verb::participleTemplate = std::regex("^(.+(ш|ч|н|т|м|л))ы(ся)?$");
 
 assembler::Verb::Verb(wordsToLemsMap& db, std::shared_ptr<POS_Template> tm) :
 			POS(db), templ(tm)
@@ -30,7 +36,7 @@ assembler::Verb::Verb(wordsToLemsMap& db, std::shared_ptr<POS_Template> tm) :
 
 assembler::Verb::~Verb(){
 	templ->clearParadigm("verb");
-	templ->clearParadigm("abj");
+	templ->clearParadigm("adj");
 	templ->clearInflection();
 }
 
@@ -38,7 +44,7 @@ std::string assembler::Verb::reshapeVerbTag(const std::string& tag, const std::s
 {
 	std::string resultTag = "V:";
 	std::smatch res;
-	if (std::regex_search(tag, res, std::regex("^Part:(act|pass)$"))){
+	if (std::regex_search(tag, res, participleTag)){
 		resultTag.append("Part:").append(featureBlock).append(":").append(res[1]);
 	}
 	else if(tag == "Adv"){
@@ -74,12 +80,15 @@ void assembler::Verb::parseExplicit(std::string& dataLine)
 			}
 			// Case 2: participle 
 			{
-				std::string stem;
+				std::smatch decomposition;
+				std::regex_search(currentWordform, decomposition, participleTemplate);
+				std::string stem = decomposition[1];
+				std::string finalLetter = decomposition[2];
+				bool isReflexive = (decomposition[3] == "ся");
 				std::string partClass;
 				if (currentTag.find(":pass") != currentTag.npos){	// passive participle might not be reflexive
-					stem = currentWordform.substr(0, currentWordform.length() - 1);
 					partClass = '1';
-					if (stem[stem.length()-1] == '�'){
+					if (finalLetter == "м"){
 						currentTag += ":p";	// present tense marker	
 					}
 					else {
@@ -87,15 +96,13 @@ void assembler::Verb::parseExplicit(std::string& dataLine)
 					}
 				}
 				else if(currentTag.find(":act") != currentTag.npos){
-					if (currentWordform[currentWordform.length() - 1] == '�'){	// irreflexive
-						stem = currentWordform.substr(0, currentWordform.length() - 1);
+					if (!isReflexive){
 						partClass = '2';
 					}
-					else if(currentWordform.substr(currentWordform.length()-3 , currentWordform.length()-1) == "���" ){	// reflexive
-						stem = currentWordform.substr(0, currentWordform.length() - 3);
+					else {	// reflexive
 						partClass = '3';
 					}
-					if (stem[stem.length()-1] == '�'){
+					if (finalLetter == "ч"){
 						currentTag += ":p";	// present tense marker
 					}
 					else {

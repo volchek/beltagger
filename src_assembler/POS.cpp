@@ -2,16 +2,22 @@
 #include <fstream>
 #include <iostream>
 #include <boost/algorithm/string.hpp>
-#include <regex>
 #include <stdio.h>
 #include <stdlib.h>
 
-#define BUF_SIZE 500
-
 // Initializing class-wide constants
+
 const std::string assembler::POS::defaultPathPrefix = "./src/src_";
 const std::string assembler::POS::pathPostfix = ".txt";
 std::string assembler::POS::pathPrefix = assembler::POS::defaultPathPrefix;
+
+const std::regex assembler::POS::gluedCasesTemplate = std::regex("N[GA]|G[ADL]|D[AL]|IL");
+const std::vector<std::pair<std::regex, std::string>> assembler::POS::normalizationPairs = {
+    std::make_pair(std::regex("^(.+)NGDAIL$"), "$1N|$1G|$1D|$1A|$1I|$1L"),
+    std::make_pair(std::regex("^(.+)GDIL$"), "$1G|$1D|$1I|$1L"),
+    std::make_pair(std::regex("^(.+)([NGDAIL])([NGDAIL])([NGDAIL])$"), "$1$2|$1$3|$1$4"),
+    std::make_pair(std::regex("^(.+)([NGDAIL])([NGDAIL])$"), "$1$2|$1$3")
+};
 
 assembler::POS::POS(wordsToLemsMap& db) :
 	database(db)
@@ -66,12 +72,11 @@ void assembler::POS::readFile(std::string fileName)
 
 std::string assembler::POS::normalizeTagset(std::string& inputStr)
 {
-	if (std::regex_search(inputStr, std::regex("N[GA]|G[ADL]|D[AL]|IL")))
+	if (std::regex_search(inputStr, gluedCasesTemplate))
 	{
-		inputStr = std::regex_replace(inputStr, std::regex("^(.+)NGDAIL$"), "$1N|$1G|$1D|$1A|$1I|$1L");
-		inputStr = std::regex_replace(inputStr, std::regex("^(.+)GDIL$"), "$1G|$1D|$1I|$1L");
-		inputStr = std::regex_replace(inputStr, std::regex("^(.+)([NGDAIL])([NGDAIL])([NGDAIL])$"), "$1$2|$1$3|$1$4");
-		inputStr = std::regex_replace(inputStr, std::regex("^(.+)([NGDAIL])([NGDAIL])$"), "$1$2|$1$3");
+		for (auto & pair : normalizationPairs) {
+			inputStr = std::regex_replace(inputStr, pair.first, pair.second);
+		}
 	}
 	return inputStr;
 }

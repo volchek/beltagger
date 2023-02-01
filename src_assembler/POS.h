@@ -1,5 +1,7 @@
 #pragma once
 
+#include <regex>
+
 #include "DBTypedefs.h"
 
 
@@ -23,5 +25,8 @@ namespace assembler {
 		static std::string pathPrefix;
 		static const std::string defaultPathPrefix;
 		static const std::string pathPostfix;
+
+		static const std::regex gluedCasesTemplate;
+		static const std::vector<std::pair<std::regex, std::string>> normalizationPairs;
 	};
 }
