@@ -16,7 +16,7 @@ tagger::LemMemo::~LemMemo()
 }
 
 /***********************
-  Plain output methods
+Plain output methods
 ***********************/
 
 std::string tagger::LemMemo::plainOutput(const wordInfo& data, const std::string& wordform, const std::string& linePostfix)
@@ -28,7 +28,7 @@ std::string tagger::LemMemo::plainOutput(const wordInfo& data, const std::string
 }
 
 /***********************
-  Processing methods
+Processing methods
 ***********************/
 
 void tagger::LemMemo::processOne(const std::string& wordform, const std::string& linePrefix, const std::string& linePostfix, const std::string& originalWordform)

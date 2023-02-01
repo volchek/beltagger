@@ -7,7 +7,7 @@
 #include <locale>
 
 /***********************
-  Auxiliary functions
+Auxiliary functions
 ***********************/
 
 std::locale loc(LOCNAME);

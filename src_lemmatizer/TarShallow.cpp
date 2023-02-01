@@ -39,7 +39,7 @@ std::string tagger::TarShallow::tweakTar(const std::string& wordform)
 	if (bx::regex_search(cleanWordform, compiler.compile("зь"))){
 		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("зь([влмнбз])([ьяеёюі])", bx::regex_constants::icase), "з$1$2");
 		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("дзьдз([ьяеёюі])", bx::regex_constants::icase), "ддз$1");
-		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("зьдз([ьяеёюі])", bx::regex_constants::icase), "здз$1");	
+		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("зьдз([ьяеёюі])", bx::regex_constants::icase), "здз$1");
 		cleanWordform = bx::regex_replace(cleanWordform, compiler.compile("зь([яею])", bx::regex_constants::icase), "з'$1");
 	}
 	if (bx::regex_search(cleanWordform, compiler.compile("сь"))){

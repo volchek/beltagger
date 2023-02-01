@@ -36,7 +36,6 @@ void tagger::Guessing::startGuessing()
 	loadSuffixTable(suffixTable);
 	const std::clock_t endTime = clock();
 	std::printf("Complete in %.2f seconds.\n", ((float)(endTime - startTime))/CLOCKS_PER_SEC);
-
 }
 
 int tagger::Guessing::limitGuessing(double currentEntropy)
@@ -83,7 +82,7 @@ bool tagger::Guessing::loadSuffixTable(std::string& fileName)
 		guess[suffix] = data;
 		entropy[suffix] = entr;
 	}
-	
+
 	filein.close();
 	return true;
 }
@@ -91,7 +90,7 @@ bool tagger::Guessing::loadSuffixTable(std::string& fileName)
 bool tagger::Guessing::guessTag(std::string& wordform, tagger::wordInfo& info)
 {
 	std::map<double, std::set<std::string> > suffixes;
-	size_t wLen = wordform.length(); 
+	size_t wLen = wordform.length();
 	for (size_t i = 0; i < wLen; ++i){
 		std::string currentSuf = wordform.substr(i, wLen - i);
 		std::map<std::string, double>::const_iterator it = entropy.find(currentSuf);
@@ -99,7 +98,7 @@ bool tagger::Guessing::guessTag(std::string& wordform, tagger::wordInfo& info)
 			suffixes[it->second / currentSuf.length()].insert(currentSuf);
 		}
 	}
-	
+
 	if (suffixes.empty()){
 		return false;
 	}
@@ -129,7 +128,7 @@ bool tagger::Guessing::guessTag(std::string& wordform, tagger::wordInfo& info)
 		std::vector<std::pair<std::string, std::string> >::iterator curIt = vecIt + i;
 		std::string currentLemma = stem;
 		if (curIt->first != ""){
-			currentLemma += curIt->first;	
+			currentLemma += curIt->first;
 		}
 		std::string currentTag = curIt->second;
 		info[currentLemma].insert(currentTag);

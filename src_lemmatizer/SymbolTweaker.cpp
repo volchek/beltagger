@@ -20,7 +20,7 @@ tagger::SymbolTweaker::SymbolTweaker() :
 }
 
 
-tagger::SymbolTweaker::SymbolTweaker(std::locale& inputLoc) : 
+tagger::SymbolTweaker::SymbolTweaker(std::locale& inputLoc) :
 		emptyLine(""),
 		loc(inputLoc)
 {
@@ -196,7 +196,7 @@ std::string tagger::SymbolTweaker::tweakHyphen(std::string wordform)
 {
 	int countHyphen = 0;
 	for (std::string::const_iterator it = wordform.begin(); it != wordform.end(); ++it){
-		if (*it == '-'){ 
+		if (*it == '-'){
 			++countHyphen;
 		}
 	}

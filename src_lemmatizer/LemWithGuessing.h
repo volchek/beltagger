@@ -9,7 +9,7 @@
 #include <fstream>
 
 namespace tagger {
-	
+
 	template <class baseLem>
 	class LemWithGuessing :	public Guessing, public baseLem
 	{
@@ -21,7 +21,7 @@ namespace tagger {
 			{
 				startLem();
 			}
-		
+
 		~LemWithGuessing(){
 		};
 
@@ -46,10 +46,10 @@ namespace tagger {
 				++guessed[res];
 				return true;
 			}
-	
+
 			return false;
 		}
-		
+
 		void printLogInfo(){
 			baseLem::printLogInfo();
 			printGuessed();
@@ -64,7 +64,7 @@ namespace tagger {
 				std::cerr << "Invalid file for unknown tokens" << std::endl;
 				return;
 			}
-	
+
 			for (std::map<std::string, int>::const_iterator it = guessed.begin(); it != guessed.end(); ++it){
 				fileout << it->first << "\n";
 			}

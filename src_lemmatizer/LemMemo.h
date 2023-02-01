@@ -9,7 +9,7 @@ namespace tagger {
 	{
 	public:
 		LemMemo(std::string&, std::string&, int, bool, std::string&, std::string);
-		LemMemo(std::string&, std::string&, int, bool, std::string&, std::string, bool);		
+		LemMemo(std::string&, std::string&, int, bool, std::string&, std::string, bool);
 		virtual ~LemMemo();
 
 	protected:
@@ -18,7 +18,6 @@ namespace tagger {
 
 	private:
 		std::unordered_map<std::string, std::string> lSeen;
-		
 		void processOne(const std::string&, const std::string&, const std::string&, const std::string&);
 		bool processMemo(std::string&, std::string&);
 	};

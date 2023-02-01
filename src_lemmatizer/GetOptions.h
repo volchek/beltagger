@@ -4,14 +4,14 @@
 #include "taggerTypes.h"
 
 namespace tagger {
-	
+
 	class GetOptions
 	{
 	public:
 		GetOptions();
 		~GetOptions();
 		void getOpt(int, char**);
-	
+
 	private:
 		optionValues opts;
 		void createLem();

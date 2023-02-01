@@ -11,7 +11,7 @@
 
 tagger::database tagger::Lemmatizer::lFullDB;	// static field for the database
 
-tagger::Lemmatizer::Lemmatizer(std::string& inputFile, std::string& outputFile, int lastIndex, bool logUnknowns, std::string& unkFile, std::string tar, std::locale& inputLocale) : 
+tagger::Lemmatizer::Lemmatizer(std::string& inputFile, std::string& outputFile, int lastIndex, bool logUnknowns, std::string& unkFile, std::string tar, std::locale& inputLocale) :
 		lSTweaker(new tagger::SymbolTweaker),
 		lPrNumbers(new tagger::PrNumbers),
 		lPrTar(tar == "sh" ? new tagger::TarShallow : new tagger::TarDeep),
@@ -23,7 +23,7 @@ tagger::Lemmatizer::Lemmatizer(std::string& inputFile, std::string& outputFile, 
 
 
 
-tagger::Lemmatizer::Lemmatizer(std::string& inputFile, std::string& outputFile, int lastIndex, bool logUnknowns, std::string& unkFile, std::string tar) : 
+tagger::Lemmatizer::Lemmatizer(std::string& inputFile, std::string& outputFile, int lastIndex, bool logUnknowns, std::string& unkFile, std::string tar) :
 		lSTweaker(new tagger::SymbolTweaker),
 		lPrNumbers(new tagger::PrNumbers),
 		lPrTar(tar == "sh" ? new tagger::TarShallow : new tagger::TarDeep),
@@ -56,7 +56,7 @@ void tagger::Lemmatizer::initFields(const std::string& inputFile, const std::str
 
 
 /***********************
-       Start
+	Start
 ***********************/
 
 void tagger::Lemmatizer::startLem()
@@ -110,7 +110,7 @@ void tagger::Lemmatizer::readDB()
 }
 
 /***********************
-     Main methods
+	Main methods
 ***********************/
 
 void tagger::Lemmatizer::processInputFile()
@@ -141,7 +141,7 @@ void tagger::Lemmatizer::processInputFile()
 		}
 	}
 	filein.seekg(0, filein.beg);
-	
+
 	lLemStat.total = 0;
 	std::string dataLine, wordform;
 	std::vector<std::string> data(lLemOptions.lastColumnIndex + 1);
@@ -156,7 +156,7 @@ void tagger::Lemmatizer::processInputFile()
 		++lLemStat.total;
 		boost::split(data, dataLine, boost::is_any_of("\t"));
 		wordform = data[lLemOptions.lastColumnIndex];
-		
+
 		if (processWordform(dataLine, wordform)){
 			continue;
 		}
@@ -178,12 +178,12 @@ bool tagger::Lemmatizer::mainLoop(const std::string& inputLine, std::string& wor
 	if (processBothCases(inputLine, wordform, "")){
 		return true;
 	}
-	
+
 	// R2. Minor orthographic tweaks
 	++lLemStat.level2;
 	if (processWithTweaks(inputLine, wordform)){
 		return true;
-	}	
+	}
 
 	// R3. Tarashkevitsa
 	++lLemStat.level3;
@@ -243,14 +243,14 @@ bool tagger::Lemmatizer::processWithTweaks(const std::string& inputLine, std::st
 			return true;
 		}
 	}
-	
+
 	// Roman number
 	std::pair<std::string, std::string> romanNumber = lSTweaker->checkRomanNumber(wordform);
 	if (romanNumber.first != ""){
 		processSimple(inputLine, linePostfix, romanNumber.first, romanNumber.second);
 		return true;
 	}
-	
+
 	// Minor orthographic tweaks
 	std::string cleanI = lSTweaker->tweakLatinI(wordform);
 	if (wordform != cleanI){
@@ -339,30 +339,30 @@ bool tagger::Lemmatizer::processComp(const std::string& inputLine, std::string& 
 	if (!lComp->splitWordform(wordform)){
 		return false;
 	}
-	
+
 	std::vector<std::string> res;
 	if (lComp->processSimpleCases(wordform, res)){
 		processSimple(inputLine, res[2], res[0], res[1]);	// res[2]: [COMPeq], [COMPadj]
 		return true;
 	}
-	
+
 	wordInfo adjectives;
 	if(lComp->processAdj(adjectives)){
 		printLine(plainOutput(adjectives, inputLine, compAdjPostfix));
 		return true;
 	};
 
-	
+
 	if(lComp->processNouns(res)){
 		processSimple(inputLine, res[2], res[0], res[1]);
 		return true;
 	}
-	
+
 	return false;
 }
 
 /***********************
-  Plain output methods
+Plain output methods
 ***********************/
 
 std::string tagger::Lemmatizer::plainOutputPlugin(const wordInfo& wordformData, const std::string& linePostfix) const
@@ -384,7 +384,7 @@ std::string tagger::Lemmatizer::plainOutputPlugin(const wordInfo& wordformData, 
 }
 
 /***********************
-  Processing methods
+Processing methods
 ***********************/
 
 void tagger::Lemmatizer::processSimple(const std::string& linePrefix, const std::string& linePostfix, const std::string& lemma, const std::string& pos)
@@ -413,7 +413,7 @@ void tagger::Lemmatizer::processBoth(const std::string& wordform, const std::str
 }
 
 /***********************
-     Other methods
+	Other methods
 ***********************/
 
 void tagger::Lemmatizer::pushData(wordInfo& data, std::string& lemmaInfo, std::string& tagInfo)
@@ -428,7 +428,7 @@ void tagger::Lemmatizer::pushData(wordInfo& data, std::string& lemmaInfo, std::s
 			start = end + 2;
 		}
 		tags.push_back(tagInfo.substr(start));
-		
+
 		const int lemmasSize = lemmas.size();
 		for (int i = 0; i < lemmasSize; ++i){
 			if (tags[i].find('|') != tags[i].npos){
@@ -472,7 +472,7 @@ tagger::wordInfo tagger::Lemmatizer::grepTag(wordInfo& data, bx::sregex regex)
 
 
 /**************************
- Processing unknown tokens
+Processing unknown tokens
 **************************/
 
 void tagger::Lemmatizer::markAsUnknown(const std::string& wordform, const std::string& linePrefix, const std::string linePostfix)
@@ -509,7 +509,7 @@ void tagger::Lemmatizer::logUnknowns()
 
 
 /***********************
-       Logging
+	Logging
 ***********************/
 
 void tagger::Lemmatizer::printLine(const std::string& dataLine)

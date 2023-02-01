@@ -2,7 +2,7 @@
 #include "defines.h"
 #include "constants.h"
 
-tagger::TarDeep::TarDeep() 
+tagger::TarDeep::TarDeep()
 {
 }
 

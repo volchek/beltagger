@@ -17,7 +17,7 @@ tagger::LemNomemo::~LemNomemo()
 }
 
 /***********************
-  Plain output methods
+Plain output methods
 ***********************/
 
 std::string tagger::LemNomemo::plainOutput(const wordInfo& data, const std::string& wordform, const std::string& linePostfix)
@@ -27,7 +27,7 @@ std::string tagger::LemNomemo::plainOutput(const wordInfo& data, const std::stri
 }
 
 /***********************
-  Processing methods
+Processing methods
 ***********************/
 
 void tagger::LemNomemo::processOne(const std::string& wordform, const std::string& linePrefix, const std::string& linePostfix, const std::string&)

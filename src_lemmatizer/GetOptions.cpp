@@ -18,7 +18,7 @@ tagger::GetOptions::GetOptions()
 	opts.guessing = false;
 	opts.suffixTable = "none";
 	// Set default values
-//	opts.logGuessed = false;
+	// opts.logGuessed = false;
 }
 
 tagger::GetOptions::~GetOptions()
@@ -44,10 +44,10 @@ void tagger::GetOptions::getOpt(int argc, char** argv)
 		po::notify(vm);
 
 		// -i: Input file
-		if (vm.count("input-file")){ 
-			opts.inputFile =  vm["input-file"].as<std::string>(); 
+		if (vm.count("input-file")){
+			opts.inputFile = vm["input-file"].as<std::string>();
 		}
-		else { 
+		else {
 			std::cerr << "No input file supplied" << std::endl;
 			exit(1);
 		}
@@ -63,12 +63,12 @@ void tagger::GetOptions::getOpt(int argc, char** argv)
 		if (vm.count("output-file")){
 			opts.outputFile = vm["output-file"].as<std::string>();
 		}
-		else { 
+		else {
 			opts.outputFile = prependFileName(opts.inputFile, "tagged_");
 		}
 
 		// -u: Unknown tokens logging
-		/* Without -u flag, the logging is off. With "-u default", unknown tokens 
+		/* Without -u flag, the logging is off. With "-u default", unknown tokens
 		and their frequencies will be logged into the default file ("unknown_" + input file name).
 		Otherwise, the parameter will be understood as a path to log file. */
 		if (vm.count("unknowns-file")){
@@ -78,7 +78,7 @@ void tagger::GetOptions::getOpt(int argc, char** argv)
 			}
 			else { opts.unknownsFile = vm["unknowns-file"].as<std::string>(); }
 		}
-		
+
 		// -c: Number of columns (3 by default)
 		if (vm.count("columns")){
 			if (vm["columns"].as<int>() > 0) {
@@ -125,15 +125,15 @@ void tagger::GetOptions::getOpt(int argc, char** argv)
 		}
 
 		// -g: Guessed lemmas and tags logging
-		/* Without -g flag, the logging is off. There is also nothing to log 
-		when the suffix table insn't specified in -s. Otherwise, with "-g default",
-		tokens with guesse lemmas and tags will be logged into default file ("guessed_" + 
+		/* Without -g flag, the logging is off. There is also nothing to log
+		when the suffix table isn't specified in -s. Otherwise, with "-g default",
+		tokens with guessed lemmas and tags will be logged into default file ("guessed_" +
 		input file name). Yet otherwise, the parameter will be understood as a path to log file.
 		*/
 		if (vm.count("guessing")){
 			if (opts.suffixTable == "none"){ std::cerr << "Useless -g flag (no suffix table specified)" << std::endl; }
 			else {
-//				opts.logGuessed = true;
+				// opts.logGuessed = true;
 				if (vm["guessing"].as<std::string>() == "default"){
 					opts.guessedFile = prependFileName(opts.inputFile, "guessed_");
 				}
@@ -142,7 +142,7 @@ void tagger::GetOptions::getOpt(int argc, char** argv)
 				}
 			}
 		}
-				
+
 		createLem();
 	}
 	catch (std::exception& e){

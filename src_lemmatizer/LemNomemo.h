@@ -10,11 +10,11 @@ namespace tagger {
 		LemNomemo(std::string&, std::string&, int, bool, std::string&, std::string);
 		LemNomemo(std::string&, std::string&, int, bool, std::string&, std::string, bool);
 		virtual ~LemNomemo();
-	
+
 	protected:
-		virtual bool processWordform(std::string&, std::string&);	
+		virtual bool processWordform(std::string&, std::string&);
 		std::string plainOutput(const wordInfo&, const std::string&, const std::string&);
-	
+
 	private:
 		void processOne(const std::string&, const std::string&, const std::string&, const std::string&);
 	};

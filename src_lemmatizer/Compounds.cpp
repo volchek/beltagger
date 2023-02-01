@@ -114,7 +114,7 @@ bool tagger::Compounds::processAdj(wordInfo& res)
 	if (cPartsInfo.size() < 2) {
 		return false;
 	}
-	
+
 	wordInfo lastPartInfo = cSplitPartsInfo[cSplitPartsInfo.size() - 1];
 	Lemmatizer::pushData(lastPartInfo, cPartsInfo[cPartsInfo.size() - 1].first, cPartsInfo[cPartsInfo.size() - 1].second);
 	std::string lemma = "";
@@ -147,12 +147,12 @@ bool tagger::Compounds::processNouns(std::vector<std::string>& res)
 		}
 		nouns.push_back(currentNoun);
 	}
-		
+
 	std::vector<wordInfo> tags;
 	if (!intersectMaps(nouns, tags)){
 		return false;
 	}
-	
+
 	res = createWordformInfo(tags);
 	if (!res.empty()){
 		return true;
@@ -211,7 +211,7 @@ void tagger::Compounds::splitInfo(compInfo& partsInfo, std::vector<tagger::wordI
 {
 	size_t i = 0;
 	splitInfo.resize(partsInfo.size());
-	for(compInfo::iterator it = partsInfo.begin();  it != partsInfo.end(); ++it){
+	for (compInfo::iterator it = partsInfo.begin(); it != partsInfo.end(); ++it){
 		Lemmatizer::pushData(splitInfo[i], it->first, it->second);
 		++i;
 	}
@@ -273,7 +273,7 @@ bool tagger::Compounds::checkAdj(const std::string& wordform)
 			stem += "і";
 			possibleAdj.push_back(stem);
 		}
-		else { 
+		else {
 			stem += "ы";
 			possibleAdj.push_back(stem);
 		}
@@ -328,7 +328,7 @@ bool tagger::Compounds::intersectMaps(std::vector<wordInfo>& vec, std::vector<wo
 	for (std::vector<wordInfo>::iterator it = vec.begin(); it != vec.end(); ++it){
 		res.push_back(Lemmatizer::grepTag(*it, compiler.compile(regex)));
 	}
-	
+
 	return true;
 }
 
@@ -361,13 +361,13 @@ std::string tagger::Compounds::createLemma(std::vector<wordInfo>& info)
 		}
 		allLemmas.push_back(currentLemmas);
 	}
-	
+
 	std::vector<std::vector<std::string> > lemmas = getCartesianProduct(allLemmas);
 	std::string res = "";
 	if (lemmas.empty()){
 		return res;
 	}
-	
+
 	for(std::vector<std::vector<std::string> >::const_iterator it = lemmas.begin(); it != lemmas.end(); ++it){
 		for(std::vector<std::string>::const_iterator inIt = it->begin(); inIt != it->end(); ++inIt){
 			res += *inIt;
