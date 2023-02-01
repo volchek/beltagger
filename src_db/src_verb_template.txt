@@ -1,50 +1,50 @@
-2à	Inf ips3
-2á	Inf Inf
-3à	Inf ips3 iasf|iasn
-3á	Inf ips3 iasn
-3â	Inf ipp3 iap
-4à	Inf ips3 iasm iasf|iasn
-4á	Inf ips3 iasf|iasn Part:pass
-4â	Inf ips3 ipp3 iasf|iasn
-5à	Inf ips3 ipp3 iasf|iasn iap
-5á	Inf ips3 ipp3 iasm iap
-5â	Inf ipp1 ipp2 ipp3 iap
-6à	Inf ips3 ipp3 iasm iasf|iasn iap
-6á	Inf ips3 iasm iasf|iasn iap Part:act|Adv
-6â	Inf ipp1 ipp2 ipp3 mp2 iap
-6ã	Inf ipp1 ipp2 ipp3 iap Part:act|Adv
-6ä	Inf ips3 ipp3 iasf|iasn iap Part:act|Adv
-7à	Inf ips3 ipp3 iasm iasf|iasn iap Part:act|Adv
-7á	Inf ips3 ipp3 iasm iasf iasn iap
-7â	Inf ips3 ipp3 iasm iasf|iasn iap Part:pass
-7ã	Inf ipp1 ipp2 ipp3 mp2 iap Part:act|Adv
-8à	Inf ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap
-8á	Inf ips3 ipp3 ips3 ipp3 iasm iasf|iasn iap
-8â	Inf ips3 ipp3 iasm iasf iasn iap Part:act|Adv
-8ã	Inf ips3 ipp3 iasm iasf|iasn iap Part:pass Part:act|Adv
-8ä	Inf ips3 ipp3 ms2 mp2 iasm iasf|iasn iap
-8å	Inf ips3 ipp3 iasm iasf iasn iap Part:pass
-9à	Inf ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap Part:act|Adv
-9á	Inf ips3 ipp1 ipp2 ipp3 mp2 iasm iasf|iasn iap
-9â	Inf ips3 ipp1 ipp2 ipp3 iasm iasf iasn iap
-9ã	Inf ips3 ipp3 ms2 mp2 iasm iasf|iasn iap Part:act|Adv
-10à	Inf ips3 ipp1 ipp2 ipp3 mp2 iasm iasf|iasn iap Part:act|Adv
-10á	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap
-11à	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap Part:act|Adv
-12à	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf iasn iap Part:act|Adv
-12á	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap
-12â	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap Part:pass Part:act|Adv
-12ã	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap Part:act|Adv Part:act|Adv
-12ä	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap Part:act Part:act|Adv
-13à	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:act|Adv
-13á	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass
-14à	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:act|Adv
-14á	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf iasn iap Part:act|Adv
-14â	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:act|Adv Part:act|Adv
-15à	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:act|Adv Part:act|Adv
-15á	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf iasn iap Part:pass Part:act|Adv
-15â	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf iasn iap Part:act|Adv Part:act|Adv
-15ã	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:pass Part:act|Adv
-15ä	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:pass Part:act|Adv
-16à	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:pass Part:act|Adv Part:act|Adv
-17à	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:pass Part:pass Part:act|Adv Part:act|Adv
+2Ð°	Inf ips3
+2Ð±	Inf Inf
+3Ð°	Inf ips3 iasf|iasn
+3Ð±	Inf ips3 iasn
+3Ð²	Inf ipp3 iap
+4Ð°	Inf ips3 iasm iasf|iasn
+4Ð±	Inf ips3 iasf|iasn Part:pass
+4Ð²	Inf ips3 ipp3 iasf|iasn
+5Ð°	Inf ips3 ipp3 iasf|iasn iap
+5Ð±	Inf ips3 ipp3 iasm iap
+5Ð²	Inf ipp1 ipp2 ipp3 iap
+6Ð°	Inf ips3 ipp3 iasm iasf|iasn iap
+6Ð±	Inf ips3 iasm iasf|iasn iap Part:act|Adv
+6Ð²	Inf ipp1 ipp2 ipp3 mp2 iap
+6Ð³	Inf ipp1 ipp2 ipp3 iap Part:act|Adv
+6Ð´	Inf ips3 ipp3 iasf|iasn iap Part:act|Adv
+7Ð°	Inf ips3 ipp3 iasm iasf|iasn iap Part:act|Adv
+7Ð±	Inf ips3 ipp3 iasm iasf iasn iap
+7Ð²	Inf ips3 ipp3 iasm iasf|iasn iap Part:pass
+7Ð³	Inf ipp1 ipp2 ipp3 mp2 iap Part:act|Adv
+8Ð°	Inf ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap
+8Ð±	Inf ips3 ipp3 ips3 ipp3 iasm iasf|iasn iap
+8Ð²	Inf ips3 ipp3 iasm iasf iasn iap Part:act|Adv
+8Ð³	Inf ips3 ipp3 iasm iasf|iasn iap Part:pass Part:act|Adv
+8Ð´	Inf ips3 ipp3 ms2 mp2 iasm iasf|iasn iap
+8Ðµ	Inf ips3 ipp3 iasm iasf iasn iap Part:pass
+9Ð°	Inf ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap Part:act|Adv
+9Ð±	Inf ips3 ipp1 ipp2 ipp3 mp2 iasm iasf|iasn iap
+9Ð²	Inf ips3 ipp1 ipp2 ipp3 iasm iasf iasn iap
+9Ð³	Inf ips3 ipp3 ms2 mp2 iasm iasf|iasn iap Part:act|Adv
+10Ð°	Inf ips3 ipp1 ipp2 ipp3 mp2 iasm iasf|iasn iap Part:act|Adv
+10Ð±	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap
+11Ð°	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap Part:act|Adv
+12Ð°	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf iasn iap Part:act|Adv
+12Ð±	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap
+12Ð²	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap Part:pass Part:act|Adv
+12Ð³	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap Part:act|Adv Part:act|Adv
+12Ð´	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 iasm iasf|iasn iap Part:act Part:act|Adv
+13Ð°	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:act|Adv
+13Ð±	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass
+14Ð°	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:act|Adv
+14Ð±	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf iasn iap Part:act|Adv
+14Ð²	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:act|Adv Part:act|Adv
+15Ð°	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:act|Adv Part:act|Adv
+15Ð±	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf iasn iap Part:pass Part:act|Adv
+15Ð²	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf iasn iap Part:act|Adv Part:act|Adv
+15Ð³	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:pass Part:act|Adv
+15Ð´	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:pass Part:act|Adv
+16Ð°	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:pass Part:act|Adv Part:act|Adv
+17Ð°	Inf ips1 ips2 ips3 ipp1 ipp2 ipp3 ms2 mp2 iasm iasf|iasn iap Part:pass Part:pass Part:pass Part:act|Adv Part:act|Adv

@@ -1,973 +1,973 @@
-выраз	N	 а у ам е ы аў ам амі ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+РІС‹СЂР°Р·	N	 Р° Сѓ Р°Рј Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
 
-хедэр	N	 а у ам ы ы аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-неўр	N	 а у ам ы ы аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-камісарж	N	 а у ам ы ы аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+С…РµРґСЌСЂ	N	 Р° Сѓ Р°Рј С‹ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+РЅРµСћСЂ	N	 Р° Сѓ Р°Рј С‹ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+РєР°РјС–СЃР°СЂР¶	N	 Р° Сѓ Р°Рј С‹ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
 
-ціск	N	 а у ам у	m:sNA m:sG m:sD m:sI m:sL
-слых	N	 а у ам у	m:sNA m:sG m:sD m:sI m:sL
+С†С–СЃРє	N	 Р° Сѓ Р°Рј Сѓ	m:sNA m:sG m:sD m:sI m:sL
+СЃР»С‹С…	N	 Р° Сѓ Р°Рј Сѓ	m:sNA m:sG m:sD m:sI m:sL
 
-супернік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-вершнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-правапрымяняльнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-панічык	N	 а у ам у і аў ам амі ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-каравульнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-ешыботнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-спакушальнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-спавівальнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-запрашальнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-адпачывальнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-застольнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-штурхальнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-маразільнік	N	 а у ам у і аў ам амі ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-складнік	N	 а у ам у і аў ам амі ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-мабільнік	N	 а у ам у і аў ам амі ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-далькажык	N	 а у ам у і аў ам амі ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-фартук	N	 а у ам у і аў ам амі ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+СЃСѓРїРµСЂРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+РІРµСЂС€РЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+РїСЂР°РІР°РїСЂС‹РјСЏРЅСЏР»СЊРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+РїР°РЅС–С‡С‹Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+РєР°СЂР°РІСѓР»СЊРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+РµС€С‹Р±РѕС‚РЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+СЃРїР°РєСѓС€Р°Р»СЊРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+СЃРїР°РІС–РІР°Р»СЊРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+Р·Р°РїСЂР°С€Р°Р»СЊРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+Р°РґРїР°С‡С‹РІР°Р»СЊРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+Р·Р°СЃС‚РѕР»СЊРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+С€С‚СѓСЂС…Р°Р»СЊРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+РјР°СЂР°Р·С–Р»СЊРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+СЃРєР»Р°РґРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+РјР°Р±С–Р»СЊРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+РґР°Р»СЊРєР°Р¶С‹Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+С„Р°СЂС‚СѓРє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
 
-1-класнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-2-класнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-3-класнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-4-класнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-5-класнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-6-класнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-7-класнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-8-класнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-9-класнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-10-класнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11-класнік	N	 а у ам у і аў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+1-РєР»Р°СЃРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+2-РєР»Р°СЃРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+3-РєР»Р°СЃРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+4-РєР»Р°СЃРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+5-РєР»Р°СЃРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+6-РєР»Р°СЃРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+7-РєР»Р°СЃРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+8-РєР»Р°СЃРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+9-РєР»Р°СЃРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+10-РєР»Р°СЃРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11-РєР»Р°СЃРЅС–Рє	N	 Р° Сѓ Р°Рј Сѓ С– Р°Сћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
 
-гарадчук	N	 а у ом у і оў ам амі ах	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+РіР°СЂР°РґС‡СѓРє	N	 Р° Сѓ РѕРј Сѓ С– РѕСћ Р°Рј Р°РјС– Р°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
 
-паніч	N	ок ка ку ком ку кі коў кам камі ках	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-брат	N	ок ка ку ком ку кі коў кам камі ках	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+РїР°РЅС–С‡	N	РѕРє РєР° РєСѓ РєРѕРј РєСѓ РєС– РєРѕСћ РєР°Рј РєР°РјС– РєР°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+Р±СЂР°С‚	N	РѕРє РєР° РєСѓ РєРѕРј РєСѓ РєС– РєРѕСћ РєР°Рј РєР°РјС– РєР°С…	m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
 
-стасун	N	ак ка ку кам ку кі каў кам камі ках	m:sNA m:sG m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-накірун	N	ак ка ку кам ку кі каў кам камі ках	m:sNA m:sG m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+СЃС‚Р°СЃСѓРЅ	N	Р°Рє РєР° РєСѓ РєР°Рј РєСѓ РєС– РєР°Сћ РєР°Рј РєР°РјС– РєР°С…	m:sNA m:sG m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+РЅР°РєС–СЂСѓРЅ	N	Р°Рє РєР° РєСѓ РєР°Рј РєСѓ РєС– РєР°Сћ РєР°Рј РєР°РјС– РєР°С…	m:sNA m:sG m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
 
-раўнд	N	 а у ам зе ы аў ам амі ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-радыенуклід	N	 а у ам зе ы аў ам амі ах	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+СЂР°СћРЅРґ	N	 Р° Сѓ Р°Рј Р·Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+СЂР°РґС‹РµРЅСѓРєР»С–Рґ	N	 Р° Сѓ Р°Рј Р·Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
 
-адкравенн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-адшуканн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-апасенн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-дазнанн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-знаменн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-зычанн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-зычэнн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-крананн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-ліставанн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-мяркаванн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-павучэнн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-пагружэнн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-пакушэнн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-прыцясненн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-разрушэнн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-расследванн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-субяседаванн	N	е я ю ем і і яў ям ямі ях	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+Р°РґРєСЂР°РІРµРЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+Р°РґС€СѓРєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+Р°РїР°СЃРµРЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+РґР°Р·РЅР°РЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+Р·РЅР°РјРµРЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+Р·С‹С‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+Р·С‹С‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+РєСЂР°РЅР°РЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+Р»С–СЃС‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+РјСЏСЂРєР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+РїР°РІСѓС‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+РїР°РіСЂСѓР¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+РїР°РєСѓС€СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+РїСЂС‹С†СЏСЃРЅРµРЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+СЂР°Р·СЂСѓС€СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+СЂР°СЃСЃР»РµРґРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+СЃСѓР±СЏСЃРµРґР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С– С– СЏСћ СЏРј СЏРјС– СЏС…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
 
-абавязанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абвешчанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абворванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абезжалезванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абілечванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-аблічбаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-аблічэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абмярэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абнаяўленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абнаяўліванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абрушванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абсмажанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абшчыпванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абяспыльванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-абяссільванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адабранн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адарванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адвяржэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ад'еханн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адкатванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адкладванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адладжванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адлушчванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адмыванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адпуджванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адсочванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адстараненн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адурачванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адхланн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адчыненн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-адыходжанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-азнаменаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-акручванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-акрыленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-акрэсліванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-актывізаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-акумуляванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-акцыянаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-алкіліраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-амыванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-аналізаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-анансіраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-апераджэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-апракідванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-апытванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-асвяшчэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-аснаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-астуджэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ацаленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ацапяненн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ацверазенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ацвярджэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ацынкоўванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ачуванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ашкленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-бабахканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-базаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-балатаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-бамбаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-бетаніраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-блакаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-богаўцелаўленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-бразгаценн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-буркатанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-бяздзейнічанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-валадаранн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-варагаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-вентыляванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-вінавачанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-вуркаценн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-выгаленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-выдзьмуванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-выканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-выкарыстоўванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-выкупліванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-выраўнаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-высвечванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-высыланн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-выцверазенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-вычарпанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-гандляванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-гергетанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-груканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-грэбанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-грэйдзіраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-дабраславенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-дагадоўванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-даданн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-далічэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-дамініраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-даналічэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-даражэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-дбанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-дрэніраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-дыверсіфікаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-дыягнаставанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-дэкарыраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-дэсантаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-забвенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-забяспячэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-завабліванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-заводаўпраўленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-загавенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-загойдванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-загусценн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-задзейнічанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-задурванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-замкненн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-зараблянн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-заручэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-застрашанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-засуджванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-засушэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-засяроджанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-затарванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-затачэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-затлуменн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-зацверджанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-зацвярджэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-зачапленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-зачыненн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-звяканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-звяртанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-здзекванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-змаўчанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-змеркаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-змоўчанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-зоркаўтварэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-з'ядзенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ільгатаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-інвеставанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ініцыяванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-кадаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-калекцыянаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-кампенсаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-канверсаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-канвертаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-кандыцыянаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-кантактаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-канюшынн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-капіяванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-карэгіраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-качэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-кватараванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-кваціраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-квашанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-квашэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-клацанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-колераўспрыманн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-коранеўтварэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-крывапусканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-крывятварэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-кугіканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-кумленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-купажыраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-купіраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-курсаўтварэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-лабіраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-лекаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ліцэнзаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-лічбаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-льгатаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-маніпуляванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-манітарыраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-мантажаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-мацюканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-меліраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-метастазаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-мікратунэляванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-мікшаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-муканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-муркатанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-навучэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-надаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-назапашванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-найменаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-наклейванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-намініраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-насыланн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-наталенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-нацягненн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-неператраўліванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-неўрэгуляванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-неўтрыманн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-нівеляванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-нядужанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пабіванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пабранн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-павялічэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-паганянн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-падаражэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-падаянн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-падваконн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-падзяленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-падманьванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-падтапленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пазіцыянаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пазіцыяніраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пазначэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пакіданн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пакліканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пакусванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-панаўленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-параўнінн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-паседжанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пастогванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-патрасенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-паўставанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пахрапванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пахрустванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пацвельванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пацверджанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пашкоджванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-паясненн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пераасведчанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-перадаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-перазалужэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пераназванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-перанайменаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-перапрафіляванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пераследаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пераўсталяванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-перацяканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-піваваранн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-піленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-плюшчанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прагназаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-праграмаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прагрэсаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прадзяванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прадуцыраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-праігрыванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-пралічванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прамаўленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прапампоўванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прахаджэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-працепліванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прачынанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-протаўзаемадзеянн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прыданн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прыпуханн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прытарможванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прэміяванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-прэсаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-разварушэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-разжыжэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-разлізванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-размінаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-разруліванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-разрульванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ранжыраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-раскайванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-раскрыванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-рассакрэчванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-рассмактанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-руканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-румзанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-рушанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-рыбачанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-самаўзгаранн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-светаўладкаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-сертыфікаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-сжыванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-скалалазанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-скапленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-склеразіраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-скупаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-следаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-солеўтварэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-спансіраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-спаражэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-спарыванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-спатоленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-спаўненн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-спільванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-спрацоўванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-стракаценн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-страсенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-страчванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-структураванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-стэнтаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-стэнціраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-субсідыяванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-судаўладкаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-сумаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-суміраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-таргаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-траўмаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-трыньканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-турбаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-тыпіраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-тыражыраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-тэлефанаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-тэставанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-уваскрасенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-уваскрэшанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-увяданн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-удаўленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-узаемадзейнічанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-узвешванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-узрушанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-укрыжаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-уніфікаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-упакаенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-ускрыванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-уцелаўленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-уцэркаўленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-учыненн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-фандаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-фасаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-хварэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-хітраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-хларыраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-цвірканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-чваканн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-чуванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-чыпаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-шабуршэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-шарсцінн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-швэнданн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-шлюбаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-шунціраванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-шчымленн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-шыпавінн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-экспертаванн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±Р°РІСЏР·Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±РІРµС€С‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±РІРѕСЂРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±РµР·Р¶Р°Р»РµР·РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±С–Р»РµС‡РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±Р»С–С‡Р±Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±Р»С–С‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±РјСЏСЂСЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±РЅР°СЏСћР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±РЅР°СЏСћР»С–РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±СЂСѓС€РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±СЃРјР°Р¶Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±С€С‡С‹РїРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±СЏСЃРїС‹Р»СЊРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р±СЏСЃСЃС–Р»СЊРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґР°Р±СЂР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґР°СЂРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґРІСЏСЂР¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Рґ'РµС…Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґРєР°С‚РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґРєР»Р°РґРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґР»Р°РґР¶РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґР»СѓС€С‡РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґРјС‹РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґРїСѓРґР¶РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґСЃРѕС‡РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґСЃС‚Р°СЂР°РЅРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґСѓСЂР°С‡РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґС…Р»Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґС‡С‹РЅРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РґС‹С…РѕРґР¶Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р·РЅР°РјРµРЅР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РєСЂСѓС‡РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РєСЂС‹Р»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РєСЂСЌСЃР»С–РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РєС‚С‹РІС–Р·Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РєСѓРјСѓР»СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РєС†С‹СЏРЅР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°Р»РєС–Р»С–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РјС‹РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РЅР°Р»С–Р·Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РЅР°РЅСЃС–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РїРµСЂР°РґР¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РїСЂР°РєС–РґРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°РїС‹С‚РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°СЃРІСЏС€С‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°СЃРЅР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°СЃС‚СѓРґР¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°С†Р°Р»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°С†Р°РїСЏРЅРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°С†РІРµСЂР°Р·РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°С†РІСЏСЂРґР¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°С†С‹РЅРєРѕСћРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°С‡СѓРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р°С€РєР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р±Р°Р±Р°С…РєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р±Р°Р·Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р±Р°Р»Р°С‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р±Р°РјР±Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р±РµС‚Р°РЅС–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р±Р»Р°РєР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р±РѕРіР°СћС†РµР»Р°СћР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р±СЂР°Р·РіР°С†РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р±СѓСЂРєР°С‚Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р±СЏР·РґР·РµР№РЅС–С‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІР°Р»Р°РґР°СЂР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІР°СЂР°РіР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІРµРЅС‚С‹Р»СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІС–РЅР°РІР°С‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІСѓСЂРєР°С†РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІС‹РіР°Р»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІС‹РґР·СЊРјСѓРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІС‹РєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІС‹РєР°СЂС‹СЃС‚РѕСћРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІС‹РєСѓРїР»С–РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІС‹СЂР°СћРЅР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІС‹СЃРІРµС‡РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІС‹СЃС‹Р»Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІС‹С†РІРµСЂР°Р·РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РІС‹С‡Р°СЂРїР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РіР°РЅРґР»СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РіРµСЂРіРµС‚Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РіСЂСѓРєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РіСЂСЌР±Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РіСЂСЌР№РґР·С–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґР°Р±СЂР°СЃР»Р°РІРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґР°РіР°РґРѕСћРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґР°РґР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґР°Р»С–С‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґР°РјС–РЅС–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґР°РЅР°Р»С–С‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґР°СЂР°Р¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґР±Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґСЂСЌРЅС–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґС‹РІРµСЂСЃС–С„С–РєР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґС‹СЏРіРЅР°СЃС‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґСЌРєР°СЂС‹СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РґСЌСЃР°РЅС‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°Р±РІРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°Р±СЏСЃРїСЏС‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°РІР°Р±Р»С–РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°РІРѕРґР°СћРїСЂР°СћР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°РіР°РІРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°РіРѕР№РґРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°РіСѓСЃС†РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°РґР·РµР№РЅС–С‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°РґСѓСЂРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°РјРєРЅРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°СЂР°Р±Р»СЏРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°СЂСѓС‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°СЃС‚СЂР°С€Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°СЃСѓРґР¶РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°СЃСѓС€СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°СЃСЏСЂРѕРґР¶Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°С‚Р°СЂРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°С‚Р°С‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°С‚Р»СѓРјРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°С†РІРµСЂРґР¶Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°С†РІСЏСЂРґР¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°С‡Р°РїР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°С‡С‹РЅРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·РІСЏРєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·РІСЏСЂС‚Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·РґР·РµРєРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·РјР°СћС‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·РјРµСЂРєР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·РјРѕСћС‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·РѕСЂРєР°СћС‚РІР°СЂСЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р·'СЏРґР·РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С–Р»СЊРіР°С‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С–РЅРІРµСЃС‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С–РЅС–С†С‹СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР°РґР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР°Р»РµРєС†С‹СЏРЅР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР°РјРїРµРЅСЃР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР°РЅРІРµСЂСЃР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР°РЅРІРµСЂС‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР°РЅРґС‹С†С‹СЏРЅР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР°РЅС‚Р°РєС‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР°РЅСЋС€С‹РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР°РїС–СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР°СЂСЌРіС–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР°С‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєРІР°С‚Р°СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєРІР°С†С–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєРІР°С€Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєРІР°С€СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєР»Р°С†Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєРѕР»РµСЂР°СћСЃРїСЂС‹РјР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєРѕСЂР°РЅРµСћС‚РІР°СЂСЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєСЂС‹РІР°РїСѓСЃРєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєСЂС‹РІСЏС‚РІР°СЂСЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєСѓРіС–РєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєСѓРјР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєСѓРїР°Р¶С‹СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєСѓРїС–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РєСѓСЂСЃР°СћС‚РІР°СЂСЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р»Р°Р±С–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р»РµРєР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р»С–С†СЌРЅР·Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р»С–С‡Р±Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р»СЊРіР°С‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РјР°РЅС–РїСѓР»СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РјР°РЅС–С‚Р°СЂС‹СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РјР°РЅС‚Р°Р¶Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РјР°С†СЋРєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РјРµР»С–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РјРµС‚Р°СЃС‚Р°Р·Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РјС–РєСЂР°С‚СѓРЅСЌР»СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РјС–РєС€Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РјСѓРєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РјСѓСЂРєР°С‚Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅР°РІСѓС‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅР°РґР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅР°Р·Р°РїР°С€РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅР°Р№РјРµРЅР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅР°РєР»РµР№РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅР°РјС–РЅС–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅР°СЃС‹Р»Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅР°С‚Р°Р»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅР°С†СЏРіРЅРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅРµРїРµСЂР°С‚СЂР°СћР»С–РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅРµСћСЂСЌРіСѓР»СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅРµСћС‚СЂС‹РјР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅС–РІРµР»СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЅСЏРґСѓР¶Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°Р±С–РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°Р±СЂР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РІСЏР»С–С‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РіР°РЅСЏРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РґР°СЂР°Р¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РґР°СЏРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РґРІР°РєРѕРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РґР·СЏР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РґРјР°РЅСЊРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РґС‚Р°РїР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°Р·С–С†С‹СЏРЅР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°Р·С–С†С‹СЏРЅС–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°Р·РЅР°С‡СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РєС–РґР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РєР»С–РєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РєСѓСЃРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°РЅР°СћР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°СЂР°СћРЅС–РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°СЃРµРґР¶Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°СЃС‚РѕРіРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°С‚СЂР°СЃРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°СћСЃС‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°С…СЂР°РїРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°С…СЂСѓСЃС‚РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°С†РІРµР»СЊРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°С†РІРµСЂРґР¶Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°С€РєРѕРґР¶РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР°СЏСЃРЅРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїРµСЂР°Р°СЃРІРµРґС‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїРµСЂР°РґР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїРµСЂР°Р·Р°Р»СѓР¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїРµСЂР°РЅР°Р·РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїРµСЂР°РЅР°Р№РјРµРЅР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїРµСЂР°РїСЂР°С„С–Р»СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїРµСЂР°СЃР»РµРґР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїРµСЂР°СћСЃС‚Р°Р»СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїРµСЂР°С†СЏРєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїС–РІР°РІР°СЂР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїС–Р»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїР»СЋС€С‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°РіРЅР°Р·Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°РіСЂР°РјР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°РіСЂСЌСЃР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°РґР·СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°РґСѓС†С‹СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°С–РіСЂС‹РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°Р»С–С‡РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°РјР°СћР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°РїР°РјРїРѕСћРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°С…Р°РґР¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°С†РµРїР»С–РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°С‡С‹РЅР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂРѕС‚Р°СћР·Р°РµРјР°РґР·РµСЏРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂС‹РґР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂС‹РїСѓС…Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂС‹С‚Р°СЂРјРѕР¶РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂСЌРјС–СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РїСЂСЌСЃР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂР°Р·РІР°СЂСѓС€СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂР°Р·Р¶С‹Р¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂР°Р·Р»С–Р·РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂР°Р·РјС–РЅР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂР°Р·СЂСѓР»С–РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂР°Р·СЂСѓР»СЊРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂР°РЅР¶С‹СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂР°СЃРєР°Р№РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂР°СЃРєСЂС‹РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂР°СЃСЃР°РєСЂСЌС‡РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂР°СЃСЃРјР°РєС‚Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂСѓРєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂСѓРјР·Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂСѓС€Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЂС‹Р±Р°С‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃР°РјР°СћР·РіР°СЂР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРІРµС‚Р°СћР»Р°РґРєР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРµСЂС‚С‹С„С–РєР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃР¶С‹РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРєР°Р»Р°Р»Р°Р·Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРєР°РїР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРєР»РµСЂР°Р·С–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРєСѓРїР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃР»РµРґР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРѕР»РµСћС‚РІР°СЂСЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРїР°РЅСЃС–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРїР°СЂР°Р¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРїР°СЂС‹РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРїР°С‚РѕР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРїР°СћРЅРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРїС–Р»СЊРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃРїСЂР°С†РѕСћРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃС‚СЂР°РєР°С†РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃС‚СЂР°СЃРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃС‚СЂР°С‡РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃС‚СЂСѓРєС‚СѓСЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃС‚СЌРЅС‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃС‚СЌРЅС†С–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃСѓР±СЃС–РґС‹СЏРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃСѓРґР°СћР»Р°РґРєР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃСѓРјР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЃСѓРјС–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С‚Р°СЂРіР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С‚СЂР°СћРјР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С‚СЂС‹РЅСЊРєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С‚СѓСЂР±Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С‚С‹РїС–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С‚С‹СЂР°Р¶С‹СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С‚СЌР»РµС„Р°РЅР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С‚СЌСЃС‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓРІР°СЃРєСЂР°СЃРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓРІР°СЃРєСЂСЌС€Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓРІСЏРґР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓРґР°СћР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓР·Р°РµРјР°РґР·РµР№РЅС–С‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓР·РІРµС€РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓР·СЂСѓС€Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓРєСЂС‹Р¶Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓРЅС–С„С–РєР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓРїР°РєР°РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓСЃРєСЂС‹РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓС†РµР»Р°СћР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓС†СЌСЂРєР°СћР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СѓС‡С‹РЅРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С„Р°РЅРґР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С„Р°СЃР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С…РІР°СЂСЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С…С–С‚СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С…Р»Р°СЂС‹СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С†РІС–СЂРєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С‡РІР°РєР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С‡СѓРІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С‡С‹РїР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С€Р°Р±СѓСЂС€СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С€Р°СЂСЃС†С–РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С€РІСЌРЅРґР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С€Р»СЋР±Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С€СѓРЅС†С–СЂР°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С€С‡С‹РјР»РµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+С€С‹РїР°РІС–РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+СЌРєСЃРїРµСЂС‚Р°РІР°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
 
-успрыняцц	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
+СѓСЃРїСЂС‹РЅСЏС†С†	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
 
-распіцц	N	е ё я ю ем і	n:sNA n:sNA n:sG n:sD n:sI n:sL
+СЂР°СЃРїС–С†С†	N	Рµ С‘ СЏ СЋ РµРј С–	n:sNA n:sNA n:sG n:sD n:sI n:sL
 
-Благавешчанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-Дабравешчанн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-Вазнясенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-Праабражэнн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-Успенн	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
+Р‘Р»Р°РіР°РІРµС€С‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р”Р°Р±СЂР°РІРµС€С‡Р°РЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+Р’Р°Р·РЅСЏСЃРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РџСЂР°Р°Р±СЂР°Р¶СЌРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+РЈСЃРїРµРЅРЅ	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
 
-5-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-6-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-7-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-8-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-9-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-10-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-11-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-12-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-13-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-14-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-15-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-16-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-17-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-18-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-19-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-20-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-25-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-30-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-35-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-40-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-45-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-50-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-55-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-60-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-65-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-70-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-75-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-80-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-85-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-90-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-95-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-100-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-105-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-110-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-115-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-120-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-125-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-130-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-135-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-140-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-145-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-150-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-155-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-160-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-165-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-170-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-175-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-180-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-185-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-190-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-195-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-200-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-210-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-220-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-230-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-240-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-250-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-260-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-270-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-280-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-290-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-300-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-350-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-400-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-450-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-500-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-540-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-550-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-600-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-650-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-700-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-750-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-800-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-850-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-880-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-900-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-950-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-990-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-1000-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-1020-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
-1150-годдз	N	е я ю ем і	n:sNA n:sG n:sD n:sI n:sL
+5-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+6-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+7-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+8-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+9-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+10-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+11-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+12-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+13-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+14-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+15-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+16-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+17-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+18-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+19-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+20-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+25-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+30-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+35-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+40-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+45-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+50-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+55-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+60-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+65-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+70-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+75-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+80-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+85-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+90-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+95-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+100-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+105-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+110-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+115-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+120-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+125-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+130-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+135-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+140-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+145-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+150-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+155-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+160-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+165-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+170-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+175-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+180-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+185-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+190-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+195-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+200-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+210-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+220-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+230-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+240-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+250-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+260-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+270-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+280-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+290-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+300-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+350-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+400-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+450-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+500-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+540-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+550-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+600-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+650-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+700-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+750-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+800-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+850-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+880-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+900-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+950-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+990-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+1000-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+1020-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
+1150-РіРѕРґРґР·	N	Рµ СЏ СЋ РµРј С–	n:sNA n:sG n:sD n:sI n:sL
 
-акцябрацтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-апостальств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-арганазнаўств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-аслушэнств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-ахоўніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-багахульств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-балабольств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-беларусазнаўств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-беспамяцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-блажэнств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-буржуйств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-быдляцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-бяздумств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-валадарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-валанцёрств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-валачобніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-вальналюбств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-вартаўніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-ваярств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-верхавенств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-весняніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-вільнезнаўств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-вымагальніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-вычварэнств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-гасподств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-графаманств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-гусарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-дабрадзенств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-дабрынялюбств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-двайніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-дысідэнцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-дэпутацтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-ёлупств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-жывёлаводств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-замяшальніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-занудств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-змоўніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-кадэцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-калектарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-караімств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-кінатэлеаператарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-кулачаств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-лідарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-людств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-малжэнств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-ментарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-міцкевічазнаўств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-Найсвяцейшаств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-народазнаўств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-насенневодств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-непаслухмянств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-непатрэбств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-паліглоцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-палкоўніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-пасобніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-пацукоўств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-першасвяціцельств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-плытагонств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-плюгаўств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-полацказнаўств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-прафанств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-працалюбств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-прэм'ерств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-разбіральніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-разбуральніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-разнадумств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-рукапрыкладніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-рэйдарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-садаводств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-салдацтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-самаедств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-святарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-Свяцейшаств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-скарбашукальніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-скарыназнаўств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-сласталюбств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-спадкаемств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-спажывецтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-спонсарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-стоўпніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-стукацтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-судаходств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-сузіральніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-суперніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-трэнерств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-тынэйджэрств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-уладарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-хакерств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-чынавенств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-чынапаклонств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-шапавальств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-шапказакідальніцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-шкларобств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-шматдумств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-шматжонств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-шумахерств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-янычарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-камісарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-чалавеканялюбств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-уцякацтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-звярынств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-лекарств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-жаноцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-кампанейств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-мужыцтв	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-дзяньгубств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-неслухмянств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-германств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-вобчаств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
-выгнанств	N	а а у ам е	n:sNA n:sG n:sD n:sI n:sL
+Р°РєС†СЏР±СЂР°С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р°РїРѕСЃС‚Р°Р»СЊСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р°СЂРіР°РЅР°Р·РЅР°СћСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р°СЃР»СѓС€СЌРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р°С…РѕСћРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р±Р°РіР°С…СѓР»СЊСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р±Р°Р»Р°Р±РѕР»СЊСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р±РµР»Р°СЂСѓСЃР°Р·РЅР°СћСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р±РµСЃРїР°РјСЏС†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р±Р»Р°Р¶СЌРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р±СѓСЂР¶СѓР№СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р±С‹РґР»СЏС†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р±СЏР·РґСѓРјСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІР°Р»Р°РґР°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІР°Р»Р°РЅС†С‘СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІР°Р»Р°С‡РѕР±РЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІР°Р»СЊРЅР°Р»СЋР±СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІР°СЂС‚Р°СћРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІР°СЏСЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІРµСЂС…Р°РІРµРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІРµСЃРЅСЏРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІС–Р»СЊРЅРµР·РЅР°СћСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІС‹РјР°РіР°Р»СЊРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІС‹С‡РІР°СЂСЌРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РіР°СЃРїРѕРґСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РіСЂР°С„Р°РјР°РЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РіСѓСЃР°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РґР°Р±СЂР°РґР·РµРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РґР°Р±СЂС‹РЅСЏР»СЋР±СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РґРІР°Р№РЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РґС‹СЃС–РґСЌРЅС†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РґСЌРїСѓС‚Р°С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С‘Р»СѓРїСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р¶С‹РІС‘Р»Р°РІРѕРґСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°РјСЏС€Р°Р»СЊРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р·Р°РЅСѓРґСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р·РјРѕСћРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РєР°РґСЌС†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РєР°Р»РµРєС‚Р°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РєР°СЂР°С–РјСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РєС–РЅР°С‚СЌР»РµР°РїРµСЂР°С‚Р°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РєСѓР»Р°С‡Р°СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р»С–РґР°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р»СЋРґСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РјР°Р»Р¶СЌРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РјРµРЅС‚Р°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РјС–С†РєРµРІС–С‡Р°Р·РЅР°СћСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РќР°Р№СЃРІСЏС†РµР№С€Р°СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РЅР°СЂРѕРґР°Р·РЅР°СћСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РЅР°СЃРµРЅРЅРµРІРѕРґСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РЅРµРїР°СЃР»СѓС…РјСЏРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РЅРµРїР°С‚СЂСЌР±СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РїР°Р»С–РіР»РѕС†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РїР°Р»РєРѕСћРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РїР°СЃРѕР±РЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РїР°С†СѓРєРѕСћСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РїРµСЂС€Р°СЃРІСЏС†С–С†РµР»СЊСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РїР»С‹С‚Р°РіРѕРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РїР»СЋРіР°СћСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РїРѕР»Р°С†РєР°Р·РЅР°СћСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°С„Р°РЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РїСЂР°С†Р°Р»СЋР±СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РїСЂСЌРј'РµСЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЂР°Р·Р±С–СЂР°Р»СЊРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЂР°Р·Р±СѓСЂР°Р»СЊРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЂР°Р·РЅР°РґСѓРјСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЂСѓРєР°РїСЂС‹РєР»Р°РґРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЂСЌР№РґР°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃР°РґР°РІРѕРґСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃР°Р»РґР°С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃР°РјР°РµРґСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃРІСЏС‚Р°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РЎРІСЏС†РµР№С€Р°СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃРєР°СЂР±Р°С€СѓРєР°Р»СЊРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃРєР°СЂС‹РЅР°Р·РЅР°СћСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃР»Р°СЃС‚Р°Р»СЋР±СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃРїР°РґРєР°РµРјСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃРїР°Р¶С‹РІРµС†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃРїРѕРЅСЃР°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃС‚РѕСћРїРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃС‚СѓРєР°С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃСѓРґР°С…РѕРґСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃСѓР·С–СЂР°Р»СЊРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЃСѓРїРµСЂРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С‚СЂСЌРЅРµСЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С‚С‹РЅСЌР№РґР¶СЌСЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СѓР»Р°РґР°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С…Р°РєРµСЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С‡С‹РЅР°РІРµРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С‡С‹РЅР°РїР°РєР»РѕРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С€Р°РїР°РІР°Р»СЊСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С€Р°РїРєР°Р·Р°РєС–РґР°Р»СЊРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С€РєР»Р°СЂРѕР±СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С€РјР°С‚РґСѓРјСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С€РјР°С‚Р¶РѕРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С€СѓРјР°С…РµСЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СЏРЅС‹С‡Р°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РєР°РјС–СЃР°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+С‡Р°Р»Р°РІРµРєР°РЅСЏР»СЋР±СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+СѓС†СЏРєР°С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р·РІСЏСЂС‹РЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р»РµРєР°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+Р¶Р°РЅРѕС†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РєР°РјРїР°РЅРµР№СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РјСѓР¶С‹С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РґР·СЏРЅСЊРіСѓР±СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РЅРµСЃР»СѓС…РјСЏРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РіРµСЂРјР°РЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІРѕР±С‡Р°СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
+РІС‹РіРЅР°РЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ	n:sNA n:sG n:sD n:sI n:sL
 
-гаспадарств	N	а а у ам е ы аў ам амі ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-гасударств	N	а а у ам е ы аў ам амі ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-палпрэдств	N	а а у ам е ы аў ам амі ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-умяшальніцтв	N	а а у ам е ы аў ам амі ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-хадатайніцтв	N	а а у ам е ы аў ам амі ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-убійств	N	а а у ам е ы аў ам амі ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-упушчэнств	N	а а у ам е ы аў ам амі ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-разбойств	N	а а у ам е ы аў ам амі ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-прыгоств	N	а а у ам е ы аў ам амі ах	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+РіР°СЃРїР°РґР°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+РіР°СЃСѓРґР°СЂСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+РїР°Р»РїСЂСЌРґСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+СѓРјСЏС€Р°Р»СЊРЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+С…Р°РґР°С‚Р°Р№РЅС–С†С‚РІ	N	Р° Р° Сѓ Р°Рј Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+СѓР±С–Р№СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+СѓРїСѓС€С‡СЌРЅСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+СЂР°Р·Р±РѕР№СЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+РїСЂС‹РіРѕСЃС‚РІ	N	Р° Р° Сѓ Р°Рј Рµ С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
 
-вучнё	N	ўка ўкі ўцы ўку ўкай ўкаю ўкі вак ўкам ўкамі ўках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-ста	N	ўка ўкі ўцы ўку ўкай ўкаю ўкі вак ўкам ўкамі ўках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-двухпакаё	N	ўка ўкі ўцы ўку ўкай ўкаю ўкі вак ўкам ўкамі ўках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-трохпакаё	N	ўка ўкі ўцы ўку ўкай ўкаю ўкі вак ўкам ўкамі ўках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-чатырохпакаё	N	ўка ўкі ўцы ўку ўкай ўкаю ўкі вак ўкам ўкамі ўках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РІСѓС‡РЅС‘	N	СћРєР° СћРєС– СћС†С‹ СћРєСѓ СћРєР°Р№ СћРєР°СЋ СћРєС– РІР°Рє СћРєР°Рј СћРєР°РјС– СћРєР°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+СЃС‚Р°	N	СћРєР° СћРєС– СћС†С‹ СћРєСѓ СћРєР°Р№ СћРєР°СЋ СћРєС– РІР°Рє СћРєР°Рј СћРєР°РјС– СћРєР°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґРІСѓС…РїР°РєР°С‘	N	СћРєР° СћРєС– СћС†С‹ СћРєСѓ СћРєР°Р№ СћРєР°СЋ СћРєС– РІР°Рє СћРєР°Рј СћРєР°РјС– СћРєР°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С‚СЂРѕС…РїР°РєР°С‘	N	СћРєР° СћРєС– СћС†С‹ СћРєСѓ СћРєР°Р№ СћРєР°СЋ СћРєС– РІР°Рє СћРєР°Рј СћРєР°РјС– СћРєР°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С‡Р°С‚С‹СЂРѕС…РїР°РєР°С‘	N	СћРєР° СћРєС– СћС†С‹ СћРєСѓ СћРєР°Р№ СћРєР°СЋ СћРєС– РІР°Рє СћРєР°Рј СћРєР°РјС– СћРєР°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
 
-зніж	N	ка кі цы ку кай каю кі ак кам камі ках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-груш	N	ка кі цы ку кай каю кі ак кам камі ках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-адрын	N	ка кі цы ку кай каю кі ак кам камі ках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-брашур	N	ка кі цы ку кай каю кі ак кам камі ках	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р·РЅС–Р¶	N	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ РєС– Р°Рє РєР°Рј РєР°РјС– РєР°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РіСЂСѓС€	N	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ РєС– Р°Рє РєР°Рј РєР°РјС– РєР°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р°РґСЂС‹РЅ	N	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ РєС– Р°Рє РєР°Рј РєР°РјС– РєР°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р±СЂР°С€СѓСЂ	N	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ РєС– Р°Рє РєР°Рј РєР°РјС– РєР°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
 
-1-класніц	N	а ы ы у ай аю ы  аў ам амі ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-2-класніц	N	а ы ы у ай аю ы  аў ам амі ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-3-класніц	N	а ы ы у ай аю ы  аў ам амі ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-4-класніц	N	а ы ы у ай аю ы  аў ам амі ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-5-класніц	N	а ы ы у ай аю ы  аў ам амі ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-6-класніц	N	а ы ы у ай аю ы  аў ам амі ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-7-класніц	N	а ы ы у ай аю ы  аў ам амі ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-8-класніц	N	а ы ы у ай аю ы  аў ам амі ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-9-класніц	N	а ы ы у ай аю ы  аў ам амі ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-10-класніц	N	а ы ы у ай аю ы  аў ам амі ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-11-класніц	N	а ы ы у ай аю ы  аў ам амі ах	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+1-РєР»Р°СЃРЅС–С†	N	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹  Р°Сћ Р°Рј Р°РјС– Р°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+2-РєР»Р°СЃРЅС–С†	N	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹  Р°Сћ Р°Рј Р°РјС– Р°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+3-РєР»Р°СЃРЅС–С†	N	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹  Р°Сћ Р°Рј Р°РјС– Р°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+4-РєР»Р°СЃРЅС–С†	N	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹  Р°Сћ Р°Рј Р°РјС– Р°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+5-РєР»Р°СЃРЅС–С†	N	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹  Р°Сћ Р°Рј Р°РјС– Р°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+6-РєР»Р°СЃРЅС–С†	N	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹  Р°Сћ Р°Рј Р°РјС– Р°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+7-РєР»Р°СЃРЅС–С†	N	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹  Р°Сћ Р°Рј Р°РјС– Р°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+8-РєР»Р°СЃРЅС–С†	N	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹  Р°Сћ Р°Рј Р°РјС– Р°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+9-РєР»Р°СЃРЅС–С†	N	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹  Р°Сћ Р°Рј Р°РјС– Р°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+10-РєР»Р°СЃРЅС–С†	N	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹  Р°Сћ Р°Рј Р°РјС– Р°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+11-РєР»Р°СЃРЅС–С†	N	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹  Р°Сћ Р°Рј Р°РјС– Р°С…	f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
 
-рэтынапаты	N	я і і ю яй яю	f:sN f:sG f:sDL f:sA f:sI f:sI
-энцэфалапаты	N	я і і ю яй яю	f:sN f:sG f:sDL f:sA f:sI f:sI
+СЂСЌС‚С‹РЅР°РїР°С‚С‹	N	СЏ С– С– СЋ СЏР№ СЏСЋ	f:sN f:sG f:sDL f:sA f:sI f:sI
+СЌРЅС†СЌС„Р°Р»Р°РїР°С‚С‹	N	СЏ С– С– СЋ СЏР№ СЏСЋ	f:sN f:sG f:sDL f:sA f:sI f:sI
 
-вітальн	N	я і ю яй яю і яў ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-вучэльн	N	я і ю яй яю і яў ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-лякарн	N	я і ю яй яю і яў ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-распранальн	N	я і ю яй яю і яў ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-апачывальн	N	я і ю яй яю і яў ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РІС–С‚Р°Р»СЊРЅ	N	СЏ С– СЋ СЏР№ СЏСЋ С– СЏСћ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РІСѓС‡СЌР»СЊРЅ	N	СЏ С– СЋ СЏР№ СЏСЋ С– СЏСћ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р»СЏРєР°СЂРЅ	N	СЏ С– СЋ СЏР№ СЏСЋ С– СЏСћ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+СЂР°СЃРїСЂР°РЅР°Р»СЊРЅ	N	СЏ С– СЋ СЏР№ СЏСЋ С– СЏСћ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р°РїР°С‡С‹РІР°Р»СЊРЅ	N	СЏ С– СЋ СЏР№ СЏСЋ С– СЏСћ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
 
-акрэдытацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-актуалізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-алапецы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-алкагалізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-ардынацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-архівацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-атэізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-аўтэнтыфікацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-беатыфікацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-бумажэнцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-візуалізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-гамагенізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-даларызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-дыспансэрызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-дэдаларызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-дэзынфармацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-дэзынфекцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-дэменцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-дэмеркурызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-дэпалітызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-дэтаксікацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-дэтэкцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-дэфрагментацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-евангелізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-імплементацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-інвалідызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-інжэкцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-ініцыяцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-інкарнацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-інтранізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-інтэнцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-інтэрнэтызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-інэрцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-камп'ютарызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-канверсацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-ліпасакцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-мальабсорбцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-манетызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-маргіналізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-мемарыялізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-мінімалізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-мінімізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-перэгрынацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-прагматызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-пратэстацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-прафілізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-прымітывізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-прыхватызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-прэюдыцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-рафінацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-рацыяналізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-рэінкарнацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-рэструктурызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-сертыфікацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-субкантракцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-транквілізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-транслітэрацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-флікерызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-фундаменталізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-фундацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-холдынгізацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-чэдэрызацы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-штукенцы	N	я і ю яй яю і й ям ямі ях	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р°РєСЂСЌРґС‹С‚Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р°РєС‚СѓР°Р»С–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р°Р»Р°РїРµС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р°Р»РєР°РіР°Р»С–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р°СЂРґС‹РЅР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р°СЂС…С–РІР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р°С‚СЌС–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р°СћС‚СЌРЅС‚С‹С„С–РєР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р±РµР°С‚С‹С„С–РєР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р±СѓРјР°Р¶СЌРЅС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РІС–Р·СѓР°Р»С–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РіР°РјР°РіРµРЅС–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґР°Р»Р°СЂС‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґС‹СЃРїР°РЅСЃСЌСЂС‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґСЌРґР°Р»Р°СЂС‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґСЌР·С‹РЅС„Р°СЂРјР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґСЌР·С‹РЅС„РµРєС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґСЌРјРµРЅС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґСЌРјРµСЂРєСѓСЂС‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґСЌРїР°Р»С–С‚С‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґСЌС‚Р°РєСЃС–РєР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґСЌС‚СЌРєС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РґСЌС„СЂР°РіРјРµРЅС‚Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РµРІР°РЅРіРµР»С–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С–РјРїР»РµРјРµРЅС‚Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С–РЅРІР°Р»С–РґС‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С–РЅР¶СЌРєС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С–РЅС–С†С‹СЏС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С–РЅРєР°СЂРЅР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С–РЅС‚СЂР°РЅС–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С–РЅС‚СЌРЅС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С–РЅС‚СЌСЂРЅСЌС‚С‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С–РЅСЌСЂС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РєР°РјРї'СЋС‚Р°СЂС‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РєР°РЅРІРµСЂСЃР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+Р»С–РїР°СЃР°РєС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РјР°Р»СЊР°Р±СЃРѕСЂР±С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РјР°РЅРµС‚С‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РјР°СЂРіС–РЅР°Р»С–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РјРµРјР°СЂС‹СЏР»С–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РјС–РЅС–РјР°Р»С–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РјС–РЅС–РјС–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РїРµСЂСЌРіСЂС‹РЅР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РїСЂР°РіРјР°С‚С‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РїСЂР°С‚СЌСЃС‚Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РїСЂР°С„С–Р»С–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РїСЂС‹РјС–С‚С‹РІС–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РїСЂС‹С…РІР°С‚С‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+РїСЂСЌСЋРґС‹С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+СЂР°С„С–РЅР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+СЂР°С†С‹СЏРЅР°Р»С–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+СЂСЌС–РЅРєР°СЂРЅР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+СЂСЌСЃС‚СЂСѓРєС‚СѓСЂС‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+СЃРµСЂС‚С‹С„С–РєР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+СЃСѓР±РєР°РЅС‚СЂР°РєС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С‚СЂР°РЅРєРІС–Р»С–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С‚СЂР°РЅСЃР»С–С‚СЌСЂР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С„Р»С–РєРµСЂС‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С„СѓРЅРґР°РјРµРЅС‚Р°Р»С–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С„СѓРЅРґР°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С…РѕР»РґС‹РЅРіС–Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С‡СЌРґСЌСЂС‹Р·Р°С†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+С€С‚СѓРєРµРЅС†С‹	N	СЏ С– СЋ СЏР№ СЏСЋ С– Р№ СЏРј СЏРјС– СЏС…	f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
 
-абароненасц	N	ь і ю	f:sNA f:sGDL f:sI
-абаснаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-абачлівасц	N	ь і ю	f:sNA f:sGDL f:sI
-аберагальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-абнаўляльнасц	N	ь і ю	f:sNA f:sGDL f:sI
-абранасц	N	ь і ю	f:sNA f:sGDL f:sI
-адвучанасц	N	ь і ю	f:sNA f:sGDL f:sI
-адлучанасц	N	ь і ю	f:sNA f:sGDL f:sI
-адмежаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-адмеранасц	N	ь і ю	f:sNA f:sGDL f:sI
-адхіленасц	N	ь і ю	f:sNA f:sGDL f:sI
-акалеласц	N	ь і ю	f:sNA f:sGDL f:sI
-акупляльнасц	N	ь і ю	f:sNA f:sGDL f:sI
-альтэрнатыўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-амбіцыйнасц	N	ь і ю	f:sNA f:sGDL f:sI
-ананімнасц	N	ь і ю	f:sNA f:sGDL f:sI
-андэграўнднасц	N	ь і ю	f:sNA f:sGDL f:sI
-арыентаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-асабістасц	N	ь і ю	f:sNA f:sGDL f:sI
-атэістычнасц	N	ь і ю	f:sNA f:sGDL f:sI
-ацалеласц	N	ь і ю	f:sNA f:sGDL f:sI
-безальтэрнатыўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-беларускамоўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-беларускасц	N	ь і ю	f:sNA f:sGDL f:sI
-бесшабашнасц	N	ь і ю	f:sNA f:sGDL f:sI
-блізасц	N	ь і ю	f:sNA f:sGDL f:sI
-бялюткасц	N	ь і ю	f:sNA f:sGDL f:sI
-бясталентнасц	N	ь і ю	f:sNA f:sGDL f:sI
-валіднасц	N	ь і ю	f:sNA f:sGDL f:sI
-варыятыўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-вераб'інасц	N	ь і ю	f:sNA f:sGDL f:sI
-ветранасц	N	ь і ю	f:sNA f:sGDL f:sI
-відовішчнасц	N	ь і ю	f:sNA f:sGDL f:sI
-відушчасц	N	ь і ю	f:sNA f:sGDL f:sI
-віноўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-віхурнасц	N	ь і ю	f:sNA f:sGDL f:sI
-выбранасц	N	ь і ю	f:sNA f:sGDL f:sI
-выверанасц	N	ь і ю	f:sNA f:sGDL f:sI
-вывернутасц	N	ь і ю	f:sNA f:sGDL f:sI
-выключанасц	N	ь і ю	f:sNA f:sGDL f:sI
-выкшталцонасц	N	ь і ю	f:sNA f:sGDL f:sI
-выніковасц	N	ь і ю	f:sNA f:sGDL f:sI
-выражанасц	N	ь і ю	f:sNA f:sGDL f:sI
-выцягнутасц	N	ь і ю	f:sNA f:sGDL f:sI
-выцятасц	N	ь і ю	f:sNA f:sGDL f:sI
-вычарпанасц	N	ь і ю	f:sNA f:sGDL f:sI
-вышэйшасц	N	ь і ю	f:sNA f:sGDL f:sI
-выяўляемасц	N	ь і ю	f:sNA f:sGDL f:sI
-вясёласц	N	ь і ю	f:sNA f:sGDL f:sI
-галоснасц	N	ь і ю	f:sNA f:sGDL f:sI
-гарантаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-гламурнасц	N	ь і ю	f:sNA f:sGDL f:sI
-глыбіннасц	N	ь і ю	f:sNA f:sGDL f:sI
-гнюснасц	N	ь і ю	f:sNA f:sGDL f:sI
-гожасц	N	ь і ю	f:sNA f:sGDL f:sI
-грахоўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-густоўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-гучальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-дадзенасц	N	ь і ю	f:sNA f:sGDL f:sI
-далучанасц	N	ь і ю	f:sNA f:sGDL f:sI
-дарэчнасц	N	ь і ю	f:sNA f:sGDL f:sI
-датацыйнасц	N	ь і ю	f:sNA f:sGDL f:sI
-двурушнасц	N	ь і ю	f:sNA f:sGDL f:sI
-двухгадовасц	N	ь і ю	f:sNA f:sGDL f:sI
-двухслойнасц	N	ь і ю	f:sNA f:sGDL f:sI
-другасортнасц	N	ь і ю	f:sNA f:sGDL f:sI
-дыскусійнасц	N	ь і ю	f:sNA f:sGDL f:sI
-дэманстратыўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-еўрапейскасц	N	ь і ю	f:sNA f:sGDL f:sI
-жаласц	N	ь і ю	f:sNA f:sGDL f:sI
-жыццядайнасц	N	ь і ю	f:sNA f:sGDL f:sI
-заангажаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-заахвочанасц	N	ь і ю	f:sNA f:sGDL f:sI
-забаўляльнасц	N	ь і ю	f:sNA f:sGDL f:sI
-забытасц	N	ь і ю	f:sNA f:sGDL f:sI
-заземленасц	N	ь і ю	f:sNA f:sGDL f:sI
-зайздрасц	N	ь і ю	f:sNA f:sGDL f:sI
-закамплексаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-закладзенасц	N	ь і ю	f:sNA f:sGDL f:sI
-закончанасц	N	ь і ю	f:sNA f:sGDL f:sI
-закрытасц	N	ь і ю	f:sNA f:sGDL f:sI
-закрэдытаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-заношанасц	N	ь і ю	f:sNA f:sGDL f:sI
-запаведнасц	N	ь і ю	f:sNA f:sGDL f:sI
-запамінальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-запатрабаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-запаўняльнасц	N	ь і ю	f:sNA f:sGDL f:sI
-зарэгуляванасц	N	ь і ю	f:sNA f:sGDL f:sI
-засакрэчанасц	N	ь і ю	f:sNA f:sGDL f:sI
-застаяласц	N	ь і ю	f:sNA f:sGDL f:sI
-затуманенасц	N	ь і ю	f:sNA f:sGDL f:sI
-захворваемасц	N	ь і ю	f:sNA f:sGDL f:sI
-зацененасц	N	ь і ю	f:sNA f:sGDL f:sI
-заціснутасц	N	ь і ю	f:sNA f:sGDL f:sI
-зацыкленасц	N	ь і ю	f:sNA f:sGDL f:sI
-зашоранасц	N	ь і ю	f:sNA f:sGDL f:sI
-злавокасц	N	ь і ю	f:sNA f:sGDL f:sI
-знакавасц	N	ь і ю	f:sNA f:sGDL f:sI
-зоркавасц	N	ь і ю	f:sNA f:sGDL f:sI
-зябкаватасц	N	ь і ю	f:sNA f:sGDL f:sI
-ідэалагізаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-інавацыйнасц	N	ь і ю	f:sNA f:sGDL f:sI
-іншасц	N	ь і ю	f:sNA f:sGDL f:sI
-ісціннасц	N	ь і ю	f:sNA f:sGDL f:sI
-камернасц	N	ь і ю	f:sNA f:sGDL f:sI
-кампліментарнасц	N	ь і ю	f:sNA f:sGDL f:sI
-камунікабельнасц	N	ь і ю	f:sNA f:sGDL f:sI
-камфортнасц	N	ь і ю	f:sNA f:sGDL f:sI
-канкурэнтнасц	N	ь і ю	f:sNA f:sGDL f:sI
-канстытуцыйнасц	N	ь і ю	f:sNA f:sGDL f:sI
-канфідэнцыйнасц	N	ь і ю	f:sNA f:sGDL f:sI
-канфідэнцыяльнасц	N	ь і ю	f:sNA f:sGDL f:sI
-капрызлівасц	N	ь і ю	f:sNA f:sGDL f:sI
-карнавальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-карумпаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-карупцыягеннасц	N	ь і ю	f:sNA f:sGDL f:sI
-катэгарыйнасц	N	ь і ю	f:sNA f:sGDL f:sI
-кепскасц	N	ь і ю	f:sNA f:sGDL f:sI
-кранальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-лабірынтнасц	N	ь і ю	f:sNA f:sGDL f:sI
-леварукасц	N	ь і ю	f:sNA f:sGDL f:sI
-легенднасц	N	ь і ю	f:sNA f:sGDL f:sI
-легітымнасц	N	ь і ю	f:sNA f:sGDL f:sI
-лёжкасц	N	ь і ю	f:sNA f:sGDL f:sI
-лозунгавасц	N	ь і ю	f:sNA f:sGDL f:sI
-манументальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-марыянетачнасц	N	ь і ю	f:sNA f:sGDL f:sI
-медыйнасц	N	ь і ю	f:sNA f:sGDL f:sI
-медытатыўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-меладыйнасц	N	ь і ю	f:sNA f:sGDL f:sI
-метражнасц	N	ь і ю	f:sNA f:sGDL f:sI
-мірнасц	N	ь і ю	f:sNA f:sGDL f:sI
-мярзотнасц	N	ь і ю	f:sNA f:sGDL f:sI
-навязлівасц	N	ь і ю	f:sNA f:sGDL f:sI
-намоленасц	N	ь і ю	f:sNA f:sGDL f:sI
-наскоклівасц	N	ь і ю	f:sNA f:sGDL f:sI
-неабазнанасц	N	ь і ю	f:sNA f:sGDL f:sI
-недагрэтасц	N	ь і ю	f:sNA f:sGDL f:sI
-недапрацаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-недасказанасц	N	ь і ю	f:sNA f:sGDL f:sI
-незапатрабаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-незахаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-незмінальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-неідэальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-неінфармаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-неканстытуцыйнасц	N	ь і ю	f:sNA f:sGDL f:sI
-непаражальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-непаўнавартаснасц	N	ь і ю	f:sNA f:sGDL f:sI
-непераноснасц	N	ь і ю	f:sNA f:sGDL f:sI
-неперпендыкулярнасц	N	ь і ю	f:sNA f:sGDL f:sI
-непрабівальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-непраяўленасц	N	ь і ю	f:sNA f:sGDL f:sI
-непрыдуманасц	N	ь і ю	f:sNA f:sGDL f:sI
-нерукатворнасц	N	ь і ю	f:sNA f:sGDL f:sI
-нерэалізаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-нетаропкасц	N	ь і ю	f:sNA f:sGDL f:sI
-ніякасц	N	ь і ю	f:sNA f:sGDL f:sI
-нованароджанасц	N	ь і ю	f:sNA f:sGDL f:sI
-нязмушанасц	N	ь і ю	f:sNA f:sGDL f:sI
-нярэйтынгавасц	N	ь і ю	f:sNA f:sGDL f:sI
-няшчаснасц	N	ь і ю	f:sNA f:sGDL f:sI
-падвоенасц	N	ь і ю	f:sNA f:sGDL f:sI
-пад'ёмнасц	N	ь і ю	f:sNA f:sGDL f:sI
-падключанасц	N	ь і ю	f:sNA f:sGDL f:sI
-падступнасц	N	ь і ю	f:sNA f:sGDL f:sI
-пакліканасц	N	ь і ю	f:sNA f:sGDL f:sI
-палоснасц	N	ь і ю	f:sNA f:sGDL f:sI
-памежнасц	N	ь і ю	f:sNA f:sGDL f:sI
-пасіянарнасц	N	ь і ю	f:sNA f:sGDL f:sI
-патаемнасц	N	ь і ю	f:sNA f:sGDL f:sI
-паўнаватасц	N	ь і ю	f:sNA f:sGDL f:sI
-пекнасц	N	ь і ю	f:sNA f:sGDL f:sI
-перааснашчанасц	N	ь і ю	f:sNA f:sGDL f:sI
-перавернутасц	N	ь і ю	f:sNA f:sGDL f:sI
-першароднасц	N	ь і ю	f:sNA f:sGDL f:sI
-першастваральнасц	N	ь і ю	f:sNA f:sGDL f:sI
-пірагеннасц	N	ь і ю	f:sNA f:sGDL f:sI
-пладаноскасц	N	ь і ю	f:sNA f:sGDL f:sI
-плыннасц	N	ь і ю	f:sNA f:sGDL f:sI
-правінцыйнасц	N	ь і ю	f:sNA f:sGDL f:sI
-прадавальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-прадказальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-прадстаўленасц	N	ь і ю	f:sNA f:sGDL f:sI
-прадстаўнічасц	N	ь і ю	f:sNA f:sGDL f:sI
-празарлівасц	N	ь і ю	f:sNA f:sGDL f:sI
-прасмажанасц	N	ь і ю	f:sNA f:sGDL f:sI
-прасунутасц	N	ь і ю	f:sNA f:sGDL f:sI
-прыкладальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-прымеркаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-прыроднасц	N	ь і ю	f:sNA f:sGDL f:sI
-прыярытэтнасц	N	ь і ю	f:sNA f:sGDL f:sI
-прэцэдэнтнасц	N	ь і ю	f:sNA f:sGDL f:sI
-пульхнасц	N	ь і ю	f:sNA f:sGDL f:sI
-раздольнасц	N	ь і ю	f:sNA f:sGDL f:sI
-размежаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-размешчанасц	N	ь і ю	f:sNA f:sGDL f:sI
-разняволенасц	N	ь і ю	f:sNA f:sGDL f:sI
-раскрывальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-раструшчанасц	N	ь і ю	f:sNA f:sGDL f:sI
-растурзанасц	N	ь і ю	f:sNA f:sGDL f:sI
-расцярушанасц	N	ь і ю	f:sNA f:sGDL f:sI
-роднаснасц	N	ь і ю	f:sNA f:sGDL f:sI
-роспачнасц	N	ь і ю	f:sNA f:sGDL f:sI
-рускамоўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-рэгіянальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-рэдукаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-рэзервовасц	N	ь і ю	f:sNA f:sGDL f:sI
-савецкасц	N	ь і ю	f:sNA f:sGDL f:sI
-сакральнасц	N	ь і ю	f:sNA f:sGDL f:sI
-самаакупляльнасц	N	ь і ю	f:sNA f:sGDL f:sI
-самадастатковасц	N	ь і ю	f:sNA f:sGDL f:sI
-самапашыральнасц	N	ь і ю	f:sNA f:sGDL f:sI
-светлавокасц	N	ь і ю	f:sNA f:sGDL f:sI
-светланоснасц	N	ь і ю	f:sNA f:sGDL f:sI
-сволачнасц	N	ь і ю	f:sNA f:sGDL f:sI
-святлопрапускальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-спалоханасц	N	ь і ю	f:sNA f:sGDL f:sI
-спіртознасц	N	ь і ю	f:sNA f:sGDL f:sI
-спраўджальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-статкавасц	N	ь і ю	f:sNA f:sGDL f:sI
-страчанасц	N	ь і ю	f:sNA f:sGDL f:sI
-структуралізаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-стыласц	N	ь і ю	f:sNA f:sGDL f:sI
-супамернасц	N	ь і ю	f:sNA f:sGDL f:sI
-супастаўляльнасц	N	ь і ю	f:sNA f:sGDL f:sI
-сурочанасц	N	ь і ю	f:sNA f:sGDL f:sI
-сцішанасц	N	ь і ю	f:sNA f:sGDL f:sI
-сцюжнасц	N	ь і ю	f:sNA f:sGDL f:sI
-сэксапільнасц	N	ь і ю	f:sNA f:sGDL f:sI
-сэнсоўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-танцавальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-тлумнасц	N	ь і ю	f:sNA f:sGDL f:sI
-траічнасц	N	ь і ю	f:sNA f:sGDL f:sI
-транспарэнтнасц	N	ь і ю	f:sNA f:sGDL f:sI
-трохмернасц	N	ь і ю	f:sNA f:sGDL f:sI
-тутэйшасц	N	ь і ю	f:sNA f:sGDL f:sI
-узважанасц	N	ь і ю	f:sNA f:sGDL f:sI
-узмыленасц	N	ь і ю	f:sNA f:sGDL f:sI
-узнаўляльнасц	N	ь і ю	f:sNA f:sGDL f:sI
-украдлівасц	N	ь і ю	f:sNA f:sGDL f:sI
-уладкаванасц	N	ь і ю	f:sNA f:sGDL f:sI
-улюбёнасц	N	ь і ю	f:sNA f:sGDL f:sI
-уражанасц	N	ь і ю	f:sNA f:sGDL f:sI
-уседазволенасц	N	ь і ю	f:sNA f:sGDL f:sI
-усмоктвальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-усяведнасц	N	ь і ю	f:sNA f:sGDL f:sI
-учарнеласц	N	ь і ю	f:sNA f:sGDL f:sI
-фарматнасц	N	ь і ю	f:sNA f:sGDL f:sI
-феерычнасц	N	ь і ю	f:sNA f:sGDL f:sI
-хіжасц	N	ь і ю	f:sNA f:sGDL f:sI
-хуткапсавальнасц	N	ь і ю	f:sNA f:sGDL f:sI
-хуткастрэльнасц	N	ь і ю	f:sNA f:sGDL f:sI
-царкоўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-цудатворнасц	N	ь і ю	f:sNA f:sGDL f:sI
-цытуемасц	N	ь і ю	f:sNA f:sGDL f:sI
-чысцюткасц	N	ь і ю	f:sNA f:sGDL f:sI
-шляхецкасц	N	ь і ю	f:sNA f:sGDL f:sI
-шматаблічнасц	N	ь і ю	f:sNA f:sGDL f:sI
-шматвалютнасц	N	ь і ю	f:sNA f:sGDL f:sI
-шматвектарнасц	N	ь і ю	f:sNA f:sGDL f:sI
-шматдумнасц	N	ь і ю	f:sNA f:sGDL f:sI
-шматстайнасц	N	ь і ю	f:sNA f:sGDL f:sI
-шматсэнсоўнасц	N	ь і ю	f:sNA f:sGDL f:sI
-шчымлівасц	N	ь і ю	f:sNA f:sGDL f:sI
-экалагічнасц	N	ь і ю	f:sNA f:sGDL f:sI
-электаральнасц	N	ь і ю	f:sNA f:sGDL f:sI
-эмацыйнасц	N	ь і ю	f:sNA f:sGDL f:sI
-эпатажнасц	N	ь і ю	f:sNA f:sGDL f:sI
-юнасц	N	ь і ю	f:sNA f:sGDL f:sI
-ямачнасц	N	ь і ю	f:sNA f:sGDL f:sI
+Р°Р±Р°СЂРѕРЅРµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°Р±Р°СЃРЅР°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°Р±Р°С‡Р»С–РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°Р±РµСЂР°РіР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°Р±РЅР°СћР»СЏР»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°Р±СЂР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°РґРІСѓС‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°РґР»СѓС‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°РґРјРµР¶Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°РґРјРµСЂР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°РґС…С–Р»РµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°РєР°Р»РµР»Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°РєСѓРїР»СЏР»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°Р»СЊС‚СЌСЂРЅР°С‚С‹СћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°РјР±С–С†С‹Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°РЅР°РЅС–РјРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°РЅРґСЌРіСЂР°СћРЅРґРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°СЂС‹РµРЅС‚Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°СЃР°Р±С–СЃС‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°С‚СЌС–СЃС‚С‹С‡РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р°С†Р°Р»РµР»Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р±РµР·Р°Р»СЊС‚СЌСЂРЅР°С‚С‹СћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р±РµР»Р°СЂСѓСЃРєР°РјРѕСћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р±РµР»Р°СЂСѓСЃРєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р±РµСЃС€Р°Р±Р°С€РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р±Р»С–Р·Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р±СЏР»СЋС‚РєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р±СЏСЃС‚Р°Р»РµРЅС‚РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІР°Р»С–РґРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІР°СЂС‹СЏС‚С‹СћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІРµСЂР°Р±'С–РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІРµС‚СЂР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС–РґРѕРІС–С€С‡РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС–РґСѓС€С‡Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС–РЅРѕСћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС–С…СѓСЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹Р±СЂР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹РІРµСЂР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹РІРµСЂРЅСѓС‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹РєР»СЋС‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹РєС€С‚Р°Р»С†РѕРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹РЅС–РєРѕРІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹СЂР°Р¶Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹С†СЏРіРЅСѓС‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹С†СЏС‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹С‡Р°СЂРїР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹С€СЌР№С€Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІС‹СЏСћР»СЏРµРјР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РІСЏСЃС‘Р»Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РіР°Р»РѕСЃРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РіР°СЂР°РЅС‚Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РіР»Р°РјСѓСЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РіР»С‹Р±С–РЅРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РіРЅСЋСЃРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РіРѕР¶Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РіСЂР°С…РѕСћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РіСѓСЃС‚РѕСћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РіСѓС‡Р°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РґР°РґР·РµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РґР°Р»СѓС‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РґР°СЂСЌС‡РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РґР°С‚Р°С†С‹Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РґРІСѓСЂСѓС€РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РґРІСѓС…РіР°РґРѕРІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РґРІСѓС…СЃР»РѕР№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РґСЂСѓРіР°СЃРѕСЂС‚РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РґС‹СЃРєСѓСЃС–Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РґСЌРјР°РЅСЃС‚СЂР°С‚С‹СћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РµСћСЂР°РїРµР№СЃРєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р¶Р°Р»Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р¶С‹С†С†СЏРґР°Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°Р°РЅРіР°Р¶Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°Р°С…РІРѕС‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°Р±Р°СћР»СЏР»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°Р±С‹С‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°Р·РµРјР»РµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°Р№Р·РґСЂР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°РєР°РјРїР»РµРєСЃР°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°РєР»Р°РґР·РµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°РєРѕРЅС‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°РєСЂС‹С‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°РєСЂСЌРґС‹С‚Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°РЅРѕС€Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°РїР°РІРµРґРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°РїР°РјС–РЅР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°РїР°С‚СЂР°Р±Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°РїР°СћРЅСЏР»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°СЂСЌРіСѓР»СЏРІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°СЃР°РєСЂСЌС‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°СЃС‚Р°СЏР»Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°С‚СѓРјР°РЅРµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°С…РІРѕСЂРІР°РµРјР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°С†РµРЅРµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°С†С–СЃРЅСѓС‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°С†С‹РєР»РµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р°С€РѕСЂР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·Р»Р°РІРѕРєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·РЅР°РєР°РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·РѕСЂРєР°РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р·СЏР±РєР°РІР°С‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С–РґСЌР°Р»Р°РіС–Р·Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С–РЅР°РІР°С†С‹Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С–РЅС€Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С–СЃС†С–РЅРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°РјРµСЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°РјРїР»С–РјРµРЅС‚Р°СЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°РјСѓРЅС–РєР°Р±РµР»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°РјС„РѕСЂС‚РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°РЅРєСѓСЂСЌРЅС‚РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°РЅСЃС‚С‹С‚СѓС†С‹Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°РЅС„С–РґСЌРЅС†С‹Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°РЅС„С–РґСЌРЅС†С‹СЏР»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°РїСЂС‹Р·Р»С–РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°СЂРЅР°РІР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°СЂСѓРјРїР°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°СЂСѓРїС†С‹СЏРіРµРЅРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєР°С‚СЌРіР°СЂС‹Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєРµРїСЃРєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РєСЂР°РЅР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р»Р°Р±С–СЂС‹РЅС‚РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р»РµРІР°СЂСѓРєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р»РµРіРµРЅРґРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р»РµРіС–С‚С‹РјРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р»С‘Р¶РєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+Р»РѕР·СѓРЅРіР°РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РјР°РЅСѓРјРµРЅС‚Р°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РјР°СЂС‹СЏРЅРµС‚Р°С‡РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РјРµРґС‹Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РјРµРґС‹С‚Р°С‚С‹СћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РјРµР»Р°РґС‹Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РјРµС‚СЂР°Р¶РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РјС–СЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РјСЏСЂР·РѕС‚РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅР°РІСЏР·Р»С–РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅР°РјРѕР»РµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅР°СЃРєРѕРєР»С–РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµР°Р±Р°Р·РЅР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµРґР°РіСЂСЌС‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµРґР°РїСЂР°С†Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµРґР°СЃРєР°Р·Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµР·Р°РїР°С‚СЂР°Р±Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµР·Р°С…Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµР·РјС–РЅР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµС–РґСЌР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµС–РЅС„Р°СЂРјР°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµРєР°РЅСЃС‚С‹С‚СѓС†С‹Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµРїР°СЂР°Р¶Р°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµРїР°СћРЅР°РІР°СЂС‚Р°СЃРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµРїРµСЂР°РЅРѕСЃРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµРїРµСЂРїРµРЅРґС‹РєСѓР»СЏСЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµРїСЂР°Р±С–РІР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµРїСЂР°СЏСћР»РµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµРїСЂС‹РґСѓРјР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµСЂСѓРєР°С‚РІРѕСЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµСЂСЌР°Р»С–Р·Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРµС‚Р°СЂРѕРїРєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅС–СЏРєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅРѕРІР°РЅР°СЂРѕРґР¶Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅСЏР·РјСѓС€Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅСЏСЂСЌР№С‚С‹РЅРіР°РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РЅСЏС€С‡Р°СЃРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР°РґРІРѕРµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР°Рґ'С‘РјРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР°РґРєР»СЋС‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР°РґСЃС‚СѓРїРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР°РєР»С–РєР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР°Р»РѕСЃРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР°РјРµР¶РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР°СЃС–СЏРЅР°СЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР°С‚Р°РµРјРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР°СћРЅР°РІР°С‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїРµРєРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїРµСЂР°Р°СЃРЅР°С€С‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїРµСЂР°РІРµСЂРЅСѓС‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїРµСЂС€Р°СЂРѕРґРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїРµСЂС€Р°СЃС‚РІР°СЂР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїС–СЂР°РіРµРЅРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР»Р°РґР°РЅРѕСЃРєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїР»С‹РЅРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂР°РІС–РЅС†С‹Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂР°РґР°РІР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂР°РґРєР°Р·Р°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂР°РґСЃС‚Р°СћР»РµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂР°РґСЃС‚Р°СћРЅС–С‡Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂР°Р·Р°СЂР»С–РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂР°СЃРјР°Р¶Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂР°СЃСѓРЅСѓС‚Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂС‹РєР»Р°РґР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂС‹РјРµСЂРєР°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂС‹СЂРѕРґРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂС‹СЏСЂС‹С‚СЌС‚РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСЂСЌС†СЌРґСЌРЅС‚РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+РїСѓР»СЊС…РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂР°Р·РґРѕР»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂР°Р·РјРµР¶Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂР°Р·РјРµС€С‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂР°Р·РЅСЏРІРѕР»РµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂР°СЃРєСЂС‹РІР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂР°СЃС‚СЂСѓС€С‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂР°СЃС‚СѓСЂР·Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂР°СЃС†СЏСЂСѓС€Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂРѕРґРЅР°СЃРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂРѕСЃРїР°С‡РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂСѓСЃРєР°РјРѕСћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂСЌРіС–СЏРЅР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂСЌРґСѓРєР°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЂСЌР·РµСЂРІРѕРІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃР°РІРµС†РєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃР°РєСЂР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃР°РјР°Р°РєСѓРїР»СЏР»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃР°РјР°РґР°СЃС‚Р°С‚РєРѕРІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃР°РјР°РїР°С€С‹СЂР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃРІРµС‚Р»Р°РІРѕРєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃРІРµС‚Р»Р°РЅРѕСЃРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃРІРѕР»Р°С‡РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃРІСЏС‚Р»РѕРїСЂР°РїСѓСЃРєР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃРїР°Р»РѕС…Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃРїС–СЂС‚РѕР·РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃРїСЂР°СћРґР¶Р°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃС‚Р°С‚РєР°РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃС‚СЂР°С‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃС‚СЂСѓРєС‚СѓСЂР°Р»С–Р·Р°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃС‚С‹Р»Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃСѓРїР°РјРµСЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃСѓРїР°СЃС‚Р°СћР»СЏР»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃСѓСЂРѕС‡Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃС†С–С€Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃС†СЋР¶РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃСЌРєСЃР°РїС–Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЃСЌРЅСЃРѕСћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С‚Р°РЅС†Р°РІР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С‚Р»СѓРјРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С‚СЂР°С–С‡РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С‚СЂР°РЅСЃРїР°СЂСЌРЅС‚РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С‚СЂРѕС…РјРµСЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С‚СѓС‚СЌР№С€Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СѓР·РІР°Р¶Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СѓР·РјС‹Р»РµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СѓР·РЅР°СћР»СЏР»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СѓРєСЂР°РґР»С–РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СѓР»Р°РґРєР°РІР°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СѓР»СЋР±С‘РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СѓСЂР°Р¶Р°РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СѓСЃРµРґР°Р·РІРѕР»РµРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СѓСЃРјРѕРєС‚РІР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СѓСЃСЏРІРµРґРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СѓС‡Р°СЂРЅРµР»Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С„Р°СЂРјР°С‚РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С„РµРµСЂС‹С‡РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С…С–Р¶Р°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С…СѓС‚РєР°РїСЃР°РІР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С…СѓС‚РєР°СЃС‚СЂСЌР»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С†Р°СЂРєРѕСћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С†СѓРґР°С‚РІРѕСЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С†С‹С‚СѓРµРјР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С‡С‹СЃС†СЋС‚РєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С€Р»СЏС…РµС†РєР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С€РјР°С‚Р°Р±Р»С–С‡РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С€РјР°С‚РІР°Р»СЋС‚РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С€РјР°С‚РІРµРєС‚Р°СЂРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С€РјР°С‚РґСѓРјРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С€РјР°С‚СЃС‚Р°Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С€РјР°С‚СЃСЌРЅСЃРѕСћРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+С€С‡С‹РјР»С–РІР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЌРєР°Р»Р°РіС–С‡РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЌР»РµРєС‚Р°СЂР°Р»СЊРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЌРјР°С†С‹Р№РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЌРїР°С‚Р°Р¶РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЋРЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI
+СЏРјР°С‡РЅР°СЃС†	N	СЊ С– СЋ	f:sNA f:sGDL f:sI

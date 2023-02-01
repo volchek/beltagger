@@ -1,110 +1,110 @@
-Бархім	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Беларусьфільм	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Белгархімпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Белгорхімпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Белдаррэсурс	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Белдзяржканцэрн	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Белдзяржхарчпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Беллегпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Беллесбумпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Беллеспаперапрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Белпедтэхнікум	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Белрэсурс	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Белтэкс	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Белтэлекам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Белхарчпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Брэстмесцпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Віцебскхарчпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Газпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Гомельводаканал	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Гомельжалезабетон	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Гомельмясамалпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Еўрасаюз	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Кааппрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Камінтэрн	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Керамін	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Легпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Ленком	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Ленфільм	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Масфільм	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Мінаблвыканкам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Мінгарвыканкам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Мінпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Мінскводаканал	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Мінскгархарчпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Мінскхлебпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Мінфін	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Мясамалпрам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Нафтан	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Слонімводаканал	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Цэнтрвыбаркам	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
-Ювентус	NP_org	 а у ам е	m:sNA m:sG m:sD m:sI m:sL
+Р‘Р°СЂС…С–Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»Р°СЂСѓСЃСЊС„С–Р»СЊРј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»РіР°СЂС…С–РјРїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»РіРѕСЂС…С–РјРїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»РґР°СЂСЂСЌСЃСѓСЂСЃ	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»РґР·СЏСЂР¶РєР°РЅС†СЌСЂРЅ	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»РґР·СЏСЂР¶С…Р°СЂС‡РїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»Р»РµРіРїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»Р»РµСЃР±СѓРјРїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»Р»РµСЃРїР°РїРµСЂР°РїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»РїРµРґС‚СЌС…РЅС–РєСѓРј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»СЂСЌСЃСѓСЂСЃ	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»С‚СЌРєСЃ	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»С‚СЌР»РµРєР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»С…Р°СЂС‡РїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘СЂСЌСЃС‚РјРµСЃС†РїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р’С–С†РµР±СЃРєС…Р°СЂС‡РїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р“Р°Р·РїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р“РѕРјРµР»СЊРІРѕРґР°РєР°РЅР°Р»	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р“РѕРјРµР»СЊР¶Р°Р»РµР·Р°Р±РµС‚РѕРЅ	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р“РѕРјРµР»СЊРјСЏСЃР°РјР°Р»РїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р•СћСЂР°СЃР°СЋР·	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РљР°Р°РїРїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РљР°РјС–РЅС‚СЌСЂРЅ	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РљРµСЂР°РјС–РЅ	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р›РµРіРїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р›РµРЅРєРѕРј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р›РµРЅС„С–Р»СЊРј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РњР°СЃС„С–Р»СЊРј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РњС–РЅР°Р±Р»РІС‹РєР°РЅРєР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РњС–РЅРіР°СЂРІС‹РєР°РЅРєР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РњС–РЅРїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РњС–РЅСЃРєРІРѕРґР°РєР°РЅР°Р»	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РњС–РЅСЃРєРіР°СЂС…Р°СЂС‡РїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РњС–РЅСЃРєС…Р»РµР±РїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РњС–РЅС„С–РЅ	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РњСЏСЃР°РјР°Р»РїСЂР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РќР°С„С‚Р°РЅ	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+РЎР»РѕРЅС–РјРІРѕРґР°РєР°РЅР°Р»	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р¦СЌРЅС‚СЂРІС‹Р±Р°СЂРєР°Рј	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р®РІРµРЅС‚СѓСЃ	NP_org	 Р° Сѓ Р°Рј Рµ	m:sNA m:sG m:sD m:sI m:sL
 
-Белбудматэрыял	NP_org	ы аў ам амі ах	m:pNA m:pG m:pD m:pI m:pL
-Бярозабудматэрыял	NP_org	ы аў ам амі ах	m:pNA m:pG m:pD m:pI m:pL
-Ваўкавыскбудматэрыял	NP_org	ы аў ам амі ах	m:pNA m:pG m:pD m:pI m:pL
-Гомельбудматэрыял	NP_org	ы аў ам амі ах	m:pNA m:pG m:pD m:pI m:pL
-Краснасельскбудматэрыял	NP_org	ы аў ам амі ах	m:pNA m:pG m:pD m:pI m:pL
+Р‘РµР»Р±СѓРґРјР°С‚СЌСЂС‹СЏР»	NP_org	С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	m:pNA m:pG m:pD m:pI m:pL
+Р‘СЏСЂРѕР·Р°Р±СѓРґРјР°С‚СЌСЂС‹СЏР»	NP_org	С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	m:pNA m:pG m:pD m:pI m:pL
+Р’Р°СћРєР°РІС‹СЃРєР±СѓРґРјР°С‚СЌСЂС‹СЏР»	NP_org	С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	m:pNA m:pG m:pD m:pI m:pL
+Р“РѕРјРµР»СЊР±СѓРґРјР°С‚СЌСЂС‹СЏР»	NP_org	С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	m:pNA m:pG m:pD m:pI m:pL
+РљСЂР°СЃРЅР°СЃРµР»СЊСЃРєР±СѓРґРјР°С‚СЌСЂС‹СЏР»	NP_org	С‹ Р°Сћ Р°Рј Р°РјС– Р°С…	m:pNA m:pG m:pD m:pI m:pL
 
-Белмастпромыс	NP_org	ел ла лу лам ле	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»РјР°СЃС‚РїСЂРѕРјС‹СЃ	NP_org	РµР» Р»Р° Р»Сѓ Р»Р°Рј Р»Рµ	m:sNA m:sG m:sD m:sI m:sL
 
-Беларусбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
-Нацбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
-Ашчадпрамбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
-Белаграпрамбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
-Белгазпрамбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
-Газпрамбанк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
-Белдзяржцырк	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
-Белсадгадавальнік	NP_org	 а у ам	m:sNA m:sG m:sDL m:sI
+Р‘РµР»Р°СЂСѓСЃР±Р°РЅРє	NP_org	 Р° Сѓ Р°Рј	m:sNA m:sG m:sDL m:sI
+РќР°С†Р±Р°РЅРє	NP_org	 Р° Сѓ Р°Рј	m:sNA m:sG m:sDL m:sI
+РђС€С‡Р°РґРїСЂР°РјР±Р°РЅРє	NP_org	 Р° Сѓ Р°Рј	m:sNA m:sG m:sDL m:sI
+Р‘РµР»Р°РіСЂР°РїСЂР°РјР±Р°РЅРє	NP_org	 Р° Сѓ Р°Рј	m:sNA m:sG m:sDL m:sI
+Р‘РµР»РіР°Р·РїСЂР°РјР±Р°РЅРє	NP_org	 Р° Сѓ Р°Рј	m:sNA m:sG m:sDL m:sI
+Р“Р°Р·РїСЂР°РјР±Р°РЅРє	NP_org	 Р° Сѓ Р°Рј	m:sNA m:sG m:sDL m:sI
+Р‘РµР»РґР·СЏСЂР¶С†С‹СЂРє	NP_org	 Р° Сѓ Р°Рј	m:sNA m:sG m:sDL m:sI
+Р‘РµР»СЃР°РґРіР°РґР°РІР°Р»СЊРЅС–Рє	NP_org	 Р° Сѓ Р°Рј	m:sNA m:sG m:sDL m:sI
 
-Белэксімгаран	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Вадазбы	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Белінтурыс	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Ленхоладакамбіна	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Белспецкантрак	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Лідахарчканцэнтра	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Еўрапарламен	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Галоўпаштам	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Марозпрадук	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Гроднааблнафтапрадук	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Гроднахлебапрадук	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Белпрампраек	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Будпраек	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Мінскпраек	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Белліф	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Белмедпрэпара	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Белбудрамон	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Віцебсктурыс	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Белдзяржуніверсітэ	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Аэрафло	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Балтфло	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Атамбудэкспар	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Беллесэкспар	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Белтэхэкспар	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Газпрамэкспар	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Белбы	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Белвес	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
-Белста	NP_org	т та ту там це	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»СЌРєСЃС–РјРіР°СЂР°РЅ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р’Р°РґР°Р·Р±С‹	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»С–РЅС‚СѓСЂС‹СЃ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р›РµРЅС…РѕР»Р°РґР°РєР°РјР±С–РЅР°	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»СЃРїРµС†РєР°РЅС‚СЂР°Рє	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р›С–РґР°С…Р°СЂС‡РєР°РЅС†СЌРЅС‚СЂР°	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р•СћСЂР°РїР°СЂР»Р°РјРµРЅ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р“Р°Р»РѕСћРїР°С€С‚Р°Рј	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+РњР°СЂРѕР·РїСЂР°РґСѓРє	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р“СЂРѕРґРЅР°Р°Р±Р»РЅР°С„С‚Р°РїСЂР°РґСѓРє	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р“СЂРѕРґРЅР°С…Р»РµР±Р°РїСЂР°РґСѓРє	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»РїСЂР°РјРїСЂР°РµРє	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘СѓРґРїСЂР°РµРє	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+РњС–РЅСЃРєРїСЂР°РµРє	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»Р»С–С„	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»РјРµРґРїСЂСЌРїР°СЂР°	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»Р±СѓРґСЂР°РјРѕРЅ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р’С–С†РµР±СЃРєС‚СѓСЂС‹СЃ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»РґР·СЏСЂР¶СѓРЅС–РІРµСЂСЃС–С‚СЌ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+РђСЌСЂР°С„Р»Рѕ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘Р°Р»С‚С„Р»Рѕ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+РђС‚Р°РјР±СѓРґСЌРєСЃРїР°СЂ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»Р»РµСЃСЌРєСЃРїР°СЂ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»С‚СЌС…СЌРєСЃРїР°СЂ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р“Р°Р·РїСЂР°РјСЌРєСЃРїР°СЂ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»Р±С‹	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»РІРµСЃ	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
+Р‘РµР»СЃС‚Р°	NP_org	С‚ С‚Р° С‚Сѓ С‚Р°Рј С†Рµ	m:sNA m:sG m:sD m:sI m:sL
 
-Белаэранавігацы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
-Белбакале	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
-Белгеалогі	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
-Белтэлерадыёкампані	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
-Белфармацы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
-Белдзяржфілармоні	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
-Белдзяржкансерваторы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
-Санэпідстанцы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
-Белкартаграфі	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
-Віцебскмеліярацы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
-Брэстрэстаўрацы	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
-Белпрамэнергі	NP_org	я і ю яй яю	f:sN f:sGDL f:sA f:sI f:sI
+Р‘РµР»Р°СЌСЂР°РЅР°РІС–РіР°С†С‹	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
+Р‘РµР»Р±Р°РєР°Р»Рµ	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
+Р‘РµР»РіРµР°Р»РѕРіС–	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
+Р‘РµР»С‚СЌР»РµСЂР°РґС‹С‘РєР°РјРїР°РЅС–	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
+Р‘РµР»С„Р°СЂРјР°С†С‹	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
+Р‘РµР»РґР·СЏСЂР¶С„С–Р»Р°СЂРјРѕРЅС–	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
+Р‘РµР»РґР·СЏСЂР¶РєР°РЅСЃРµСЂРІР°С‚РѕСЂС‹	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
+РЎР°РЅСЌРїС–РґСЃС‚Р°РЅС†С‹	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
+Р‘РµР»РєР°СЂС‚Р°РіСЂР°С„С–	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
+Р’С–С†РµР±СЃРєРјРµР»С–СЏСЂР°С†С‹	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
+Р‘СЂСЌСЃС‚СЂСЌСЃС‚Р°СћСЂР°С†С‹	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
+Р‘РµР»РїСЂР°РјСЌРЅРµСЂРіС–	NP_org	СЏ С– СЋ СЏР№ СЏСЋ	f:sN f:sGDL f:sA f:sI f:sI
 
-Белпош	NP_org	та ты це ту тай таю	f:sN f:sG f:sDL f:sA f:sI f:sI
-Белгазе	NP_org	та ты це ту тай таю	f:sN f:sG f:sDL f:sA f:sI f:sI
+Р‘РµР»РїРѕС€	NP_org	С‚Р° С‚С‹ С†Рµ С‚Сѓ С‚Р°Р№ С‚Р°СЋ	f:sN f:sG f:sDL f:sA f:sI f:sI
+Р‘РµР»РіР°Р·Рµ	NP_org	С‚Р° С‚С‹ С†Рµ С‚Сѓ С‚Р°Р№ С‚Р°СЋ	f:sN f:sG f:sDL f:sA f:sI f:sI
 
-Акадэмкні	NP_org	га гі зе гу гай гаю	f:sN f:sG f:sDL f:sA f:sI f:sI
-Белкні	NP_org	га гі зе гу гай гаю	f:sN f:sG f:sDL f:sA f:sI f:sI
-Еўралі	NP_org	га гі зе гу гай гаю	f:sN f:sG f:sDL f:sA f:sI f:sI
-Бытпаслу	NP_org	га гі зе гу гай гаю	f:sN f:sG f:sDL f:sA f:sI f:sI
+РђРєР°РґСЌРјРєРЅС–	NP_org	РіР° РіС– Р·Рµ РіСѓ РіР°Р№ РіР°СЋ	f:sN f:sG f:sDL f:sA f:sI f:sI
+Р‘РµР»РєРЅС–	NP_org	РіР° РіС– Р·Рµ РіСѓ РіР°Р№ РіР°СЋ	f:sN f:sG f:sDL f:sA f:sI f:sI
+Р•СћСЂР°Р»С–	NP_org	РіР° РіС– Р·Рµ РіСѓ РіР°Р№ РіР°СЋ	f:sN f:sG f:sDL f:sA f:sI f:sI
+Р‘С‹С‚РїР°СЃР»Сѓ	NP_org	РіР° РіС– Р·Рµ РіСѓ РіР°Р№ РіР°СЋ	f:sN f:sG f:sDL f:sA f:sI f:sI
 
-Белшын	NP_org	а ы е у ай аю	f:sN f:sG f:sDL f:sA f:sI f:sI
+Р‘РµР»С€С‹РЅ	NP_org	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ	f:sN f:sG f:sDL f:sA f:sI f:sI

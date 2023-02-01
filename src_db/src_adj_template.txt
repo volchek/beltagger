@@ -1,8 +1,8 @@
-1	ы ая ае ага ай ае ага аму ай аму ую ае ым ай аю ым ым ай ым ыя ых ым ымі	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
-2	і ая ае ага ай ае ага аму ай аму ую ае ім ай аю ім ім ай ім ія іх ім імі	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
-3	і ая ое ога ой ое ога ому ой ому ую ое ім ой ою ім ім ой ім ія іх ім імі	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
-4	і яя яе яга яй яе яга яму яй яму юю яе ім яй яю ім ім яй ім ія іх ім імі	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
-5	ы ая ое ога ой ое ога ому ой ому ую ое ым ой ою ым ым ой ым ыя ых ым ымі	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
-6	ў вага ваму вым ва вай вае ву ваю ва вага ваму вым вы вых вым вымі	msNA msGA msD msIL fsN fsGDIL fsG fsA fsI nsNA nsGA nsD nsIL 0pNA 0pGAL 0pD 0pI
-7	 ага аму ым а ай ае у аю а ага аму ым ы ых ым ымі	msNA msGA msD msIL fsN fsGDIL fsG fsA fsI nsNA nsGA nsD nsIL 0pNA 0pGAL 0pD 0pI
-8	ен на на ны	ms:sh fs:sh ns:sh 0p:sh
+1	С‹ Р°СЏ Р°Рµ Р°РіР° Р°Р№ Р°Рµ Р°РіР° Р°РјСѓ Р°Р№ Р°РјСѓ СѓСЋ Р°Рµ С‹Рј Р°Р№ Р°СЋ С‹Рј С‹Рј Р°Р№ С‹Рј С‹СЏ С‹С… С‹Рј С‹РјС–	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
+2	С– Р°СЏ Р°Рµ Р°РіР° Р°Р№ Р°Рµ Р°РіР° Р°РјСѓ Р°Р№ Р°РјСѓ СѓСЋ Р°Рµ С–Рј Р°Р№ Р°СЋ С–Рј С–Рј Р°Р№ С–Рј С–СЏ С–С… С–Рј С–РјС–	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
+3	С– Р°СЏ РѕРµ РѕРіР° РѕР№ РѕРµ РѕРіР° РѕРјСѓ РѕР№ РѕРјСѓ СѓСЋ РѕРµ С–Рј РѕР№ РѕСЋ С–Рј С–Рј РѕР№ С–Рј С–СЏ С–С… С–Рј С–РјС–	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
+4	С– СЏСЏ СЏРµ СЏРіР° СЏР№ СЏРµ СЏРіР° СЏРјСѓ СЏР№ СЏРјСѓ СЋСЋ СЏРµ С–Рј СЏР№ СЏСЋ С–Рј С–Рј СЏР№ С–Рј С–СЏ С–С… С–Рј С–РјС–	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
+5	С‹ Р°СЏ РѕРµ РѕРіР° РѕР№ РѕРµ РѕРіР° РѕРјСѓ РѕР№ РѕРјСѓ СѓСЋ РѕРµ С‹Рј РѕР№ РѕСЋ С‹Рј С‹Рј РѕР№ С‹Рј С‹СЏ С‹С… С‹Рј С‹РјС–	msNA fsN nsNA msGA fsGDIL fsG nsGA msD fsGDIL nsD fsA nsNA msIL fsGDIL fsI nsIL msIL fsGDIL nsIL 0pNA 0pGAL 0pD 0pI
+6	Сћ РІР°РіР° РІР°РјСѓ РІС‹Рј РІР° РІР°Р№ РІР°Рµ РІСѓ РІР°СЋ РІР° РІР°РіР° РІР°РјСѓ РІС‹Рј РІС‹ РІС‹С… РІС‹Рј РІС‹РјС–	msNA msGA msD msIL fsN fsGDIL fsG fsA fsI nsNA nsGA nsD nsIL 0pNA 0pGAL 0pD 0pI
+7	 Р°РіР° Р°РјСѓ С‹Рј Р° Р°Р№ Р°Рµ Сѓ Р°СЋ Р° Р°РіР° Р°РјСѓ С‹Рј С‹ С‹С… С‹Рј С‹РјС–	msNA msGA msD msIL fsN fsGDIL fsG fsA fsI nsNA nsGA nsD nsIL 0pNA 0pGAL 0pD 0pI
+8	РµРЅ РЅР° РЅР° РЅС‹	ms:sh fs:sh ns:sh 0p:sh

@@ -1,642 +1,642 @@
-Азербайджан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Іран	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Казахстан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Кіргізстан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Пакістан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Таджыкістан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Татарстан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Туркменістан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Узбекістан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Афганістан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-В'етнам	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Ватыкан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Дагестан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Йемен	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Камерун	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Кыргызстан	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Ліхтэнштэйн	NP_top_country	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Вільнюс	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Вісагінас	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Жлобін	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Лондан	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Пекін	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Талін	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Ерэван	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Тэгеран	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Слонім	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Каракас	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Кобрын	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Рым	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Драгічын	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Берлін	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Барнаул	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Кабул	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Віфлеем	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Іерусалім	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Каўнас	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Абакан	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Бостан	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Брагін	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Вавілон	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Дублін	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Кёльн	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Лісабон	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Люблін	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Шчучын	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Заграб	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Талачын	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Берн	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Мюнхен	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Мілан	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Ліён	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Валожын	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Вашынгтон	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Стакгольм	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Стамбул	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Эйндховен	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Амстэрдам	NP_top_stl:town	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Крошын	NP_top_stl:other	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Лагішын	NP_top_stl:other	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Нёман	NP_top_river	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Гудзон	NP_top_river	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Іардан	NP_top_river	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Байкал	NP_top_lake	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Сахалін	NP_top_isle	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Эльбрус	NP_top_mount	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Арэгон	NP_top_distr	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Крым	NP_top_distr	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Каўказ	NP_top_reg	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
-Урал	NP_top_reg	 а у  ам е	m:sN m:sG m:sD m:sA m:sI m:sL
+РђР·РµСЂР±Р°Р№РґР¶Р°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р†СЂР°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°Р·Р°С…СЃС‚Р°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљС–СЂРіС–Р·СЃС‚Р°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РџР°РєС–СЃС‚Р°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РўР°РґР¶С‹РєС–СЃС‚Р°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РўР°С‚Р°СЂСЃС‚Р°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РўСѓСЂРєРјРµРЅС–СЃС‚Р°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЈР·Р±РµРєС–СЃС‚Р°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РђС„РіР°РЅС–СЃС‚Р°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’'РµС‚РЅР°Рј	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’Р°С‚С‹РєР°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р”Р°РіРµСЃС‚Р°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р™РµРјРµРЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°РјРµСЂСѓРЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљС‹СЂРіС‹Р·СЃС‚Р°РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›С–С…С‚СЌРЅС€С‚СЌР№РЅ	NP_top_country	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’С–Р»СЊРЅСЋСЃ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’С–СЃР°РіС–РЅР°СЃ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р–Р»РѕР±С–РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›РѕРЅРґР°РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РџРµРєС–РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РўР°Р»С–РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р•СЂСЌРІР°РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РўСЌРіРµСЂР°РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎР»РѕРЅС–Рј	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°СЂР°РєР°СЃ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљРѕР±СЂС‹РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р С‹Рј	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р”СЂР°РіС–С‡С‹РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘РµСЂР»С–РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘Р°СЂРЅР°СѓР»	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°Р±СѓР»	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’С–С„Р»РµРµРј	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р†РµСЂСѓСЃР°Р»С–Рј	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°СћРЅР°СЃ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РђР±Р°РєР°РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘РѕСЃС‚Р°РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СЂР°РіС–РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’Р°РІС–Р»РѕРЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р”СѓР±Р»С–РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљС‘Р»СЊРЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›С–СЃР°Р±РѕРЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›СЋР±Р»С–РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЁС‡СѓС‡С‹РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р—Р°РіСЂР°Р±	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РўР°Р»Р°С‡С‹РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘РµСЂРЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РњСЋРЅС…РµРЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РњС–Р»Р°РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›С–С‘РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’Р°Р»РѕР¶С‹РЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’Р°С€С‹РЅРіС‚РѕРЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎС‚Р°РєРіРѕР»СЊРј	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎС‚Р°РјР±СѓР»	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р­Р№РЅРґС…РѕРІРµРЅ	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РђРјСЃС‚СЌСЂРґР°Рј	NP_top_stl:town	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљСЂРѕС€С‹РЅ	NP_top_stl:other	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›Р°РіС–С€С‹РЅ	NP_top_stl:other	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РќС‘РјР°РЅ	NP_top_river	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р“СѓРґР·РѕРЅ	NP_top_river	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р†Р°СЂРґР°РЅ	NP_top_river	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘Р°Р№РєР°Р»	NP_top_lake	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎР°С…Р°Р»С–РЅ	NP_top_isle	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р­Р»СЊР±СЂСѓСЃ	NP_top_mount	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РђСЂСЌРіРѕРЅ	NP_top_distr	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљСЂС‹Рј	NP_top_distr	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°СћРєР°Р·	NP_top_reg	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЈСЂР°Р»	NP_top_reg	 Р° Сѓ  Р°Рј Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Эквадор	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Заір	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Алжыр	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Катар	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Кіпр	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Бангладэш	NP_top_country	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Нясвіж	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Парыж	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Каір	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Адлер	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Ванкувер	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Веймар	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Жытомір	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Краснадар	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Піцер	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Кембрыдж	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Добруш	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Бангалор	NP_top_stl:town	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Бездзеж	NP_top_stl:other	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Віндзар	NP_top_distr	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Гановер	NP_top_distr	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Ёркшыр	NP_top_distr	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Сож	NP_top_river	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
-Ла-Манш	NP_top_river	 а у  ам ы	m:sN m:sG m:sD m:sA m:sI m:sL
+Р­РєРІР°РґРѕСЂ	NP_top_country	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р—Р°С–СЂ	NP_top_country	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РђР»Р¶С‹СЂ	NP_top_country	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°С‚Р°СЂ	NP_top_country	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РљС–РїСЂ	NP_top_country	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘Р°РЅРіР»Р°РґСЌС€	NP_top_country	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РќСЏСЃРІС–Р¶	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РџР°СЂС‹Р¶	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°С–СЂ	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РђРґР»РµСЂ	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’Р°РЅРєСѓРІРµСЂ	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’РµР№РјР°СЂ	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р–С‹С‚РѕРјС–СЂ	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РљСЂР°СЃРЅР°РґР°СЂ	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РџС–С†РµСЂ	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РљРµРјР±СЂС‹РґР¶	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р”РѕР±СЂСѓС€	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘Р°РЅРіР°Р»РѕСЂ	NP_top_stl:town	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘РµР·РґР·РµР¶	NP_top_stl:other	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’С–РЅРґР·Р°СЂ	NP_top_distr	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р“Р°РЅРѕРІРµСЂ	NP_top_distr	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РЃСЂРєС€С‹СЂ	NP_top_distr	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎРѕР¶	NP_top_river	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›Р°-РњР°РЅС€	NP_top_river	 Р° Сѓ  Р°Рј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Мазыр	NP_top_stl:town	 а у  ом ы	m:sN m:sG m:sD m:sA m:sI m:sL
+РњР°Р·С‹СЂ	NP_top_stl:town	 Р° Сѓ  РѕРј С‹	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Тайланд	NP_top_country	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Царград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Петраград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Ленінград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Сталінград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Валгаград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Варашылаўград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Дзімітраўград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Калінінград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Кіраваград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Цалінаград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Белград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Бялград	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Ашхабад	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Гарвард	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Ноўгарад	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Мадрыд	NP_top_stl:town	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
-Галівуд	NP_top_stl:other	 а у  ам зе	m:sN m:sG m:sD m:sA m:sI m:sL
+РўР°Р№Р»Р°РЅРґ	NP_top_country	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р¦Р°СЂРіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РџРµС‚СЂР°РіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›РµРЅС–РЅРіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎС‚Р°Р»С–РЅРіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’Р°Р»РіР°РіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’Р°СЂР°С€С‹Р»Р°СћРіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р”Р·С–РјС–С‚СЂР°СћРіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°Р»С–РЅС–РЅРіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљС–СЂР°РІР°РіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р¦Р°Р»С–РЅР°РіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘РµР»РіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СЏР»РіСЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РђС€С…Р°Р±Р°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р“Р°СЂРІР°СЂРґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РќРѕСћРіР°СЂР°Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РњР°РґСЂС‹Рґ	NP_top_stl:town	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р“Р°Р»С–РІСѓРґ	NP_top_stl:other	 Р° Сѓ  Р°Рј Р·Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Кувей	NP_top_country	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
-Брэс	NP_top_stl:town	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
-Будапеш	NP_top_stl:town	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
-Ашгаба	NP_top_stl:town	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
-Краншта	NP_top_stl:town	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
-Арба	NP_top_stl:street	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
-Арара	NP_top_mount	т та ту т там це	m:sN m:sG m:sD m:sA m:sI m:sL
+РљСѓРІРµР№	NP_top_country	С‚ С‚Р° С‚Сѓ С‚ С‚Р°Рј С†Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СЂСЌСЃ	NP_top_stl:town	С‚ С‚Р° С‚Сѓ С‚ С‚Р°Рј С†Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СѓРґР°РїРµС€	NP_top_stl:town	С‚ С‚Р° С‚Сѓ С‚ С‚Р°Рј С†Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РђС€РіР°Р±Р°	NP_top_stl:town	С‚ С‚Р° С‚Сѓ С‚ С‚Р°Рј С†Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљСЂР°РЅС€С‚Р°	NP_top_stl:town	С‚ С‚Р° С‚Сѓ С‚ С‚Р°Рј С†Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РђСЂР±Р°	NP_top_stl:street	С‚ С‚Р° С‚Сѓ С‚ С‚Р°Рј С†Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РђСЂР°СЂР°	NP_top_mount	С‚ С‚Р° С‚Сѓ С‚ С‚Р°Рј С†Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Егіп	NP_top_stl:town	ет та ту ет там це	m:sN m:sG m:sD m:sA m:sI m:sL
+Р•РіС–Рї	NP_top_stl:town	РµС‚ С‚Р° С‚Сѓ РµС‚ С‚Р°Рј С†Рµ	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Пецярбур	NP_top_stl:town	г га гу г гам зе гу	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
-Санкт-Пецярбур	NP_top_stl:town	г га гу г гам зе гу	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
-Екацерынбур	NP_top_stl:town	г га гу г гам зе гу	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
-Гамбур	NP_top_stl:town	г га гу г гам зе гу	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
-Ганкон	NP_top_stl:town	г га гу г гам зе гу	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
+РџРµС†СЏСЂР±СѓСЂ	NP_top_stl:town	Рі РіР° РіСѓ Рі РіР°Рј Р·Рµ РіСѓ	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
+РЎР°РЅРєС‚-РџРµС†СЏСЂР±СѓСЂ	NP_top_stl:town	Рі РіР° РіСѓ Рі РіР°Рј Р·Рµ РіСѓ	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
+Р•РєР°С†РµСЂС‹РЅР±СѓСЂ	NP_top_stl:town	Рі РіР° РіСѓ Рі РіР°Рј Р·Рµ РіСѓ	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
+Р“Р°РјР±СѓСЂ	NP_top_stl:town	Рі РіР° РіСѓ Рі РіР°Рј Р·Рµ РіСѓ	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
+Р“Р°РЅРєРѕРЅ	NP_top_stl:town	Рі РіР° РіСѓ Рі РіР°Рј Р·Рµ РіСѓ	m:sN m:sG m:sD m:sA m:sI m:sL m:sL
 
-Віцебск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Гданьск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Беласток	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Бабруйск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Мінск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Менск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Клецк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Новасібірск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Пінск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Полацк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Томск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Іркуцк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Слуцк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Дзяржынск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Салігорск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Светлагорск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Смаленск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Чачэрск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Наваполацк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Лагойск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Данецк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Верхнядзвінск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Ваўкавыск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Бангкок	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Дамаск	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Нью-Ёрк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Нью-Йорк	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Страсбург	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Цюрых	NP_top_stl:town	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Квебек	NP_top_distr	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Брандэнбург	NP_top_distr	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
-Буг	NP_top_river	 а у  ам у	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’С–С†РµР±СЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р“РґР°РЅСЊСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘РµР»Р°СЃС‚РѕРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘Р°Р±СЂСѓР№СЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РњС–РЅСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РњРµРЅСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР»РµС†Рє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РќРѕРІР°СЃС–Р±С–СЂСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РџС–РЅСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РџРѕР»Р°С†Рє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РўРѕРјСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р†СЂРєСѓС†Рє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎР»СѓС†Рє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р”Р·СЏСЂР¶С‹РЅСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎР°Р»С–РіРѕСЂСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎРІРµС‚Р»Р°РіРѕСЂСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎРјР°Р»РµРЅСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р§Р°С‡СЌСЂСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РќР°РІР°РїРѕР»Р°С†Рє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›Р°РіРѕР№СЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р”Р°РЅРµС†Рє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’РµСЂС…РЅСЏРґР·РІС–РЅСЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’Р°СћРєР°РІС‹СЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘Р°РЅРіРєРѕРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р”Р°РјР°СЃРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РќСЊСЋ-РЃСЂРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РќСЊСЋ-Р™РѕСЂРє	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎС‚СЂР°СЃР±СѓСЂРі	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р¦СЋСЂС‹С…	NP_top_stl:town	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљРІРµР±РµРє	NP_top_distr	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СЂР°РЅРґСЌРЅР±СѓСЂРі	NP_top_distr	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СѓРі	NP_top_river	 Р° Сѓ  Р°Рј Сѓ	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Навагруд	NP_top_stl:town	ак ка ку ак кам ку	m:sN m:sG m:sD m:sA m:sI m:sL
-Полац	NP_top_stl:town	ак ка ку ак кам ку	m:sN m:sG m:sD m:sA m:sI m:sL
-Слуц	NP_top_stl:town	ак ка ку ак кам ку	m:sN m:sG m:sD m:sA m:sI m:sL
-Друц	NP_top_stl:town	ак ка ку ак кам ку	m:sN m:sG m:sD m:sA m:sI m:sL
+РќР°РІР°РіСЂСѓРґ	NP_top_stl:town	Р°Рє РєР° РєСѓ Р°Рє РєР°Рј РєСѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РџРѕР»Р°С†	NP_top_stl:town	Р°Рє РєР° РєСѓ Р°Рє РєР°Рј РєСѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎР»СѓС†	NP_top_stl:town	Р°Рє РєР° РєСѓ Р°Рє РєР°Рј РєСѓ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р”СЂСѓС†	NP_top_stl:town	Р°Рє РєР° РєСѓ Р°Рє РєР°Рј РєСѓ	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Давыд-Гарад	NP_top_stl:town	ок ка ку ок ком ку	m:sN m:sG m:sD m:sA m:sI m:sL
+Р”Р°РІС‹Рґ-Р“Р°СЂР°Рґ	NP_top_stl:town	РѕРє РєР° РєСѓ РѕРє РєРѕРј РєСѓ	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Лунін	NP_top_stl:town	ец ца цу ец цом цы	m:sN m:sG m:sD m:sA m:sI m:sL
-Івян	NP_top_stl:town	ец ца цу ец цом цы	m:sN m:sG m:sD m:sA m:sI m:sL
-Камян	NP_top_stl:town	ец ца цу ец цом цы	m:sN m:sG m:sD m:sA m:sI m:sL
-Трасцян	NP_top_stl:other	ец ца цу ец цом цы	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›СѓРЅС–РЅ	NP_top_stl:town	РµС† С†Р° С†Сѓ РµС† С†РѕРј С†С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+Р†РІСЏРЅ	NP_top_stl:town	РµС† С†Р° С†Сѓ РµС† С†РѕРј С†С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°РјСЏРЅ	NP_top_stl:town	РµС† С†Р° С†Сѓ РµС† С†РѕРј С†С‹	m:sN m:sG m:sD m:sA m:sI m:sL
+РўСЂР°СЃС†СЏРЅ	NP_top_stl:other	РµС† С†Р° С†Сѓ РµС† С†РѕРј С†С‹	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Астра	NP_top_stl:town	вец ўца ўцу вец ўцом ўцы	m:sN m:sG m:sD m:sA m:sI m:sL
+РђСЃС‚СЂР°	NP_top_stl:town	РІРµС† СћС†Р° СћС†Сѓ РІРµС† СћС†РѕРј СћС†С‹	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Тур	NP_top_stl:other	эц ца цу эц цом цы	m:sN m:sG m:sD m:sA m:sI m:sL
+РўСѓСЂ	NP_top_stl:other	СЌС† С†Р° С†Сѓ СЌС† С†РѕРј С†С‹	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Гомел	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Лепел	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Чарнобыл	NP_top_stl:other	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Чэрвен	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Яраслаўл	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Мотал	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Ізраіл	NP_top_country	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Брусел	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Брусэл	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Марсэл	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Брыстол	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Севастопал	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Канстанцінопал	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Ліверпул	NP_top_stl:town	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Кактэбел	NP_top_stl:other	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Антопал	NP_top_stl:other	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Скідал	NP_top_stl:other	ь я ю ь ем і	m:sN m:sG m:sD m:sA m:sI m:sL
+Р“РѕРјРµР»	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›РµРїРµР»	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+Р§Р°СЂРЅРѕР±С‹Р»	NP_top_stl:other	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+Р§СЌСЂРІРµРЅ	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+РЇСЂР°СЃР»Р°СћР»	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+РњРѕС‚Р°Р»	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+Р†Р·СЂР°С–Р»	NP_top_country	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СЂСѓСЃРµР»	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СЂСѓСЃСЌР»	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+РњР°СЂСЃСЌР»	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СЂС‹СЃС‚РѕР»	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎРµРІР°СЃС‚РѕРїР°Р»	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°РЅСЃС‚Р°РЅС†С–РЅРѕРїР°Р»	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›С–РІРµСЂРїСѓР»	NP_top_stl:town	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°РєС‚СЌР±РµР»	NP_top_stl:other	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+РђРЅС‚РѕРїР°Р»	NP_top_stl:other	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎРєС–РґР°Р»	NP_top_stl:other	СЊ СЏ СЋ СЊ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Капыл	NP_top_stl:town	ь я ю ь ём і	m:sN m:sG m:sD m:sA m:sI m:sL
+РљР°РїС‹Р»	NP_top_stl:town	СЊ СЏ СЋ СЊ С‘Рј С–	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Кіта	NP_top_country	й я ю й ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Бамбе	NP_top_stl:town	й я ю й ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Алта	NP_top_distr	й я ю й ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Брадве	NP_top_stl:street	й я ю й ем і	m:sN m:sG m:sD m:sA m:sI m:sL
-Енісе	NP_top_river	й я ю й ем і	m:sN m:sG m:sD m:sA m:sI m:sL
+РљС–С‚Р°	NP_top_country	Р№ СЏ СЋ Р№ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘Р°РјР±Рµ	NP_top_stl:town	Р№ СЏ СЋ Р№ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+РђР»С‚Р°	NP_top_distr	Р№ СЏ СЋ Р№ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СЂР°РґРІРµ	NP_top_stl:street	Р№ СЏ СЋ Р№ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
+Р•РЅС–СЃРµ	NP_top_river	Р№ СЏ СЋ Р№ РµРј С–	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Барыса	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Будсла	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Кіе	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Кішынё	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Магілё	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Крака	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Ачака	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Брасла	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Вроцла	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Шкло	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Петрыка	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Сарата	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Старабарыса	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Харка	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Чарніга	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Чэрыка	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Быха	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Крыча	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Тура	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Пско	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Рагачо	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Льво	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Тэль-Аві	NP_top_stl:town	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Рака	NP_top_stl:other	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
-Серыка	NP_top_stl:other	ў ва ву ў вам ве	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘Р°СЂС‹СЃР°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СѓРґСЃР»Р°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљС–Рµ	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљС–С€С‹РЅС‘	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РњР°РіС–Р»С‘	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљСЂР°РєР°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РђС‡Р°РєР°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘СЂР°СЃР»Р°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р’СЂРѕС†Р»Р°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЁРєР»Рѕ	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РџРµС‚СЂС‹РєР°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎР°СЂР°С‚Р°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎС‚Р°СЂР°Р±Р°СЂС‹СЃР°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РҐР°СЂРєР°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р§Р°СЂРЅС–РіР°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р§СЌСЂС‹РєР°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р‘С‹С…Р°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РљСЂС‹С‡Р°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РўСѓСЂР°	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РџСЃРєРѕ	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р Р°РіР°С‡Рѕ	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р›СЊРІРѕ	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РўСЌР»СЊ-РђРІС–	NP_top_stl:town	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+Р Р°РєР°	NP_top_stl:other	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
+РЎРµСЂС‹РєР°	NP_top_stl:other	Сћ РІР° РІСѓ Сћ РІР°Рј РІРµ	m:sN m:sG m:sD m:sA m:sI m:sL
 
-Венесуэл	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Малдов	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Герцагавін	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Украін	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ангол	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Батсван	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Гвіян	NP_top_country	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Варшав	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Жэнев	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Адэс	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Юрмал	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Браціслав	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Шаркаўшчын	NP_top_stl:town	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Дальв	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Кунцаўшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Мікалаеўшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Пятроўшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ракуцёўшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Пількаўшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Лыскаўшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Мерачоўшчын	NP_top_stl:other	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Нарв	NP_top_river	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Волм	NP_top_river	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Арэс	NP_top_river	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Бярэзін	NP_top_river	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Еўроп	NP_top_reg	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Нямеччын	NP_top_reg	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Арызон	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Беласточчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Берасцейшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Брэстчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Віцебшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Гомельшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Гродзеншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Магілёўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Міншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Навагрудчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Астравеччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Лідчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Клеччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Аршаншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Асіповіччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ашмяншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Бабруйшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Барысаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Брагіншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Браслаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Быхаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Бярозаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Бярэзіншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Валагодчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Валожыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ваўкавышчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Верхнядзвіншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Вілейшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Віленшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ганцаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Гарадзеншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Дзяржыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Добрушчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Драгічыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Дубровеншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Жлобіншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Жыткавіччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Жытоміршчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Зэльвешчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Івацэвіччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Іўеўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Камянеччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Капыльшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Карэліччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Кіеўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Кіраўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Клічаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Кобрыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Краснапольшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Крычаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Лагойшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Лепельшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Лунінеччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ляхавіччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ляхаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Мазыршчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Маладзечаншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Міёршчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Мсціслаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Мядзельшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Наваградчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Налібоччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Нараўляншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Нясвіжчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Нясвіжшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Пастаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Петрыкаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Піншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Полаччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Пскоўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Пухавіччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Пухаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Рагачоўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Расоншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ровеншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Сенненшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Слаўгарадчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Слонімшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Случчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Смаленшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Смаргоншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Старадарожчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Стаўбцоўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Століншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Талачыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Тураўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Уздзеншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ушаччын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Чарнігаўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Чачэршчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Чэрвеньшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Шклоўшчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Шчучыншчын	NP_top_distr	а ы е у ай аю е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’РµРЅРµСЃСѓСЌР»	NP_top_country	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњР°Р»РґРѕРІ	NP_top_country	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“РµСЂС†Р°РіР°РІС–РЅ	NP_top_country	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЈРєСЂР°С–РЅ	NP_top_country	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђРЅРіРѕР»	NP_top_country	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘Р°С‚СЃРІР°РЅ	NP_top_country	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“РІС–СЏРЅ	NP_top_country	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’Р°СЂС€Р°РІ	NP_top_stl:town	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р–СЌРЅРµРІ	NP_top_stl:town	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђРґСЌСЃ	NP_top_stl:town	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р®СЂРјР°Р»	NP_top_stl:town	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘СЂР°С†С–СЃР»Р°РІ	NP_top_stl:town	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЁР°СЂРєР°СћС€С‡С‹РЅ	NP_top_stl:town	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”Р°Р»СЊРІ	NP_top_stl:other	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљСѓРЅС†Р°СћС€С‡С‹РЅ	NP_top_stl:other	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњС–РєР°Р»Р°РµСћС€С‡С‹РЅ	NP_top_stl:other	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџСЏС‚СЂРѕСћС€С‡С‹РЅ	NP_top_stl:other	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р Р°РєСѓС†С‘СћС€С‡С‹РЅ	NP_top_stl:other	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџС–Р»СЊРєР°СћС€С‡С‹РЅ	NP_top_stl:other	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›С‹СЃРєР°СћС€С‡С‹РЅ	NP_top_stl:other	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњРµСЂР°С‡РѕСћС€С‡С‹РЅ	NP_top_stl:other	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќР°СЂРІ	NP_top_river	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’РѕР»Рј	NP_top_river	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСЂСЌСЃ	NP_top_river	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘СЏСЂСЌР·С–РЅ	NP_top_river	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р•СћСЂРѕРї	NP_top_reg	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќСЏРјРµС‡С‡С‹РЅ	NP_top_reg	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСЂС‹Р·РѕРЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘РµР»Р°СЃС‚РѕС‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘РµСЂР°СЃС†РµР№С€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘СЂСЌСЃС‚С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’С–С†РµР±С€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“РѕРјРµР»СЊС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“СЂРѕРґР·РµРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњР°РіС–Р»С‘СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњС–РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќР°РІР°РіСЂСѓРґС‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСЃС‚СЂР°РІРµС‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›С–РґС‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР»РµС‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСЂС€Р°РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСЃС–РїРѕРІС–С‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђС€РјСЏРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘Р°Р±СЂСѓР№С€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘Р°СЂС‹СЃР°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘СЂР°РіС–РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘СЂР°СЃР»Р°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘С‹С…Р°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘СЏСЂРѕР·Р°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘СЏСЂСЌР·С–РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’Р°Р»Р°РіРѕРґС‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’Р°Р»РѕР¶С‹РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’Р°СћРєР°РІС‹С€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’РµСЂС…РЅСЏРґР·РІС–РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’С–Р»РµР№С€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’С–Р»РµРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“Р°РЅС†Р°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“Р°СЂР°РґР·РµРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”Р·СЏСЂР¶С‹РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”РѕР±СЂСѓС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”СЂР°РіС–С‡С‹РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”СѓР±СЂРѕРІРµРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р–Р»РѕР±С–РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р–С‹С‚РєР°РІС–С‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р–С‹С‚РѕРјС–СЂС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р—СЌР»СЊРІРµС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р†РІР°С†СЌРІС–С‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р†СћРµСћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°РјСЏРЅРµС‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°РїС‹Р»СЊС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°СЂСЌР»С–С‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљС–РµСћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљС–СЂР°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР»С–С‡Р°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљРѕР±СЂС‹РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљСЂР°СЃРЅР°РїРѕР»СЊС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљСЂС‹С‡Р°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›Р°РіРѕР№С€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›РµРїРµР»СЊС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›СѓРЅС–РЅРµС‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›СЏС…Р°РІС–С‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›СЏС…Р°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњР°Р·С‹СЂС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњР°Р»Р°РґР·РµС‡Р°РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњС–С‘СЂС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњСЃС†С–СЃР»Р°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњСЏРґР·РµР»СЊС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќР°РІР°РіСЂР°РґС‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќР°Р»С–Р±РѕС‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќР°СЂР°СћР»СЏРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќСЏСЃРІС–Р¶С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќСЏСЃРІС–Р¶С€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџР°СЃС‚Р°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџРµС‚СЂС‹РєР°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџС–РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџРѕР»Р°С‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџСЃРєРѕСћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџСѓС…Р°РІС–С‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџСѓС…Р°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р Р°РіР°С‡РѕСћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р Р°СЃРѕРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р РѕРІРµРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎРµРЅРЅРµРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎР»Р°СћРіР°СЂР°РґС‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎР»РѕРЅС–РјС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎР»СѓС‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎРјР°Р»РµРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎРјР°СЂРіРѕРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎС‚Р°СЂР°РґР°СЂРѕР¶С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎС‚Р°СћР±С†РѕСћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎС‚РѕР»С–РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РўР°Р»Р°С‡С‹РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РўСѓСЂР°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЈР·РґР·РµРЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЈС€Р°С‡С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р§Р°СЂРЅС–РіР°СћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р§Р°С‡СЌСЂС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р§СЌСЂРІРµРЅСЊС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЁРєР»РѕСћС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЁС‡СѓС‡С‹РЅС€С‡С‹РЅ	NP_top_distr	Р° С‹ Рµ Сѓ Р°Р№ Р°СЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Літв	NP_top_country	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Астан	NP_top_stl:town	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Маскв	NP_top_stl:town	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Барселон	NP_top_stl:town	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Дзвін	NP_top_river	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Беразін	NP_top_river	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Дзісн	NP_top_river	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Калым	NP_top_river	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Няв	NP_top_river	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Кастрам	NP_top_stl:town	а ы е у ой ою е	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›С–С‚РІ	NP_top_country	Р° С‹ Рµ Сѓ РѕР№ РѕСЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСЃС‚Р°РЅ	NP_top_stl:town	Р° С‹ Рµ Сѓ РѕР№ РѕСЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњР°СЃРєРІ	NP_top_stl:town	Р° С‹ Рµ Сѓ РѕР№ РѕСЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘Р°СЂСЃРµР»РѕРЅ	NP_top_stl:town	Р° С‹ Рµ Сѓ РѕР№ РѕСЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”Р·РІС–РЅ	NP_top_river	Р° С‹ Рµ Сѓ РѕР№ РѕСЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘РµСЂР°Р·С–РЅ	NP_top_river	Р° С‹ Рµ Сѓ РѕР№ РѕСЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”Р·С–СЃРЅ	NP_top_river	Р° С‹ Рµ Сѓ РѕР№ РѕСЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°Р»С‹Рј	NP_top_river	Р° С‹ Рµ Сѓ РѕР№ РѕСЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќСЏРІ	NP_top_river	Р° С‹ Рµ Сѓ РѕР№ РѕСЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°СЃС‚СЂР°Рј	NP_top_stl:town	Р° С‹ Рµ Сѓ РѕР№ РѕСЋ Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Польшч	NP_top_country	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Андор	NP_top_country	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Орш	NP_top_stl:town	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Рэчыц	NP_top_stl:town	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Вінніц	NP_top_stl:town	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Лошніц	NP_top_stl:other	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Дукор	NP_top_stl:other	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Калож	NP_top_stl:other	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Белавеж	NP_top_distr	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Шчар	NP_top_river	а ы ы у ай аю ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџРѕР»СЊС€С‡	NP_top_country	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђРЅРґРѕСЂ	NP_top_country	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РћСЂС€	NP_top_stl:town	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р СЌС‡С‹С†	NP_top_stl:town	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’С–РЅРЅС–С†	NP_top_stl:town	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›РѕС€РЅС–С†	NP_top_stl:other	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”СѓРєРѕСЂ	NP_top_stl:other	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°Р»РѕР¶	NP_top_stl:other	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘РµР»Р°РІРµР¶	NP_top_distr	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЁС‡Р°СЂ	NP_top_river	Р° С‹ С‹ Сѓ Р°Р№ Р°СЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Анкар	NP_top_stl:town	а ы ы у ой ою ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Бухар	NP_top_stl:town	а ы ы у ой ою ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Уш	NP_top_stl:other	а ы ы у ой ою ы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђРЅРєР°СЂ	NP_top_stl:town	Р° С‹ С‹ Сѓ РѕР№ РѕСЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘СѓС…Р°СЂ	NP_top_stl:town	Р° С‹ С‹ Сѓ РѕР№ РѕСЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЈС€	NP_top_stl:other	Р° С‹ С‹ Сѓ РѕР№ РѕСЋ С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Антарктыд	NP_top_reg	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Канад	NP_top_country	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Элад	NP_top_country	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Лід	NP_top_stl:town	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Гранад	NP_top_stl:town	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ясельд	NP_top_river	а ы зе у ай аю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђРЅС‚Р°СЂРєС‚С‹Рґ	NP_top_reg	Р° С‹ Р·Рµ Сѓ Р°Р№ Р°СЋ Р·Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°РЅР°Рґ	NP_top_country	Р° С‹ Р·Рµ Сѓ Р°Р№ Р°СЋ Р·Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р­Р»Р°Рґ	NP_top_country	Р° С‹ Р·Рµ Сѓ Р°Р№ Р°СЋ Р·Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›С–Рґ	NP_top_stl:town	Р° С‹ Р·Рµ Сѓ Р°Р№ Р°СЋ Р·Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“СЂР°РЅР°Рґ	NP_top_stl:town	Р° С‹ Р·Рµ Сѓ Р°Р№ Р°СЋ Р·Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЇСЃРµР»СЊРґ	NP_top_river	Р° С‹ Р·Рµ Сѓ Р°Р№ Р°СЋ Р·Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Узд	NP_top_stl:town	а ы зе у ой ою зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЈР·Рґ	NP_top_stl:town	Р° С‹ Р·Рµ Сѓ РѕР№ РѕСЋ Р·Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Маль	NP_top_isle	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Атлан	NP_top_stl:town	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Джакар	NP_top_stl:town	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Кальку	NP_top_stl:town	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ял	NP_top_stl:town	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Дако	NP_top_distr	та ты це ту тай таю це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњР°Р»СЊ	NP_top_isle	С‚Р° С‚С‹ С†Рµ С‚Сѓ С‚Р°Р№ С‚Р°СЋ С†Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђС‚Р»Р°РЅ	NP_top_stl:town	С‚Р° С‚С‹ С†Рµ С‚Сѓ С‚Р°Р№ С‚Р°СЋ С†Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”Р¶Р°РєР°СЂ	NP_top_stl:town	С‚Р° С‚С‹ С†Рµ С‚Сѓ С‚Р°Р№ С‚Р°СЋ С†Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°Р»СЊРєСѓ	NP_top_stl:town	С‚Р° С‚С‹ С†Рµ С‚Сѓ С‚Р°Р№ С‚Р°СЋ С†Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЇР»	NP_top_stl:town	С‚Р° С‚С‹ С†Рµ С‚Сѓ С‚Р°Р№ С‚Р°СЋ С†Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”Р°РєРѕ	NP_top_distr	С‚Р° С‚С‹ С†Рµ С‚Сѓ С‚Р°Р№ С‚Р°СЋ С†Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Варку	NP_top_stl:town	та ты це ту той тою це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Алма-А	NP_top_stl:town	та ты це ту той тою це	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’Р°СЂРєСѓ	NP_top_stl:town	С‚Р° С‚С‹ С†Рµ С‚Сѓ С‚РѕР№ С‚РѕСЋ С†Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђР»РјР°-Рђ	NP_top_stl:town	С‚Р° С‚С‹ С†Рµ С‚Сѓ С‚РѕР№ С‚РѕСЋ С†Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Елабу	NP_top_stl:town	га гі зе гу гай гаю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ры	NP_top_stl:town	га гі зе гу гай гаю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Вол	NP_top_river	га гі зе гу гай гаю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Нямі	NP_top_river	га гі зе гу гай гаю зе	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р•Р»Р°Р±Сѓ	NP_top_stl:town	РіР° РіС– Р·Рµ РіСѓ РіР°Р№ РіР°СЋ Р·Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р С‹	NP_top_stl:town	РіР° РіС– Р·Рµ РіСѓ РіР°Р№ РіР°СЋ Р·Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’РѕР»	NP_top_river	РіР° РіС– Р·Рµ РіСѓ РіР°Р№ РіР°СЋ Р·Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќСЏРјС–	NP_top_river	РіР° РіС– Р·Рµ РіСѓ РіР°Р№ РіР°СЋ Р·Рµ	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Атланты	NP_top_reg	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Балты	NP_top_reg	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Прыбалты	NP_top_reg	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Амеры	NP_top_reg	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Афры	NP_top_reg	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Аркты	NP_top_reg	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Антаркты	NP_top_reg	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Аляс	NP_top_distr	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Чукот	NP_top_distr	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Адрыаты	NP_top_distr	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Мексі	NP_top_country	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Шры-Лан	NP_top_country	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Жабін	NP_top_stl:town	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Вілей	NP_top_stl:town	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Дамброў	NP_top_stl:other	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Касцюкоў	NP_top_stl:other	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Люцын	NP_top_stl:other	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ратам	NP_top_stl:other	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Серабран	NP_top_stl:other	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Вязын	NP_top_stl:other	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Камароў	NP_top_stl:street	ка кі цы ку кай каю цы	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђС‚Р»Р°РЅС‚С‹	NP_top_reg	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘Р°Р»С‚С‹	NP_top_reg	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџСЂС‹Р±Р°Р»С‚С‹	NP_top_reg	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђРјРµСЂС‹	NP_top_reg	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђС„СЂС‹	NP_top_reg	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСЂРєС‚С‹	NP_top_reg	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђРЅС‚Р°СЂРєС‚С‹	NP_top_reg	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђР»СЏСЃ	NP_top_distr	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р§СѓРєРѕС‚	NP_top_distr	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђРґСЂС‹Р°С‚С‹	NP_top_distr	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњРµРєСЃС–	NP_top_country	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЁСЂС‹-Р›Р°РЅ	NP_top_country	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р–Р°Р±С–РЅ	NP_top_stl:town	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’С–Р»РµР№	NP_top_stl:town	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”Р°РјР±СЂРѕСћ	NP_top_stl:other	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°СЃС†СЋРєРѕСћ	NP_top_stl:other	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›СЋС†С‹РЅ	NP_top_stl:other	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р Р°С‚Р°Рј	NP_top_stl:other	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎРµСЂР°Р±СЂР°РЅ	NP_top_stl:other	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’СЏР·С‹РЅ	NP_top_stl:other	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°РјР°СЂРѕСћ	NP_top_stl:street	РєР° РєС– С†С‹ РєСѓ РєР°Р№ РєР°СЋ С†С‹	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Англі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Армені	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Асеці	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Аўстры	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Аўстралі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Балгары	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Бельгі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Венгры	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Вялікабрытані	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Галанды	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Германі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Грузі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Грэцы	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Дані	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Іспані	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Італі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ірланды	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Кіргізі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Латві	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Нарвегі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Партугалі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Расі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Румыні	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Сербі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Славакі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Туркмені	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Турцы	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Францы	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Фінлянды	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Чэхі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Швейцары	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Швецы	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Эстоні	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Японі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Абхазі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Бразілі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Карэ	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Брытані	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Македоні	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Інды	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Харваты	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Сіры	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Славені	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Араві	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Гвіне	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Эфіопі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Албані	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Босні	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Башкіры	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Чэхаславакі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Чарнагоры	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Расе	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Прусі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Югаславі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Шатланды	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Нігеры	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Малайзі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Інданезі	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ісланды	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Ліві	NP_top_country	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Вільн	NP_top_stl:town	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Гдын	NP_top_stl:town	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Гародн	NP_top_stl:town	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Наваельн	NP_top_stl:town	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Нароўл	NP_top_stl:town	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Еўпаторы	NP_top_stl:town	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Венецы	NP_top_stl:town	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Фларэнцы	NP_top_stl:town	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Александры	NP_top_stl:town	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Гарадзе	NP_top_stl:other	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Еўразі	NP_top_reg	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Азі	NP_top_reg	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Балты	NP_top_reg	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Скандынаві	NP_top_reg	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Анталі	NP_top_distr	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Бавары	NP_top_distr	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Галіцы	NP_top_distr	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Аркады	NP_top_distr	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Фракі	NP_top_distr	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Каліфорні	NP_top_distr	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
-Зеланды	NP_top_distr	я і і ю яй яю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђРЅРіР»С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСЂРјРµРЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСЃРµС†С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСћСЃС‚СЂС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСћСЃС‚СЂР°Р»С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘Р°Р»РіР°СЂС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘РµР»СЊРіС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’РµРЅРіСЂС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’СЏР»С–РєР°Р±СЂС‹С‚Р°РЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“Р°Р»Р°РЅРґС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“РµСЂРјР°РЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“СЂСѓР·С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“СЂСЌС†С‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р”Р°РЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р†СЃРїР°РЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р†С‚Р°Р»С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р†СЂР»Р°РЅРґС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљС–СЂРіС–Р·С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›Р°С‚РІС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќР°СЂРІРµРіС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџР°СЂС‚СѓРіР°Р»С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р Р°СЃС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р СѓРјС‹РЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎРµСЂР±С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎР»Р°РІР°РєС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РўСѓСЂРєРјРµРЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РўСѓСЂС†С‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р¤СЂР°РЅС†С‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р¤С–РЅР»СЏРЅРґС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р§СЌС…С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЁРІРµР№С†Р°СЂС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЁРІРµС†С‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р­СЃС‚РѕРЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЇРїРѕРЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђР±С…Р°Р·С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘СЂР°Р·С–Р»С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°СЂСЌ	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘СЂС‹С‚Р°РЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњР°РєРµРґРѕРЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р†РЅРґС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РҐР°СЂРІР°С‚С‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎС–СЂС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎР»Р°РІРµРЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСЂР°РІС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“РІС–РЅРµ	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р­С„С–РѕРїС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђР»Р±Р°РЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘РѕСЃРЅС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘Р°С€РєС–СЂС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р§СЌС…Р°СЃР»Р°РІР°РєС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р§Р°СЂРЅР°РіРѕСЂС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р Р°СЃРµ	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РџСЂСѓСЃС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р®РіР°СЃР»Р°РІС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЁР°С‚Р»Р°РЅРґС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќС–РіРµСЂС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РњР°Р»Р°Р№Р·С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р†РЅРґР°РЅРµР·С–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р†СЃР»Р°РЅРґС‹	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р›С–РІС–	NP_top_country	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’С–Р»СЊРЅ	NP_top_stl:town	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“РґС‹РЅ	NP_top_stl:town	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“Р°СЂРѕРґРЅ	NP_top_stl:town	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќР°РІР°РµР»СЊРЅ	NP_top_stl:town	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РќР°СЂРѕСћР»	NP_top_stl:town	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р•СћРїР°С‚РѕСЂС‹	NP_top_stl:town	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р’РµРЅРµС†С‹	NP_top_stl:town	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р¤Р»Р°СЂСЌРЅС†С‹	NP_top_stl:town	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђР»РµРєСЃР°РЅРґСЂС‹	NP_top_stl:town	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“Р°СЂР°РґР·Рµ	NP_top_stl:other	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р•СћСЂР°Р·С–	NP_top_reg	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђР·С–	NP_top_reg	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘Р°Р»С‚С‹	NP_top_reg	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РЎРєР°РЅРґС‹РЅР°РІС–	NP_top_reg	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђРЅС‚Р°Р»С–	NP_top_distr	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р‘Р°РІР°СЂС‹	NP_top_distr	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р“Р°Р»С–С†С‹	NP_top_distr	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РђСЂРєР°РґС‹	NP_top_distr	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р¤СЂР°РєС–	NP_top_distr	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+РљР°Р»С–С„РѕСЂРЅС–	NP_top_distr	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р—РµР»Р°РЅРґС‹	NP_top_distr	СЏ С– С– СЋ СЏР№ СЏСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Чачн	NP_top_country	я і і ю ёй ёю і	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
+Р§Р°С‡РЅ	NP_top_country	СЏ С– С– СЋ С‘Р№ С‘СЋ С–	f:sN f:sG f:sD f:sA f:sI f:sI f:sL
 
-Бесядз	NP_top_river	ь і і ь ю і	f:sN f:sG f:sD f:sA f:sI f:sL
+Р‘РµСЃСЏРґР·	NP_top_river	СЊ С– С– СЊ СЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
 
-Прыпяц	NP_top_river	ь і і ь цю і	f:sN f:sG f:sD f:sA f:sI f:sL
-Друц	NP_top_river	ь і і ь цю і	f:sN f:sG f:sD f:sA f:sI f:sL
+РџСЂС‹РїСЏС†	NP_top_river	СЊ С– С– СЊ С†СЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
+Р”СЂСѓС†	NP_top_river	СЊ С– С– СЊ С†СЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
 
-Смаргон	NP_top_stl:town	ь і і ь ню і	f:sN f:sG f:sD f:sA f:sI f:sL
-Познан	NP_top_stl:town	ь і і ь ню і	f:sN f:sG f:sD f:sA f:sI f:sL
-Любан	NP_top_stl:town	ь і і ь ню і	f:sN f:sG f:sD f:sA f:sI f:sL
-Хатын	NP_top_stl:other	ь і і ь ню і	f:sN f:sG f:sD f:sA f:sI f:sL
-Панямон	NP_top_stl:other	ь і і ь ню і	f:sN f:sG f:sD f:sA f:sI f:sL
-Верхан	NP_top_stl:other	ь і і ь ню і	f:sN f:sG f:sD f:sA f:sI f:sL
-Кубан	NP_top_distr	ь і і ь ню і	f:sN f:sG f:sD f:sA f:sI f:sL
-Гарын	NP_top_river	ь і і ь ню і	f:sN f:sG f:sD f:sA f:sI f:sL
+РЎРјР°СЂРіРѕРЅ	NP_top_stl:town	СЊ С– С– СЊ РЅСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
+РџРѕР·РЅР°РЅ	NP_top_stl:town	СЊ С– С– СЊ РЅСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
+Р›СЋР±Р°РЅ	NP_top_stl:town	СЊ С– С– СЊ РЅСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
+РҐР°С‚С‹РЅ	NP_top_stl:other	СЊ С– С– СЊ РЅСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
+РџР°РЅСЏРјРѕРЅ	NP_top_stl:other	СЊ С– С– СЊ РЅСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
+Р’РµСЂС…Р°РЅ	NP_top_stl:other	СЊ С– С– СЊ РЅСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
+РљСѓР±Р°РЅ	NP_top_distr	СЊ С– С– СЊ РЅСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
+Р“Р°СЂС‹РЅ	NP_top_river	СЊ С– С– СЊ РЅСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
 
-Беларус	NP_top_country	ь і і ь сю і	f:sN f:sG f:sD f:sA f:sI f:sL
-Рус	NP_top_country	ь і і ь сю і	f:sN f:sG f:sD f:sA f:sI f:sL
+Р‘РµР»Р°СЂСѓСЃ	NP_top_country	СЊ С– С– СЊ СЃСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
+Р СѓСЃ	NP_top_country	СЊ С– С– СЊ СЃСЋ С–	f:sN f:sG f:sD f:sA f:sI f:sL
 
-Свіслач	NP_top_river	 ы ы  чу ы	f:sN f:sG f:sD f:sA f:sI f:sL
-Пціч	NP_top_river	 ы ы  чу ы	f:sN f:sG f:sD f:sA f:sI f:sL
-Нарач	NP_top_lake	 ы ы  чу ы	f:sN f:sG f:sD f:sA f:sI f:sL
-
-
-Гродн	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Коўн	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Маладзечн	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Маладэчн	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Станькав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Косав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Дуброўн	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Жодзін	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Кемерав	NP_top_stl:town	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Лупалав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Гатав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Атолін	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Цельшын	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Семежав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Крэв	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Астрамечав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Дастоев	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Сухарав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-Баркалабав	NP_top_stl:other	а а у а ам е	n:sN n:sG n:sD n:sA n:sI n:sL
-
-Азярышч	NP_top_stl:other	а а у а ам ы	n:sN n:sG n:sD n:sA n:sI n:sL
-Гарадзішч	NP_top_stl:other	а а у а ам ы	n:sN n:sG n:sD n:sA n:sI n:sL
-Уручч	NP_top_stl:other	а а у а ам ы	n:sN n:sG n:sD n:sA n:sI n:sL
-
-Берасц	NP_top_stl:town	е я ю е ем і	n:sN n:sG n:sD n:sA n:sI n:sL
-Заслаў	NP_top_stl:town	е я ю е ем і	n:sN n:sG n:sD n:sA n:sI n:sL
-Крутагор'	NP_top_stl:town	е я ю е ем і	n:sN n:sG n:sD n:sA n:sI n:sL
-Залесс	NP_top_stl:other	е я ю е ем і	n:sN n:sG n:sD n:sA n:sI n:sL
-Палесс	NP_top_distr	е я ю е ем і	n:sN n:sG n:sD n:sA n:sI n:sL
-Прыбайкалл	NP_top_distr	е я ю е ем і	n:sN n:sG n:sD n:sA n:sI n:sL
+РЎРІС–СЃР»Р°С‡	NP_top_river	 С‹ С‹  С‡Сѓ С‹	f:sN f:sG f:sD f:sA f:sI f:sL
+РџС†С–С‡	NP_top_river	 С‹ С‹  С‡Сѓ С‹	f:sN f:sG f:sD f:sA f:sI f:sL
+РќР°СЂР°С‡	NP_top_lake	 С‹ С‹  С‡Сѓ С‹	f:sN f:sG f:sD f:sA f:sI f:sL
 
 
-Балкан	NP_top_reg	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Баранавіч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Івацэвіч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Карэліч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Бялыніч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Смалявіч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Ляхавіч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Асіповіч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Афін	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Ашмян	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Азарыч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Пружан	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Расон	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Чавус	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Калінкавіч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Касцюковіч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Клімавіч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Ганцавіч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Міёр	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Лельчыц	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Хіславіч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Жыткавіч	NP_top_stl:town	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Абідавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Аляхновіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Вераб'евіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Глушкавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Дунілавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Ждановіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Зубрэвіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Калодзішч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Каралішчавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Кругавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Ляскавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Мікашэвіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Мікуціч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Міханавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Свяцілавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Смілавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Сумліч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Сынкавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Цімкавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Шоўкавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Юравіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Курапат	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Жупран	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Лынтуп	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Целяхан	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Бараўлян	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Варанян	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Варнян	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Гараўлян	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Замасцян	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Кушлян	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Альшан	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Сухаўлян	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Хатлян	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Радашковіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Пухавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Ружан	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Панюшкавіч	NP_top_stl:other	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Дрысвят	NP_top_lake	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Канар	NP_top_isle	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Курыл	NP_top_isle	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Карпат	NP_top_mount	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Альп	NP_top_mount	ы  аў ам ы амі ах	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р“СЂРѕРґРЅ	NP_top_stl:town	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+РљРѕСћРЅ	NP_top_stl:town	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+РњР°Р»Р°РґР·РµС‡РЅ	NP_top_stl:town	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+РњР°Р»Р°РґСЌС‡РЅ	NP_top_stl:town	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+РЎС‚Р°РЅСЊРєР°РІ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+РљРѕСЃР°РІ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+Р”СѓР±СЂРѕСћРЅ	NP_top_stl:town	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+Р–РѕРґР·С–РЅ	NP_top_stl:town	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+РљРµРјРµСЂР°РІ	NP_top_stl:town	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+Р›СѓРїР°Р»Р°РІ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+Р“Р°С‚Р°РІ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+РђС‚РѕР»С–РЅ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+Р¦РµР»СЊС€С‹РЅ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+РЎРµРјРµР¶Р°РІ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+РљСЂСЌРІ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+РђСЃС‚СЂР°РјРµС‡Р°РІ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+Р”Р°СЃС‚РѕРµРІ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+РЎСѓС…Р°СЂР°РІ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
+Р‘Р°СЂРєР°Р»Р°Р±Р°РІ	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј Рµ	n:sN n:sG n:sD n:sA n:sI n:sL
 
-Стоўбц	NP_top_stl:town	ы аў ам ы амі ах	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+РђР·СЏСЂС‹С€С‡	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј С‹	n:sN n:sG n:sD n:sA n:sI n:sL
+Р“Р°СЂР°РґР·С–С€С‡	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј С‹	n:sN n:sG n:sD n:sA n:sI n:sL
+РЈСЂСѓС‡С‡	NP_top_stl:other	Р° Р° Сѓ Р° Р°Рј С‹	n:sN n:sG n:sD n:sA n:sI n:sL
 
-Стаўбц	NP_top_stl:town	ы оў ам ы амі ах	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
-Шабан	NP_top_stl:other	ы оў ам ы амі ах	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+Р‘РµСЂР°СЃС†	NP_top_stl:town	Рµ СЏ СЋ Рµ РµРј С–	n:sN n:sG n:sD n:sA n:sI n:sL
+Р—Р°СЃР»Р°Сћ	NP_top_stl:town	Рµ СЏ СЋ Рµ РµРј С–	n:sN n:sG n:sD n:sA n:sI n:sL
+РљСЂСѓС‚Р°РіРѕСЂ'	NP_top_stl:town	Рµ СЏ СЋ Рµ РµРј С–	n:sN n:sG n:sD n:sA n:sI n:sL
+Р—Р°Р»РµСЃСЃ	NP_top_stl:other	Рµ СЏ СЋ Рµ РµРј С–	n:sN n:sG n:sD n:sA n:sI n:sL
+РџР°Р»РµСЃСЃ	NP_top_distr	Рµ СЏ СЋ Рµ РµРј С–	n:sN n:sG n:sD n:sA n:sI n:sL
+РџСЂС‹Р±Р°Р№РєР°Р»Р»	NP_top_distr	Рµ СЏ СЋ Рµ РµРј С–	n:sN n:sG n:sD n:sA n:sI n:sL
 
-Васіліш	NP_top_stl:other	кі ак каў кам кі камі ках	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Дудут	NP_top_stl:other	кі ак каў кам кі камі ках	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
-Лукіш	NP_top_stl:street	кі ак каў кам кі камі ках	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
 
-Хойні	NP_top_stl:town	кі каў кам кі камі ках	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+Р‘Р°Р»РєР°РЅ	NP_top_reg	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р‘Р°СЂР°РЅР°РІС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р†РІР°С†СЌРІС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљР°СЂСЌР»С–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р‘СЏР»С‹РЅС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РЎРјР°Р»СЏРІС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р›СЏС…Р°РІС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РђСЃС–РїРѕРІС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РђС„С–РЅ	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РђС€РјСЏРЅ	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РђР·Р°СЂС‹С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РџСЂСѓР¶Р°РЅ	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р Р°СЃРѕРЅ	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р§Р°РІСѓСЃ	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљР°Р»С–РЅРєР°РІС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљР°СЃС†СЋРєРѕРІС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљР»С–РјР°РІС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р“Р°РЅС†Р°РІС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РњС–С‘СЂ	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р›РµР»СЊС‡С‹С†	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РҐС–СЃР»Р°РІС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р–С‹С‚РєР°РІС–С‡	NP_top_stl:town	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РђР±С–РґР°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РђР»СЏС…РЅРѕРІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р’РµСЂР°Р±'РµРІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р“Р»СѓС€РєР°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р”СѓРЅС–Р»Р°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р–РґР°РЅРѕРІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р—СѓР±СЂСЌРІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљР°Р»РѕРґР·С–С€С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљР°СЂР°Р»С–С€С‡Р°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљСЂСѓРіР°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р›СЏСЃРєР°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РњС–РєР°С€СЌРІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РњС–РєСѓС†С–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РњС–С…Р°РЅР°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РЎРІСЏС†С–Р»Р°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РЎРјС–Р»Р°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РЎСѓРјР»С–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РЎС‹РЅРєР°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р¦С–РјРєР°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РЁРѕСћРєР°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р®СЂР°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљСѓСЂР°РїР°С‚	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р–СѓРїСЂР°РЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р›С‹РЅС‚СѓРї	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р¦РµР»СЏС…Р°РЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р‘Р°СЂР°СћР»СЏРЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р’Р°СЂР°РЅСЏРЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р’Р°СЂРЅСЏРЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р“Р°СЂР°СћР»СЏРЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р—Р°РјР°СЃС†СЏРЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљСѓС€Р»СЏРЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РђР»СЊС€Р°РЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РЎСѓС…Р°СћР»СЏРЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РҐР°С‚Р»СЏРЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р Р°РґР°С€РєРѕРІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РџСѓС…Р°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р СѓР¶Р°РЅ	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РџР°РЅСЋС€РєР°РІС–С‡	NP_top_stl:other	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р”СЂС‹СЃРІСЏС‚	NP_top_lake	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљР°РЅР°СЂ	NP_top_isle	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљСѓСЂС‹Р»	NP_top_isle	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РљР°СЂРїР°С‚	NP_top_mount	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+РђР»СЊРї	NP_top_mount	С‹  Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
 
-Аўцю	NP_top_stl:other	кі коў кам кі камі ках	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+РЎС‚РѕСћР±С†	NP_top_stl:town	С‹ Р°Сћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+
+РЎС‚Р°СћР±С†	NP_top_stl:town	С‹ РѕСћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+РЁР°Р±Р°РЅ	NP_top_stl:other	С‹ РѕСћ Р°Рј С‹ Р°РјС– Р°С…	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+
+Р’Р°СЃС–Р»С–С€	NP_top_stl:other	РєС– Р°Рє РєР°Сћ РєР°Рј РєС– РєР°РјС– РєР°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р”СѓРґСѓС‚	NP_top_stl:other	РєС– Р°Рє РєР°Сћ РєР°Рј РєС– РєР°РјС– РєР°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+Р›СѓРєС–С€	NP_top_stl:street	РєС– Р°Рє РєР°Сћ РєР°Рј РєС– РєР°РјС– РєР°С…	0:pN 0:pG 0:pG 0:pD 0:pA 0:pI 0:pL
+
+РҐРѕР№РЅС–	NP_top_stl:town	РєС– РєР°Сћ РєР°Рј РєС– РєР°РјС– РєР°С…	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL
+
+РђСћС†СЋ	NP_top_stl:other	РєС– РєРѕСћ РєР°Рј РєС– РєР°РјС– РєР°С…	0:pN 0:pG 0:pD 0:pA 0:pI 0:pL

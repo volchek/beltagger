@@ -1,391 +1,391 @@
-1‡	0:pNGDAIL
-2‡	m:sNGDAIL m:pNGDAIL
-2·	f:sNGDAIL f:pNGDAIL
-2‚	n:sNGDAIL n:pNGDAIL
-2„	c:sNGDAIL c:pNGDAIL
-4‡	f:sN f:sNA f:sGDL f:sI
-4‡0	n:sN n:sNA n:sGDL n:sI
-4·	f:sN f:sNA f:sGDL f:sI
-4·0	n:sN n:sNA n:sGDL n:sI
-4‚	f:sN f:sNA f:sGDL f:sI
-4„	f:sN f:sNA f:sGDL f:sI
-4‰	m:sN m:sNA m:sGDL m:sI
-4Â	m:sN m:sNA m:sGDL m:sI
-4Ê	n:sN n:sNGA n:sDL n:sI
-4Á	n:sN n:sNA n:sGDL n:sI
-5subst_‡	n:sN n:sNA n:sG n:sD n:sIL
-5subst_·	0:pN 0:pNA 0:pGL 0:pD 0:pI
-5subst_·0	0:pN 0:pN 0:pGAL 0:pD 0:pI
-5subst_‚	m:sN m:sN m:sGA m:sD m:sIL
-5subst_‚0	m:sN m:sN m:sGA m:sD m:sIL
-5‡	f:sN f:sNGA f:sD f:sI f:sL
-5·	f:sN f:sNA f:sGDL f:sGDL f:sI
-5‚	f:sN f:sNA f:sGDL f:sI f:sI
-5„	m:sN m:sNA m:sGD m:sI m:sL
-5‰	m:sN m:sNA m:sGD m:sI m:sL
-5Â	m:sN m:sNA m:sGD m:sI m:sL
-5Ê	m:sN m:sNA m:sGD m:sI m:sL
-5Á	m:sN m:sNA m:sGD m:sI m:sL
-5Ë	m:sN m:sNA m:sG m:sDL m:sI
-5Í	m:sN m:sNA m:sG m:sDL m:sI
-5Î	m:sN m:sNA m:sGD m:sI m:sL
-5Ï0	m:sN m:sN m:sG m:sDAL m:sI
-5Ì0	m:sN m:sN m:sGA m:sDL m:sI
-5Ó0	m:sN m:sN m:sGDL m:sA m:sI
-5Ô	n:sN n:sNGA n:sD n:sI n:sL
-5	n:sN n:sNGA n:sD n:sI n:sL
-5Ò	n:sN n:sNGA n:sD n:sI n:sL
-5Ú	n:sN n:sNA n:sG n:sDL n:sI
-5Û	m:sN m:sNA m:sGDL m:sI m:sL
-6subst_‡	f:sN f:sN f:sGDIL f:sA f:sI f:sI
-6subst_·	f:sN f:sN f:sGDIL f:sA f:sI f:sI
-6‡	f:sN f:sN f:sGDL f:sA f:sI f:sI
-6·	f:sN f:sN f:sGDL f:sA f:sI f:sI
-6‚	f:sN f:sN f:sGDL f:sA f:sI f:sI
-6„	f:sN f:sN f:sGDL f:sA f:sI f:sI
-6‰	f:sN f:sNA f:sGDL f:sI f:sI f:sI
-6Â	m:sN m:sNA m:sG m:sD m:sI m:sL
-6Â0	m:sN m:sN m:sGA m:sD m:sI m:sL
-6Ê	m:sN m:sNA m:sG m:sD m:sI m:sL
-6Á	m:sN m:sNA m:sG m:sD m:sI m:sL
-6Ë	m:sN m:sNA m:sG m:sD m:sI m:sL
-6Í	m:sN m:sNA m:sG m:sD m:sI m:sL
-6Î	m:sN m:sNA m:sG m:sD m:sI m:sL
-6Ï	n:sN n:sNA n:sG n:sD n:sI n:sL
-6Ì	n:sN n:sNA n:sG n:sD n:sI n:sL
-6Ó	n:sN n:sNA n:sG n:sD n:sI n:sL
-6Ô	n:sN n:sNA n:sG n:sD n:sI n:sL
-6	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
-6'	m:pN m:pNA m:pG m:pD m:pI m:pL
-6Ò	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
-6Ú	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
-6Û	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
-6Ù	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
-6ı	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
-6ˆ	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
-6˜	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
-6¯	0:pN 0:pN 0:pGA 0:pD 0:pI 0:pL
-6˘	0:pN 0:pN 0:pGA 0:pD 0:pI 0:pL
-6˙	0:pN 0:pN 0:pGA 0:pD 0:pI 0:pL
-6˚	0:pN 0:pN 0:pGA 0:pD 0:pI 0:pL
-6¸	c:sN c:sN c:sGDL c:sA c:sI c:sI
-6˝	c:sN c:sN c:sGDL c:sA c:sI c:sI
-6˛	m:sN m:sNA m:sGD m:sI m:sL m:sL
-6ˇ0	m:sN m:sNA m:sG m:sD m:sI m:sL
-7‡	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
-7·	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
-7‚	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
-7„	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
-7‰	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
-7Â	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
-7Ê	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
-7Á	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI
-7Ë	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI
-7Í	m:sN m:sNA m:sG m:sD m:sI m:sI m:sL
-7Î	0:pN 0:pNA 0:pG 0:pG 0:pD 0:pI 0:pL
-7Ï	0:pN 0:pNA 0:pG 0:pG 0:pD 0:pI 0:pL
-7Ì	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pI 0:pL
-7Ó	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pI 0:pL
-8‡	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pI 0:pI 0:pL
-9subst_‡0	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
-9subst_·	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
-9subst_È	f:sN f:sN f:sGDIL f:sA f:sI f:pNA f:pGL f:pD f:pI
-9subst_È0	f:sN f:sN f:sGDIL f:sA f:sI f:pN f:pGAL f:pD f:pI
-9subst_Ó0	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
-9subst_Ô0	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
-9subst_0	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
-9subst_Ò0	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
-9subst_˜	n:sN n:sNA n:sG n:sD n:sIL n:pNA n:pGL n:pD n:pI
-9subst_¯0	n:sN n:sNA n:sG n:sD n:sIL n:pN n:pGAL n:pD n:pI
-9subst_˘	n:sN n:sNA n:sG n:sD n:sIL n:pNA n:pGL n:pD n:pI
-9subst_˙0	n:sN n:sNA n:sG n:sD n:sIL n:pN n:pGAL n:pD n:pI
-9subst_˚	n:sN n:sNA n:sG n:sD n:sIL n:pNA n:pGL n:pD n:pI
-9subst_¸	f:sN f:sN f:sGDIL f:sA f:sI f:pNA f:pGL f:pD f:pI
-9subst_¸0	f:sN f:sN f:sGDIL f:sA f:sI f:pN f:pGAL f:pD f:pI
-9subst_˝	f:sN f:sN f:sGDIL f:sA f:sI f:pNA f:pGL f:pD f:pI
-9subst_˝0	f:sN f:sN f:sGDIL f:sA f:sI f:pN f:pGAL f:pD f:pI
-9subst_˛	f:sN f:sN f:sGDIL f:sA f:sI f:pNA f:pGL f:pD f:pI
-9subst_˛0	f:sN f:sN f:sGDIL f:sA f:sI f:pN f:pGAL f:pD f:pI
-9subst_ˇ	f:sN f:sN f:sGDIL f:sA f:sI f:pNA f:pGL f:pD f:pI
-9subst_ˇ0	f:sN f:sN f:sGDIL f:sA f:sI f:pN f:pGAL f:pD f:pI
-9‡	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pD f:pI f:pL
-9·	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pD f:pI f:pL
-9‚0	f:sN f:sNA f:sGDL f:sI f:pN f:pGA f:pD f:pI f:pL
-9„0	f:sN f:sNA f:sGDL f:sI f:pN f:pGA f:pD f:pI f:pL
-9‰	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pD f:pI f:pL
-9Â	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pD f:pI f:pL
-9Ê0	f:sN f:sNA f:sGDL f:sI f:pN f:pGA f:pD f:pI f:pL
-9Á	m:sN m:sNA m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
-9Ë	m:sN m:sNA m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
-9Í	m:sN m:sNA m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
-9Î	m:sN m:sNA m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
-9Ï0	m:sN m:sNGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-9Ì0	m:sN m:sNGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-9Ú	n:sN n:sNGA n:sDL n:sI n:pNA n:pG n:pD n:pI n:pL
-9Û	n:sN n:sNGA n:sDL n:sI n:pNA n:pG n:pD n:pI n:pL
-9Ù	n:sN n:sNGA n:sDL n:sI n:pNA n:pG n:pD n:pI n:pL
-9ı0	n:sN n:sNGA n:sDL n:sI n:pN n:pGA n:pD n:pI n:pL
-9ˆ0	n:sN n:sNA n:sGDL n:sI n:pN n:pGA n:pD n:pI n:pL
-10‡	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
-10·	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
-10‚	f:sN f:sNA f:sGDL f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-10„	f:sN f:sN f:sGDL f:sA f:sI f:pNA f:pG f:pD f:pI f:pL
-10„0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10‰	f:sN f:sN f:sGDL f:sA f:sI f:pNA f:pG f:pD f:pI f:pL
-10‰0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Â	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
-10∏	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
-10Â0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10∏0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Ê	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
-10Ê0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Á	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
-10Á0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Ë	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
-10Ë0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10È	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
-10È0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Í	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
-10Í0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Î	m:sN m:sN m:sG m:sDAL m:sI m:pNA m:pG m:pD m:pI m:pL
-10Î0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Ï	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10Ï0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Ì	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10Ì0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Ó	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10Ó0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Ô	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10Ô0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
-10	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-100	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Ò	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10Ú	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10Ú0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Û	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10Û0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10Ù	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10Ù0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10ı	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10ı0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10ˆ	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
-10˜	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
-10¯	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
-10˘	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-10˘0	n:sN n:sNA n:sG n:sDL n:sI n:pN n:pGA n:pD n:pI n:pL
-10˙	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-10˚	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-10¸	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-10¸0	n:sN n:sNGA n:sD n:sI n:sL n:pN n:pGA n:pD n:pI n:pL
-10˝	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-10˛	n:sN n:sNA n:sG n:sDL n:sI n:pNA n:pG n:pD n:pI n:pL
-10˛0	n:sN n:sNA n:sNA n:sGDL n:sI n:pN n:pGA n:pD n:pI n:pL
-10ˇ	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-10ˇ0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
-10ˇ‡	m:sN m:sNA m:sGDL m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10ˇ‡0	f:sN f:sNA f:sGDL f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-10ˇ·	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-10ˇ·0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
-10ˇ‚	m:sN m:sNA m:sG m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
-10ˇ„	m:sN m:sNA m:sG m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
-10ˇ‰	m:sN m:sNA m:sGDL m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10ˇÂ	n:sN n:sNGA n:sDL n:sI n:pNA n:pG n:pG n:pD n:pI n:pL
-10ˇ∏	m:sN m:sNA m:sGDL m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-10ˇÊ	n:sN n:sNA n:sGDL n:sI n:pNA n:pG n:pG n:pD n:pI n:pL
-10ˇÁ	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
-10ˇË	n:sN n:sNGA n:sDL n:sI n:pNA n:pNA n:pG n:pD n:pI n:pL
-11‡	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11‡0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-11·	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11·0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
-11‚	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11‚0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
-11„	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11„0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
-11‰	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11‰0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-11Â	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pD f:pI f:pL
-11∏	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pD f:pI f:pL
-11Â0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
-11∏0	m:sN m:sN m:sG m:sDA m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11Ê	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11Ê0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-11Á	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11Á0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-11Ë	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11Ë0	m:sN m:sN m:sG m:sDL m:sA m:sI m:pN m:pGA m:pD m:pI m:pL
-11È	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11È0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-11Í	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11Í0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11Î	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11Î0	m:sN m:sN m:sG m:sDA m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11Ï	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-11Ï0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-11Ì	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11Ì0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11Ó	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11Ó0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11Ô	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11Ô0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-110	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11Ò	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11Ò0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11Ú	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11Ú0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11Û	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11Û0	m:sN m:sN m:sG m:sDL m:sA m:sI m:pN m:pGA m:pD m:pI m:pL
-11Ù	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11Ù0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11ı	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ı0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11ˆ	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˆ0	m:sN m:sN m:sG m:sDL m:sA m:sI m:pN m:pGA m:pD m:pI m:pL
-11˜	m:sN m:sN m:sG m:sDA m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11˜0	m:sN m:sN m:sG m:sDL m:sA m:sI m:pNA m:pG m:pD m:pI m:pL
-11¯	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11¯0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11˘	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11˘0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11˙	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11˙0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11˚	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11˚0	m:sN m:sN m:sGL m:sDA m:sI m:sI m:pN m:pGA m:pD m:pI m:pL
-11¸	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11¸0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11˝	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pG n:pD n:pI n:pL
-11˝0	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI m:pN m:pD m:pI m:pL
-11˛	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pG n:pD n:pI n:pL
-11˛0	c:sN c:sN c:sGDL c:sA c:sI c:sI c:pN c:pGA c:pD c:pI c:pL
-11ˇ	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-11ˇ0	c:sN c:sN c:sGDL c:sA c:sI c:sI c:pN c:pGA c:pD c:pI c:pL
-11ˇ‡	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-11ˇ‡0	m:sN m:sN m:sGA m:sDL m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11ˇ·	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pG n:pD n:pI n:pL
-11ˇ·0	m:sN m:sN m:sG m:sDAL m:sI m:sI m:pN m:pG m:pD m:pI m:pL
-11ˇ‚	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-11ˇ‚0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11ˇ„	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-11ˇ„0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11ˇ‰	n:sN n:sNGA n:sDL n:sI n:pNA n:pNA n:pG n:pD n:pI n:pI n:pL
-11ˇ‰0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
-11ˇÂ	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pNA n:pG n:pD n:pI n:pL
-11ˇ∏	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-11ˇÂ0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
-11ˇ∏0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-11ˇÊ	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-11ˇÊ0	c:sN c:sN c:sGDL c:sA c:sI c:sI c:pN c:pGA c:pD c:pI c:pL
-11ˇÁ	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-11ˇÁ0	n:sN n:sNA n:sG n:sD n:sI n:sL n:pN n:pGA n:pD n:pI n:pL
-11ˇË	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-11ˇÈ	m:sN m:sNA m:sG m:sDL m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˇÍ	m:sN m:sNA m:sG m:sDL m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˇÎ	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-11ˇÏ	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-11ˇÌ	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˇÓ	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
-11ˇÔ	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˇÔ0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11ˇ	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˇ0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11ˇÚ	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˇÚ0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11ˇÛ	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˇÙ	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˇÙ0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11ˇı	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˇı0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-11ˇˆ	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˇ˜	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-11ˇ¯	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pG m:pD m:pI m:pL
-11ˇ¯0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-12‡	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-12‡0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-12·	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-12·0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-12‚	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-12‚0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-12„	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-12„0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-12‰	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-12‰0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-12Â	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-12∏	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-12Â0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-12∏0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-12Ê	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-12Ê0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-12Á	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
-12Á0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
-12Ë	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
-12Ë0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-12È	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
-12È0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-12Í	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
-12Í0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-12Î	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
-12Ï	m:sN m:sNA m:sG m:sD m:sI m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-12Ï0	m:sN m:sN m:sGA m:sD m:sI m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
-12Ì	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pG m:pD m:pI m:pL
-12Ì0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pGA m:pD m:pI m:pL
-12Ó	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pG m:pD m:pI m:pL
-12Ó0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pGA m:pD m:pI m:pL
-12Ô	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pG m:pD m:pI m:pL
-12Ô0	m:sN m:sN m:sG m:sDA m:sI m:sL m:pN m:pGA m:pGA m:pD m:pI m:pL
-12	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pG n:pD n:pI n:pL
-120	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI m:pN m:pGA m:pD m:pI m:pL
-12Ò	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pG n:pD n:pI n:pL
-12Ò0	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI m:pN m:pGA m:pD m:pI m:pL
-12Ú	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pD n:pI n:pL
-12Ú0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pD f:pI f:pL
-12Û	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pD n:pI n:pL
-12Û0	m:sN m:sN m:sGDL m:sA m:sI m:sI m:pN m:pN m:pGA m:pD m:pI m:pL
-12Ù	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pD n:pI n:pL
-12Ù0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pD f:pI f:pL
-12ı	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pD n:pI n:pL
-12ı0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pN m:pGA m:pD m:pI m:pL
-12ˆ	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pD n:pI n:pL
-12ˆ0	c:sN c:sN c:sG c:sDL c:sA c:sI c:sI c:pN c:pGA c:pD c:pI c:pL
-12˜	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pD n:pI n:pL
-12˜0	n:sN n:sNA n:sNA n:sGDL n:sI n:sI n:pN n:pGA n:pD n:pI n:pI n:pL
-12¯	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI m:pNA m:pG m:pD m:pI m:pL
-12˘	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pNA m:pG m:pD m:pI m:pL
-12˙	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pNA m:pG m:pD m:pI m:pL
-12˚	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
-12¸	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pD n:pI n:pL
-13‡	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
-13‡0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-13·	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
-13·0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-13‚	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
-13‚0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pN m:pN m:pGA m:pD m:pI m:pL
-13„	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
-13„0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pN m:pGA m:pGA m:pD m:pI m:pL
-13‰	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pG f:pD f:pD f:pI f:pI f:pL f:pL
-13‰0	m:sN m:sN m:sGDL m:sA m:sI m:sI m:pN m:pN m:pGA m:pGA m:pD m:pI m:pL
-13Â	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pG f:pD f:pI f:pL
-13∏	m:sN m:sN m:sG m:sD m:sA m:sI m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
-13Â0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pGA f:pD f:pI f:pL
-13∏0	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI m:pN m:pN m:pGA m:pD m:pI m:pL
-13Ê	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pG n:pG n:pD n:pI n:pL
-13Ê0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pD f:pI f:pL
-13Á	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pD n:pI n:pL
-13Á0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pGA f:pD f:pI f:pL
-13Ë	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pD n:pI n:pL
-13Ë0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
-13È	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pG f:pD f:pI f:pL
-13Í	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
-13Î	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
-13Ï	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
-13Ì	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
-13Ì0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pD f:pI f:pL
-13Ó	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
-14‡	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pG f:pD f:pI f:pL
-14‡0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pG f:pD f:pI f:pL
-14·	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pI f:pL
-14·0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pGA f:pD f:pI f:pL
-14‚	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pG f:pD f:pI f:pL
-14‚0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pGA f:pD f:pI f:pL
-14„	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pG n:pD n:pI n:pL
-14„0	c:sN c:sN c:sG c:sDL c:sA c:sI c:sI c:pN c:pN c:pGA c:pGA c:pD c:pI c:pL
+1–∞	0:pNGDAIL
+2–∞	m:sNGDAIL m:pNGDAIL
+2–±	f:sNGDAIL f:pNGDAIL
+2–≤	n:sNGDAIL n:pNGDAIL
+2–≥	c:sNGDAIL c:pNGDAIL
+4–∞	f:sN f:sNA f:sGDL f:sI
+4–∞0	n:sN n:sNA n:sGDL n:sI
+4–±	f:sN f:sNA f:sGDL f:sI
+4–±0	n:sN n:sNA n:sGDL n:sI
+4–≤	f:sN f:sNA f:sGDL f:sI
+4–≥	f:sN f:sNA f:sGDL f:sI
+4–¥	m:sN m:sNA m:sGDL m:sI
+4–µ	m:sN m:sNA m:sGDL m:sI
+4–∂	n:sN n:sNGA n:sDL n:sI
+4–∑	n:sN n:sNA n:sGDL n:sI
+5subst_–∞	n:sN n:sNA n:sG n:sD n:sIL
+5subst_–±	0:pN 0:pNA 0:pGL 0:pD 0:pI
+5subst_–±0	0:pN 0:pN 0:pGAL 0:pD 0:pI
+5subst_–≤	m:sN m:sN m:sGA m:sD m:sIL
+5subst_–≤0	m:sN m:sN m:sGA m:sD m:sIL
+5–∞	f:sN f:sNGA f:sD f:sI f:sL
+5–±	f:sN f:sNA f:sGDL f:sGDL f:sI
+5–≤	f:sN f:sNA f:sGDL f:sI f:sI
+5–≥	m:sN m:sNA m:sGD m:sI m:sL
+5–¥	m:sN m:sNA m:sGD m:sI m:sL
+5–µ	m:sN m:sNA m:sGD m:sI m:sL
+5–∂	m:sN m:sNA m:sGD m:sI m:sL
+5–∑	m:sN m:sNA m:sGD m:sI m:sL
+5–∏	m:sN m:sNA m:sG m:sDL m:sI
+5–∫	m:sN m:sNA m:sG m:sDL m:sI
+5–ª	m:sN m:sNA m:sGD m:sI m:sL
+5–º0	m:sN m:sN m:sG m:sDAL m:sI
+5–Ω0	m:sN m:sN m:sGA m:sDL m:sI
+5–æ0	m:sN m:sN m:sGDL m:sA m:sI
+5–ø	n:sN n:sNGA n:sD n:sI n:sL
+5—Ä	n:sN n:sNGA n:sD n:sI n:sL
+5—Å	n:sN n:sNGA n:sD n:sI n:sL
+5—Ç	n:sN n:sNA n:sG n:sDL n:sI
+5—É	m:sN m:sNA m:sGDL m:sI m:sL
+6subst_–∞	f:sN f:sN f:sGDIL f:sA f:sI f:sI
+6subst_–±	f:sN f:sN f:sGDIL f:sA f:sI f:sI
+6–∞	f:sN f:sN f:sGDL f:sA f:sI f:sI
+6–±	f:sN f:sN f:sGDL f:sA f:sI f:sI
+6–≤	f:sN f:sN f:sGDL f:sA f:sI f:sI
+6–≥	f:sN f:sN f:sGDL f:sA f:sI f:sI
+6–¥	f:sN f:sNA f:sGDL f:sI f:sI f:sI
+6–µ	m:sN m:sNA m:sG m:sD m:sI m:sL
+6–µ0	m:sN m:sN m:sGA m:sD m:sI m:sL
+6–∂	m:sN m:sNA m:sG m:sD m:sI m:sL
+6–∑	m:sN m:sNA m:sG m:sD m:sI m:sL
+6–∏	m:sN m:sNA m:sG m:sD m:sI m:sL
+6–∫	m:sN m:sNA m:sG m:sD m:sI m:sL
+6–ª	m:sN m:sNA m:sG m:sD m:sI m:sL
+6–º	n:sN n:sNA n:sG n:sD n:sI n:sL
+6–Ω	n:sN n:sNA n:sG n:sD n:sI n:sL
+6–æ	n:sN n:sNA n:sG n:sD n:sI n:sL
+6–ø	n:sN n:sNA n:sG n:sD n:sI n:sL
+6—Ä	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
+6—Ä'	m:pN m:pNA m:pG m:pD m:pI m:pL
+6—Å	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
+6—Ç	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
+6—É	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
+6—Ñ	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
+6—Ö	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
+6—Ü	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
+6—á	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pL
+6—à	0:pN 0:pN 0:pGA 0:pD 0:pI 0:pL
+6—â	0:pN 0:pN 0:pGA 0:pD 0:pI 0:pL
+6—ä	0:pN 0:pN 0:pGA 0:pD 0:pI 0:pL
+6—ã	0:pN 0:pN 0:pGA 0:pD 0:pI 0:pL
+6—å	c:sN c:sN c:sGDL c:sA c:sI c:sI
+6—ç	c:sN c:sN c:sGDL c:sA c:sI c:sI
+6—é	m:sN m:sNA m:sGD m:sI m:sL m:sL
+6—è0	m:sN m:sNA m:sG m:sD m:sI m:sL
+7–∞	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
+7–±	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
+7–≤	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
+7–≥	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
+7–¥	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
+7–µ	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
+7–∂	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI
+7–∑	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI
+7–∏	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI
+7–∫	m:sN m:sNA m:sG m:sD m:sI m:sI m:sL
+7–ª	0:pN 0:pNA 0:pG 0:pG 0:pD 0:pI 0:pL
+7–º	0:pN 0:pNA 0:pG 0:pG 0:pD 0:pI 0:pL
+7–Ω	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pI 0:pL
+7–æ	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pI 0:pL
+8–∞	0:pN 0:pNA 0:pG 0:pD 0:pI 0:pI 0:pI 0:pL
+9subst_–∞0	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
+9subst_–±	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
+9subst_–π	f:sN f:sN f:sGDIL f:sA f:sI f:pNA f:pGL f:pD f:pI
+9subst_–π0	f:sN f:sN f:sGDIL f:sA f:sI f:pN f:pGAL f:pD f:pI
+9subst_–æ0	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
+9subst_–ø0	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
+9subst_—Ä0	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
+9subst_—Å0	m:sN m:sN m:sGA m:sD m:sIL m:pN m:pGAL m:pD m:pI
+9subst_—á	n:sN n:sNA n:sG n:sD n:sIL n:pNA n:pGL n:pD n:pI
+9subst_—à0	n:sN n:sNA n:sG n:sD n:sIL n:pN n:pGAL n:pD n:pI
+9subst_—â	n:sN n:sNA n:sG n:sD n:sIL n:pNA n:pGL n:pD n:pI
+9subst_—ä0	n:sN n:sNA n:sG n:sD n:sIL n:pN n:pGAL n:pD n:pI
+9subst_—ã	n:sN n:sNA n:sG n:sD n:sIL n:pNA n:pGL n:pD n:pI
+9subst_—å	f:sN f:sN f:sGDIL f:sA f:sI f:pNA f:pGL f:pD f:pI
+9subst_—å0	f:sN f:sN f:sGDIL f:sA f:sI f:pN f:pGAL f:pD f:pI
+9subst_—ç	f:sN f:sN f:sGDIL f:sA f:sI f:pNA f:pGL f:pD f:pI
+9subst_—ç0	f:sN f:sN f:sGDIL f:sA f:sI f:pN f:pGAL f:pD f:pI
+9subst_—é	f:sN f:sN f:sGDIL f:sA f:sI f:pNA f:pGL f:pD f:pI
+9subst_—é0	f:sN f:sN f:sGDIL f:sA f:sI f:pN f:pGAL f:pD f:pI
+9subst_—è	f:sN f:sN f:sGDIL f:sA f:sI f:pNA f:pGL f:pD f:pI
+9subst_—è0	f:sN f:sN f:sGDIL f:sA f:sI f:pN f:pGAL f:pD f:pI
+9–∞	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pD f:pI f:pL
+9–±	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pD f:pI f:pL
+9–≤0	f:sN f:sNA f:sGDL f:sI f:pN f:pGA f:pD f:pI f:pL
+9–≥0	f:sN f:sNA f:sGDL f:sI f:pN f:pGA f:pD f:pI f:pL
+9–¥	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pD f:pI f:pL
+9–µ	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pD f:pI f:pL
+9–∂0	f:sN f:sNA f:sGDL f:sI f:pN f:pGA f:pD f:pI f:pL
+9–∑	m:sN m:sNA m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
+9–∏	m:sN m:sNA m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
+9–∫	m:sN m:sNA m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
+9–ª	m:sN m:sNA m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
+9–º0	m:sN m:sNGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+9–Ω0	m:sN m:sNGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+9—Ç	n:sN n:sNGA n:sDL n:sI n:pNA n:pG n:pD n:pI n:pL
+9—É	n:sN n:sNGA n:sDL n:sI n:pNA n:pG n:pD n:pI n:pL
+9—Ñ	n:sN n:sNGA n:sDL n:sI n:pNA n:pG n:pD n:pI n:pL
+9—Ö0	n:sN n:sNGA n:sDL n:sI n:pN n:pGA n:pD n:pI n:pL
+9—Ü0	n:sN n:sNA n:sGDL n:sI n:pN n:pGA n:pD n:pI n:pL
+10–∞	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
+10–±	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
+10–≤	f:sN f:sNA f:sGDL f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+10–≥	f:sN f:sN f:sGDL f:sA f:sI f:pNA f:pG f:pD f:pI f:pL
+10–≥0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–¥	f:sN f:sN f:sGDL f:sA f:sI f:pNA f:pG f:pD f:pI f:pL
+10–¥0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–µ	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
+10—ë	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
+10–µ0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—ë0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–∂	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
+10–∂0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–∑	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
+10–∑0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–∏	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
+10–∏0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–π	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
+10–π0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–∫	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
+10–∫0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–ª	m:sN m:sN m:sG m:sDAL m:sI m:pNA m:pG m:pD m:pI m:pL
+10–ª0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–º	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10–º0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–Ω	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10–Ω0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–æ	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10–æ0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10–ø	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10–ø0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—Ä	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10—Ä0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—Å	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10—Ç	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10—Ç0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—É	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10—É0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—Ñ	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10—Ñ0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—Ö	m:sN m:sNA m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10—Ö0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—Ü	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—á	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—à	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—â	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+10—â0	n:sN n:sNA n:sG n:sDL n:sI n:pN n:pGA n:pD n:pI n:pL
+10—ä	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+10—ã	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+10—å	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+10—å0	n:sN n:sNGA n:sD n:sI n:sL n:pN n:pGA n:pD n:pI n:pL
+10—ç	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+10—é	n:sN n:sNA n:sG n:sDL n:sI n:pNA n:pG n:pD n:pI n:pL
+10—é0	n:sN n:sNA n:sNA n:sGDL n:sI n:pN n:pGA n:pD n:pI n:pL
+10—è	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+10—è0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—è–∞	m:sN m:sNA m:sGDL m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10—è–∞0	f:sN f:sNA f:sGDL f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+10—è–±	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+10—è–±0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pD m:pI m:pL
+10—è–≤	m:sN m:sNA m:sG m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
+10—è–≥	m:sN m:sNA m:sG m:sGDL m:sI m:pNA m:pG m:pD m:pI m:pL
+10—è–¥	m:sN m:sNA m:sGDL m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10—è–µ	n:sN n:sNGA n:sDL n:sI n:pNA n:pG n:pG n:pD n:pI n:pL
+10—è—ë	m:sN m:sNA m:sGDL m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+10—è–∂	n:sN n:sNA n:sGDL n:sI n:pNA n:pG n:pG n:pD n:pI n:pL
+10—è–∑	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pD m:pI m:pL
+10—è–∏	n:sN n:sNGA n:sDL n:sI n:pNA n:pNA n:pG n:pD n:pI n:pL
+11–∞	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–∞0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+11–±	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–±0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
+11–≤	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–≤0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
+11–≥	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–≥0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
+11–¥	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–¥0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+11–µ	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pD f:pI f:pL
+11—ë	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pD f:pI f:pL
+11–µ0	m:sN m:sN m:sGA m:sDL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
+11—ë0	m:sN m:sN m:sG m:sDA m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11–∂	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–∂0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+11–∑	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–∑0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+11–∏	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–∏0	m:sN m:sN m:sG m:sDL m:sA m:sI m:pN m:pGA m:pD m:pI m:pL
+11–π	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–π0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+11–∫	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–∫0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11–ª	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–ª0	m:sN m:sN m:sG m:sDA m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11–º	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+11–º0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+11–Ω	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11–Ω0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11–æ	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11–æ0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11–ø	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11–ø0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—Ä	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—Ä0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—Å	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—Å0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—Ç	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—Ç0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—É	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—É0	m:sN m:sN m:sG m:sDL m:sA m:sI m:pN m:pGA m:pD m:pI m:pL
+11—Ñ	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—Ñ0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—Ö	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—Ö0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—Ü	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—Ü0	m:sN m:sN m:sG m:sDL m:sA m:sI m:pN m:pGA m:pD m:pI m:pL
+11—á	m:sN m:sN m:sG m:sDA m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—á0	m:sN m:sN m:sG m:sDL m:sA m:sI m:pNA m:pG m:pD m:pI m:pL
+11—à	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—à0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—â	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—â0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—ä	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—ä0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—ã	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—ã0	m:sN m:sN m:sGL m:sDA m:sI m:sI m:pN m:pGA m:pD m:pI m:pL
+11—å	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—å0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—ç	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pG n:pD n:pI n:pL
+11—ç0	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI m:pN m:pD m:pI m:pL
+11—é	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pG n:pD n:pI n:pL
+11—é0	c:sN c:sN c:sGDL c:sA c:sI c:sI c:pN c:pGA c:pD c:pI c:pL
+11—è	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+11—è0	c:sN c:sN c:sGDL c:sA c:sI c:sI c:pN c:pGA c:pD c:pI c:pL
+11—è–∞	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+11—è–∞0	m:sN m:sN m:sGA m:sDL m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—è–±	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pG n:pG n:pD n:pI n:pL
+11—è–±0	m:sN m:sN m:sG m:sDAL m:sI m:sI m:pN m:pG m:pD m:pI m:pL
+11—è–≤	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+11—è–≤0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—è–≥	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+11—è–≥0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—è–¥	n:sN n:sNGA n:sDL n:sI n:pNA n:pNA n:pG n:pD n:pI n:pI n:pL
+11—è–¥0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
+11—è–µ	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pNA n:pG n:pD n:pI n:pL
+11—è—ë	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+11—è–µ0	m:sN m:sN m:sG m:sDAL m:sI m:pN m:pGA m:pGA m:pD m:pI m:pL
+11—è—ë0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+11—è–∂	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+11—è–∂0	c:sN c:sN c:sGDL c:sA c:sI c:sI c:pN c:pGA c:pD c:pI c:pL
+11—è–∑	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+11—è–∑0	n:sN n:sNA n:sG n:sD n:sI n:sL n:pN n:pGA n:pD n:pI n:pL
+11—è–∏	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+11—è–π	m:sN m:sNA m:sG m:sDL m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—è–∫	m:sN m:sNA m:sG m:sDL m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—è–ª	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+11—è–º	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+11—è–Ω	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—è–æ	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pD n:pI n:pL
+11—è–ø	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—è–ø0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—è—Ä	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—è—Ä0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—è—Ç	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—è—Ç0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—è—É	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—è—Ñ	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—è—Ñ0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—è—Ö	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—è—Ö0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+11—è—Ü	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—è—á	m:sN m:sNA m:sG m:sGD m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+11—è—à	m:sN m:sNA m:sG m:sDL m:sI m:pNA m:pG m:pG m:pD m:pI m:pL
+11—è—à0	m:sN m:sN m:sGA m:sGD m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+12–∞	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+12–∞0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+12–±	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+12–±0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+12–≤	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+12–≤0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+12–≥	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+12–≥0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+12–¥	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+12–¥0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+12–µ	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+12—ë	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+12–µ0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+12—ë0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+12–∂	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+12–∂0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+12–∑	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pD f:pI f:pL
+12–∑0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pD f:pI f:pL
+12–∏	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
+12–∏0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+12–π	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
+12–π0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+12–∫	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
+12–∫0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+12–ª	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
+12–º	m:sN m:sNA m:sG m:sD m:sI m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+12–º0	m:sN m:sN m:sGA m:sD m:sI m:sI m:sL m:pN m:pGA m:pD m:pI m:pL
+12–Ω	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pG m:pD m:pI m:pL
+12–Ω0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pGA m:pD m:pI m:pL
+12–æ	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pG m:pD m:pI m:pL
+12–æ0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pGA m:pGA m:pD m:pI m:pL
+12–ø	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pG m:pG m:pD m:pI m:pL
+12–ø0	m:sN m:sN m:sG m:sDA m:sI m:sL m:pN m:pGA m:pGA m:pD m:pI m:pL
+12—Ä	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pG n:pD n:pI n:pL
+12—Ä0	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI m:pN m:pGA m:pD m:pI m:pL
+12—Å	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pG n:pD n:pI n:pL
+12—Å0	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI m:pN m:pGA m:pD m:pI m:pL
+12—Ç	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pD n:pI n:pL
+12—Ç0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pD f:pI f:pL
+12—É	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pD n:pI n:pL
+12—É0	m:sN m:sN m:sGDL m:sA m:sI m:sI m:pN m:pN m:pGA m:pD m:pI m:pL
+12—Ñ	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pD n:pI n:pL
+12—Ñ0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pD f:pI f:pL
+12—Ö	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pD n:pI n:pL
+12—Ö0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pN m:pGA m:pD m:pI m:pL
+12—Ü	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pD n:pI n:pL
+12—Ü0	c:sN c:sN c:sG c:sDL c:sA c:sI c:sI c:pN c:pGA c:pD c:pI c:pL
+12—á	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pD n:pI n:pL
+12—á0	n:sN n:sNA n:sNA n:sGDL n:sI n:sI n:pN n:pGA n:pD n:pI n:pI n:pL
+12—à	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI m:pNA m:pG m:pD m:pI m:pL
+12—â	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pNA m:pG m:pD m:pI m:pL
+12—ä	m:sN m:sNA m:sG m:sD m:sI m:sL m:pNA m:pNA m:pG m:pD m:pI m:pL
+12—ã	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
+12—å	n:sN n:sNGA n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pD n:pI n:pL
+13–∞	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
+13–∞0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+13–±	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
+13–±0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+13–≤	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
+13–≤0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pN m:pN m:pGA m:pD m:pI m:pL
+13–≥	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pG f:pG f:pD f:pI f:pL
+13–≥0	m:sN m:sN m:sGA m:sD m:sI m:sL m:pN m:pN m:pGA m:pGA m:pD m:pI m:pL
+13–¥	f:sN f:sNA f:sGDL f:sI f:pNA f:pG f:pG f:pD f:pD f:pI f:pI f:pL f:pL
+13–¥0	m:sN m:sN m:sGDL m:sA m:sI m:sI m:pN m:pN m:pGA m:pGA m:pD m:pI m:pL
+13–µ	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pG f:pD f:pI f:pL
+13—ë	m:sN m:sN m:sG m:sD m:sA m:sI m:sI m:sL m:pNA m:pG m:pD m:pI m:pL
+13–µ0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pGA f:pD f:pI f:pL
+13—ë0	m:sN m:sN m:sG m:sDL m:sA m:sI m:sI m:pN m:pN m:pGA m:pD m:pI m:pL
+13–∂	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pG n:pG n:pG n:pD n:pI n:pL
+13–∂0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pD f:pI f:pL
+13–∑	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pD n:pI n:pL
+13–∑0	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pGA f:pD f:pI f:pL
+13–∏	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pD n:pI n:pL
+13–∏0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pGA f:pGA f:pD f:pI f:pL
+13–π	f:sN f:sN f:sGDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pG f:pD f:pI f:pL
+13–∫	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
+13–ª	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
+13–º	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
+13–Ω	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
+13–Ω0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pD f:pI f:pL
+13–æ	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pL
+14–∞	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pG f:pD f:pI f:pL
+14–∞0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pG f:pD f:pI f:pL
+14–±	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pD f:pI f:pI f:pL
+14–±0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pGA f:pD f:pI f:pL
+14–≤	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pNA f:pNA f:pG f:pG f:pD f:pI f:pL
+14–≤0	f:sN f:sN f:sG f:sDL f:sA f:sI f:sI f:pN f:pN f:pGA f:pGA f:pD f:pI f:pL
+14–≥	n:sN n:sNA n:sG n:sD n:sI n:sL n:pNA n:pNA n:pG n:pG n:pG n:pD n:pI n:pL
+14–≥0	c:sN c:sN c:sG c:sDL c:sA c:sI c:sI c:pN c:pN c:pGA c:pGA c:pD c:pI c:pL
